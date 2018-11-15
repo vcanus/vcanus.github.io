@@ -7,13 +7,13 @@ VCANUS is the company to develop brilliant softwares. The name of VCANUS is borr
 We are developing our product and solution with technologies listed as below.
 
 ### CAD/CAM
-#### Machining
-#### Computer Graphics
+ - Machining
+ - Computer Graphics
 
 ### Data Analysis
-#### Statistics
-#### Supervised/Unsupervised Learning
-#### Time Series Analysis
+ - Statistics
+ - Supervised/Unsupervised Learning
+ - Time Series Analysis
 
 ## Contact
 email to : admin.vcanu@gmail.com
