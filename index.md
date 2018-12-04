@@ -17,8 +17,8 @@ VCANUS is the company to develop high quality softwares brilliantly. The name of
  - Optimization of machining condition
 #### Consulting
 ### [Education]
-#### Virtual learning environment
- - Interactive education
+#### Virtual Learning
+ - Interactive education based on virtual environment
 
 ## Contact
 email to : admin.vcanu@gmail.com
