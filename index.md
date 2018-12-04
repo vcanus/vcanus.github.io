@@ -14,7 +14,7 @@ VCANUS is the company to develop high quality softwares brilliantly. The name of
  - Image processing
 #### Computer Aided Manufacturing (CAM)
  - Toolpath optimization
- - Optimization of achining condition
+ - Optimization of machining condition
 #### Consulting
 ### [Education]
 #### Virtual learning environment
