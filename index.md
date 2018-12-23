@@ -5,7 +5,7 @@ VCANUS is the company to develop high quality softwares brilliantly. The name of
 
 ## Production & Business Area
 
-### Industry
+### 1. Industry
 
 #### Software Solutions for a Big Data System
  - ETL with scalability
@@ -25,7 +25,7 @@ VCANUS is the company to develop high quality softwares brilliantly. The name of
  - Semi-conductor manufacturing
  - Machining process
 
-### Education
+### 2. Education
  - Smart school (interfactive class)
  - Virtual learning (VR/AR)
 
