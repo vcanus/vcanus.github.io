@@ -20,12 +20,14 @@ VCANUS is the company to develop high quality softwares brilliantly. The name of
  - Toolpath optimization
  - Optimization of machining condition
 
-#### Consulting
+#### Manufacturing Process Optimization
+ - FPD manufacturing
+ - Semi-conductor manufacturing
+ - Machining process
 
 ### Education
-
-#### Virtual Learning
- - Interactive education based on virtual environment
+ - Smart school (interfactive class)
+ - Virtual learning (VR/AR)
 
 ## Contact
-email to : admin.vcanu@gmail.com
+email to : info@vcanus.com
