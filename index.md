@@ -26,7 +26,7 @@ VCANUS is the company to develop high quality softwares brilliantly. The name of
 ## 2. Education
 
 ### Smart School
- -Interfactive class
+ - Interfactive class
 
 ### Virtual Learning 
  - VR, AR based solution
