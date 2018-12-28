@@ -30,7 +30,7 @@ VCANUS is the company to develop high quality softwares brilliantly. The name of
  - Data transfer
 
 ### Virtual Learning 
- - VR, AR based solution
+ - VR / AR based solution
 
 # Contact
 email to : info@vcanus.com
