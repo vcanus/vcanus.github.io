@@ -24,10 +24,12 @@ VCANUS is the company to develop high quality softwares brilliantly. The name of
  - Machining process
 
 ## 2. Education
-### Smart School 
- - Interfactive class
+
+### Smart School
+ -Interfactive class
+
 ### Virtual Learning 
- - VR/AR based solution
+ - VR, AR based solution
 
 # Contact
 email to : info@vcanus.com
