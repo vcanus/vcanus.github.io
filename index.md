@@ -13,9 +13,13 @@ VCANUS is the company to develop high quality softwares brilliantly. The name of
 
 ## 1. Big Data System Development & Data Analysis Solution
 ### Big Data System Development
+ - ETL & Advanced Messaging Solution
+ - DB Optimization
+ - Distributed Execution for Data Analysis
 ### Edge Computing Device
-### Data Analysis Consulting
-### Data Analysis Solution
+ - Data Transfer with Various Options (High Throuput, MQTT)
+ - Flexible Embedding of Analysis Funtion
+### Data Analysis Solution & Consulting
  - Signal & Image Processing
  - Time-Series Data Analysis
  - Anomaly Detection
@@ -28,12 +32,18 @@ VCANUS is the company to develop high quality softwares brilliantly. The name of
  - Health Data Management
  - Dietry Supplement Recommendation
 ### Process & Equipment Diagnosis
+ - Modeling for Each Equipment and Parameter
+ - Comparision between Parameters
 ### Prediction & Classification Service
+ - Statistical & Machine Learning Approach
 
-### 3. Measurement & Process Optimization System for 3D Metal Printing
-### Image Processing & Pattern Classification
-### Laser Power Optimization System
-### Toolpath Generation & Control System
+## 3. 3D Metal Printing
+### Measurement & Process Optimization
+ - Image Processing & Pattern Classification
+ - Process Monitoring & Control System
+### Computer Aided Manufacturing
+ - Toolpath Generation & Process Optimization
+ - Virtual Manufacturing & Simulator
 
 # Contact
 email to : info@vcanus.com
