@@ -28,7 +28,7 @@ VCANUS is the company to develop high quality softwares brilliantly. The name of
 
 ### Edge Computing Device
 ```
- - Data Transfer with Various Options (High Throuput, MQTT)
+ - Data Transfer with Various Options
  - Flexible Embedding of User's Funtion
  - Support of Various Controllers
 ```
