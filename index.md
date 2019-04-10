@@ -1,36 +1,39 @@
 # Introduction
 VCANUS is the company to develop high quality softwares brilliantly. The name of VCANUS is borrowed from "Volcanus" that is the Latin name of "Vulcan". Vulcan is the god of fire and can be depicted with the blacksmith's hammer. We aim for people's better life by making useful and helpful software solutions like fire and blacksmith's production.
 
-# Production & Business Area
-
-## 1. Industry
-
-### Software Solutions for a Big Data System
- - ETL with scalability
- - Distributed system
-
-### Data Analysis
- - Statistics / Machine Learning
- - Time Series Data Analysis
- - Image processing
-
-### Computer Aided Manufacturing (CAM)
- - Toolpath optimization
- - Optimization of machining condition
-
-### Manufacturing Process Optimization
+# Background
+## 1. B2B - Industry
  - FPD manufacturing
  - Semi-conductor manufacturing
  - Machining process
+## 2. B2C
+ - Health & Beuty Care
 
-## 2. Education
+# Production & Business Area
 
-### Smart School
- - Interfactive class
- - Data transfer
+## 1. Big Data System Development & Data Analysis Solution
+### Big Data System Development
+### Edge Computing Device
+### Data Analysis Consulting
+### Data Analysis Solution
+ - Signal & Image Processing
+ - Time-Series Data Analysis
+ - Anomaly Detection
+ - Trend Prediction
+ - Classification & Recommendation
+ 
+## 2. Mobile & Web Application based Data Analysis
+### Medication Management Service
+ - Device & Application
+ - Health Data Management
+ - Dietry Supplement Recommendation
+### Process & Equipment Diagnosis
+### Prediction & Classification Service
 
-### Virtual Learning 
- - VR / AR based solution
+### 3. Measurement & Process Optimization System for 3D Metal Printing
+### Image Processing & Pattern Classification
+### Laser Power Optimization System
+### Toolpath Generation & Control System
 
 # Contact
 email to : info@vcanus.com
