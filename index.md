@@ -44,7 +44,7 @@ VCANUS is the company to develop high quality softwares brilliantly. The name of
 
 ## 2. Mobile & Web Application
 
-### Medication Management Service
+### Medication Management
 ```
  - Device & Application
  - Health Data Management
@@ -55,11 +55,6 @@ VCANUS is the company to develop high quality softwares brilliantly. The name of
 ```
  - Modeling for Each Equipment and Parameter
  - Comparision between Parameters
-```
-
-### Prediction & Classification Service
-```
- - Statistical & Machine Learning Approach
 ```
 
 ## 3. 3D Metal Printing
