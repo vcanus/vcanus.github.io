@@ -21,7 +21,7 @@ VCANUS is the company to develop high quality softwares brilliantly. The name of
 
 ### Big Data System Development
 ```
- - ETL & Advanced Messaging Solution
+ - ETL & Messaging Transfer
  - DB Optimization
  - Distributed System for Data Analysis
 ```
