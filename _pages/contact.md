@@ -4,7 +4,7 @@ permalink: /contact/
 title: 
 ---
 
-Welcome VCANUS
+Welcome to VCANUS
 
 ## Email
 info@vcanus.com
