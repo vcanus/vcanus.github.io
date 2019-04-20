@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
  - title: "Introduction"
    url: /introduction/
- - title: "Product & Business Area"
+ - title: "Product"
    url: /product/
  - title: "Contact"
    url: /contact/

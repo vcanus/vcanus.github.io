@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /contact/
-title: Contact
+<!-- title: Contact -->
 ---
 ## E-mail
 info@vcanus.com
