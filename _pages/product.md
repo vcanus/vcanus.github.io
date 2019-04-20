@@ -4,6 +4,8 @@ permalink: /product/
 title: 
 ---
 
+We aim for people's better life.
+
 ## Edge Computing Device
 ### Model
 ```
