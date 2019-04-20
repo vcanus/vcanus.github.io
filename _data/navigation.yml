@@ -14,5 +14,7 @@ main:
    url: /introduction/
  - title: "Product"
    url: /product/
+ - title: "Solution"
+   url: /solution/
  - title: "Contact"
    url: /contact/
