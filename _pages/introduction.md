@@ -4,18 +4,38 @@ permalink: /introduction/
 title: Introduction
 ---
 
-VCANUS is the company to develop high quality softwares brilliantly. The name of VCANUS is borrowed from "Volcanus" that is the Latin name of "Vulcan". Vulcan is the god of fire and can be depicted with the blacksmith's hammer. We aim for people's better life by making useful and helpful software solutions like fire and blacksmith's production.
+VCANUS is the company with strong growth potential. The name of VCANUS is borrowed from "Volcanus" that is the Latin name of "Vulcan". Vulcan is the god of fire and can be depicted with the blacksmith's hammer. We aim for people's better life by making useful and helpful solutions like fire and blacksmith's production.
 
-## Background
+## Vision
+```
+Trusted company with the best technology
+```
 
-### 1. B2B - Industry
+## Actions
+```
+ - Agile
+ - Communicative
+ - Technology Confident
+```
+
+### Values
+```
+ - People
+ - Customer
+ - Technology
+```
+
+## Business Area
+
+### 1. B2B - Manufacturing Industry
 ```
  - FPD manufacturing
  - Semi-conductor manufacturing
  - Machining process
+ - 3D Metal Manufacturing
 ```
 
 ### 2. B2C
 ```
- - Health & Beuty Care
+ - Medication Device
 ```
