@@ -1,8 +1,8 @@
 ---
 layout: archive
 permalink: /product/
+title: Production & Business Area
 ---
-# Production & Business Area
 
 ## 1. Big Data & Data Analysis Solution
 

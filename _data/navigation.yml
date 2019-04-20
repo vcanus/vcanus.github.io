@@ -10,8 +10,8 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
- - title: "VCANUS"
-   url: /vcanus/
+ - title: "Introduction"
+   url: /introduction/
  - title: "Product & Business Area"
    url: /product/
  - title: "Contact"

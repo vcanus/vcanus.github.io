@@ -1,8 +1,9 @@
 ---
 layout: archive
-permalink: /vcanus/
+permalink: /introduction/
+title: Introduction
 ---
-# Introduction
+
 VCANUS is the company to develop high quality softwares brilliantly. The name of VCANUS is borrowed from "Volcanus" that is the Latin name of "Vulcan". Vulcan is the god of fire and can be depicted with the blacksmith's hammer. We aim for people's better life by making useful and helpful software solutions like fire and blacksmith's production.
 
 ## Background
