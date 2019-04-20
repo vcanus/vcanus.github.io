@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /solution/
-<!-- title: solution -->
+title: 
 ---
 Data Innovator for Smart Industry
 

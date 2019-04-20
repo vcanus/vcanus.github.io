@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /product/
-<!-- title: products -->
+title: 
 ---
 
 ## Edge Computing Device
