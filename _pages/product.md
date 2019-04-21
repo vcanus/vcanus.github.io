@@ -19,9 +19,6 @@ We aim for people's better life.
  - Support of Various Controllers
 ```
 
-## Medication Device
-preparing
-
 ## CAM Software for 3D Metal Printing
 ### Key Features
 ```
@@ -29,4 +26,6 @@ preparing
  - Toolpath Generation for Additive Machining
  - Virtual Simulation
 ```
+## Medication Device
+preparing
 

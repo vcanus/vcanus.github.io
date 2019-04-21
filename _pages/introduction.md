@@ -18,7 +18,7 @@ Trusted company with the best technology
  - Technology Confident
 ```
 
-### Values
+## Values
 ```
  - People
  - Customer
@@ -31,8 +31,9 @@ Trusted company with the best technology
 ```
  - FPD manufacturing
  - Semi-conductor manufacturing
- - Machining process
+ - Printed Electronics
  - 3D Metal Manufacturing
+ - Machining process
 ```
 
 ### 2. B2C
