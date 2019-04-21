@@ -1,14 +1,16 @@
 ---
-title: "Patent for medication system"
+title: "Plan for medication system"
 data: 2019-01-01 00:00:00 -0000
-categories: product
+categories: news 
 tags: medication 
 ---
 
 # Requirement
 
 ## Hardware
-
+IoT device
 
 ## Software
-
+WAS
+App
+IoT
