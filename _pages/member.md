@@ -11,14 +11,12 @@ Trust is the glue of life. It's the most essential ingredient in effective commu
 ### SG Lee
  - CEO
  - Ph.D, KAIST
- - Worked at Samsung Electronics
  - Expert in Data Analysis and Architecture
  - Strong Background in Manufacturing System 
 
 ### Jinho Kim
  - Director
  - BS, Postech
- - Worked at Samsung Electronics
  - Expert in Big Data and Micro Services
 
 ### Bongchul Kang
