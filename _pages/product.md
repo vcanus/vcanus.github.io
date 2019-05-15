@@ -65,6 +65,6 @@ preparing...
 ### 3) Inks
 We can provide customized inks that depends on process condition and situation.
 
-## 3. Medication Device
+## 4. Medication Device
 preparing...
 
