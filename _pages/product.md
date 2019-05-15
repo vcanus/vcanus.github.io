@@ -6,43 +6,46 @@ title:
 
 We aim for people's better life.
 
-## Edge Computing Device & Software Solution
-### For General-Purpose
+## 1. Edge Computing Device & Software Solution
+### 1) For General-Purpose
 ```
  - MiniV
  - EdgeV
 ```
-#### Key Features (Common)
+### Key Features (Common)
 ```
  - Data Transfer with Various Options
  - Flexible Embedding of User's Funtion
  - Support of Various Controllers
 ```
 
-### For Anomaly Detection and Diagnosis
+### 2) For Anomaly Detection and Diagnosis
 ```
  - AccuraV
 ```
 
-#### Key Features
+### Key Features
 ```
  - Common Features
  - Realtime Model Update
  - Machine Learning Algorithm for Anomaly Detection
 ```
 
-### For Metal Cutting
+### 3) For Metal Cutting
 ```
  - MTGuard
 ```
 
-#### Key Features
+### Key Features
 ```
  - Common Feature
  - Utilization of Virtual Machining 
 ```
 
-## CAM Software for 3D Metal Printing
+### 4) For Smart Farm
+preparing...
+
+## 2. CAM Software for 3D Metal Printing
 ### Key Features
 ```
  - Toolpath Generation for 5-axis Machining
@@ -50,6 +53,6 @@ We aim for people's better life.
  - Virtual Simulation
 ```
 
-## Medication Device
-preparing
+## 3. Medication Device
+preparing...
 
