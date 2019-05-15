@@ -14,15 +14,16 @@ Trusted company with better technology
 ## Actions
 ```
  - Agile
- - Communicative
- - Technology Confident
+ - Positive
+ - Passionate 
+ - Collaborative
 ```
 
 ## Values
 ```
- - People
  - Customer
- - Technology
+ - Integrity
+ - Improvement
 ```
 
 ## Business Area
