@@ -10,31 +10,31 @@ We aim for people's better life.
 ### 1) For General-Purpose
 ```
  - Model 
-    * MiniV
-    * EdgeV
+    + MiniV
+    + EdgeV
  - Key Features (Common)
-    * Data Transfer with Various Options
-    * Flexible Embedding of User's Funtion
-    * Support of Various Controllers
+    + Data Transfer with Various Options
+    + Flexible Embedding of User's Funtion
+    + Support of Various Controllers
 ```
 
 ### 2) For Anomaly Detection and Diagnosis
 ```
  - Model
-    * AccuraV
+    + AccuraV
  - Key Features
-    * Common Features
-    * Realtime Model Update
-    * Machine Learning Algorithm for Anomaly Detection
+    + Common Features
+    + Realtime Model Update
+    + Machine Learning Algorithm for Anomaly Detection
 ```
 
 ### 3) For Metal Cutting
 ```
  - Model
-    * MTGuard
+    + MTGuard
  - Key Features
-    * Common Feature
-    * Utilization of Virtual Machining 
+    + Common Feature
+    + Utilization of Virtual Machining 
 ```
 
 ### 4) For Smart Farm
@@ -47,6 +47,23 @@ preparing...
  - Toolpath Generation for Additive Machining
  - Virtual Simulation
 ```
+
+## 3. Laser-based Patterning System
+### 1) Laser and Optic Module
+```
+ - Laser Source and Custom Optics for Customer's Requirement
+ - Minimum Spot Size : 1um
+```
+
+### 2) Control and Optimization Software 
+```
+ - Toolpath Generation for Effective Patterning
+ - Process Monitoring with Vision System
+ - Process Optimization based on Data Analysis
+```
+
+### 3) Inks
+We can provide the best inks for your products.
 
 ## 3. Medication Device
 preparing...

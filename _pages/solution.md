@@ -5,14 +5,14 @@ title:
 ---
 Data Innovator for Smart Industry
 
-### Big Data System Development
+## 1. Big Data System Development
 ```
  - ETL & Messaging Transfer
  - DB Optimization
  - Distributed System for Data Analysis
 ```
 
-### Data Analysis Solution & Consulting
+## 2. Data Analysis Solution & Consulting
 ```
  - Signal & Image Processing
  - Time-Series Data Analysis
@@ -21,7 +21,7 @@ Data Innovator for Smart Industry
  - Classification & Recommendation
 ```
 
-### Printed Electronics
+## 3. Printed Electronics Solution & Consulting
 We can provide the best solution to manufacture your products.
 ```
  - Laser-based Growth Sintering
