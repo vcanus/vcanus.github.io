@@ -6,12 +6,12 @@ title:
 
 VCANUS is the company with strong growth potential. The name of VCANUS is borrowed from "Volcanus" that is the Latin name of "Vulcan". Vulcan is the god of fire and can be depicted with the blacksmith's hammer. We aim for people's better life by making useful and helpful solutions like fire and blacksmith's production.
 
-## Vision
+## 1. Vision
 ```
 Trusted company with better technology
 ```
 
-## Actions
+## 2. Actions
 ```
  - Agile
  - Positive
@@ -19,16 +19,16 @@ Trusted company with better technology
  - Collaborative
 ```
 
-## Values
+## 3. Values
 ```
  - Customer
  - Integrity
  - Improvement
 ```
 
-## Business Area
+## 4. Business Area
 
-### 1. B2B - Manufacturing Industry
+### 1) B2B - Manufacturing Industry
 ```
  - FPD manufacturing
  - Semi-conductor manufacturing
@@ -37,7 +37,7 @@ Trusted company with better technology
  - Machining process
 ```
 
-### 2. B2C
+### 2) B2C
 ```
  - Medication Device
 ```
