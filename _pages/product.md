@@ -6,40 +6,35 @@ title:
 
 We aim for people's better life.
 
-## 1. Edge Computing Device & Software Solution
+## 1. Edge Computing Device & Software
 ### 1) For General-Purpose
 ```
- - MiniV
- - EdgeV
-```
-### Key Features (Common)
-```
- - Data Transfer with Various Options
- - Flexible Embedding of User's Funtion
- - Support of Various Controllers
+ - Model 
+    * MiniV
+    * EdgeV
+ - Key Features (Common)
+    * Data Transfer with Various Options
+    * Flexible Embedding of User's Funtion
+    * Support of Various Controllers
 ```
 
 ### 2) For Anomaly Detection and Diagnosis
 ```
- - AccuraV
-```
-
-### Key Features
-```
- - Common Features
- - Realtime Model Update
- - Machine Learning Algorithm for Anomaly Detection
+ - Model
+    * AccuraV
+ - Key Features
+    * Common Features
+    * Realtime Model Update
+    * Machine Learning Algorithm for Anomaly Detection
 ```
 
 ### 3) For Metal Cutting
 ```
- - MTGuard
-```
-
-### Key Features
-```
- - Common Feature
- - Utilization of Virtual Machining 
+ - Model
+    * MTGuard
+ - Key Features
+    * Common Feature
+    * Utilization of Virtual Machining 
 ```
 
 ### 4) For Smart Farm

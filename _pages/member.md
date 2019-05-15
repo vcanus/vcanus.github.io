@@ -4,6 +4,8 @@ permalink: /member/
 title: 
 ---
 
+Trust is the glue of life. It's the most essential ingredient in effective communication. It's the foundational principle that holds all relationships. - Stephen R. Covey
+
 ## Board Member
 
 ### SG Lee
