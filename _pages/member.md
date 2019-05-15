@@ -18,6 +18,7 @@ Trust is the glue of life. It's the most essential ingredient in effective commu
  - Director
  - BS, Postech
  - Expert in Big Data and Micro Services
+ - Technology Research in Germany
 
 ### Bongchul Kang
  - Consultant
