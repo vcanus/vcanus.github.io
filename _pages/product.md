@@ -63,7 +63,7 @@ preparing...
 ```
 
 ### 3) Inks
-We can provide the best inks for your products.
+We can provide customized inks that depends on process condition and situation.
 
 ## 3. Medication Device
 preparing...
