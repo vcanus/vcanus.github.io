@@ -24,6 +24,6 @@ Trust is the glue of life. It's the most essential ingredient in effective commu
 ### Bongchul Kang
  - Consulting Committee
  - Ph.D in KAIST
- - Kookmin University
+ - Professor in Kookmin University
  - Printed Electronics
 
