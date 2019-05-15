@@ -21,3 +21,10 @@ Data Innovator for Smart Industry
  - Classification & Recommendation
 ```
 
+### Printed Electronics
+We can provide the best solution to manufacture your products.
+```
+ - Laser-based Growth Sintering
+ - Patents and Know-how for Laser-based Patterning
+ - Process Data Analysis and Optimzation
+```

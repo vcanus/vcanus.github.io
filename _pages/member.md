@@ -4,8 +4,6 @@ permalink: /member/
 title: 
 ---
 
-We are proud of all members.
-
 ## Board Member
 
 ### SG Lee
@@ -22,7 +20,7 @@ We are proud of all members.
  - Big Data
 
 ### Bongchul Kang
- - Consultant
+ - Consulting Committee
  - Ph.D in KAIST
  - Kookmin University
  - Printed Electronics
