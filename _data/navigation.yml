@@ -12,10 +12,8 @@ main:
   #   url: /sitemap/
  - title: "Introduction"
    url: /introduction/
-<!--
- - title: "Member"
-   url: /member/
--->
+# - title: "Member"
+#   url: /member/
  - title: "Product"
    url: /product/
  - title: "Solution"
