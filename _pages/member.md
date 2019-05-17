@@ -11,18 +11,18 @@ Trust is the glue of life. It's the most essential ingredient in effective commu
 ### SG Lee
  - CEO
  - Ph.D, KAIST
- - Expert in Data Analysis and Architecture
+ - Expertise in Data Analysis and Architecture
  - Strong Background in Manufacturing System 
 
 ### Jinho Kim
  - Director
  - BS, Postech
- - Expert in Big Data and Micro Services
- - Technology Research in Germany
+ - Expertise in Big Data and Micro Services
+ - Technology Research and Testing in Germany
 
 ### Bongchul Kang
  - Consultant
  - Ph.D, KAIST
  - Professor at Kookmin University
- - Expert int Laser-based Printed Electronics
+ - Expertise in Laser-based Printed Electronics
 
