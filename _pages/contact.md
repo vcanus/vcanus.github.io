@@ -14,7 +14,7 @@ We are seeking developers who love to code.
 ## Address
 <!-- -->
 ### HQ
-Sungnamdaero 345 #407, Bundang-gu, Sungname, Korea 
+Sungnamdaero 345 #407, Bundang-gu, Sungnam, Korea 
 ### R&D 
 Pangyoyeok-ro Samwhan HipexB #408, Bundang-gu, Sungnam, Korea
 
