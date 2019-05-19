@@ -23,7 +23,7 @@ Trusted company with better technology
 ```
  - Customer
  - Integrity
- - Improvement
+ - Innovation
 ```
 
 ## 4. Business Area
