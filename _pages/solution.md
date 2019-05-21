@@ -28,6 +28,7 @@ VCANUS is collaborating with Applied Laser Technology Lab. at the University of 
  - Patents and Know-how for Patterning
  - Process Data Analysis and Optimzation
 ```
+<!--
 ![image](https://user-images.githubusercontent.com/33934527/57792252-82293e80-7779-11e9-9cfb-94e78fd245bf.png)
 ![image](https://user-images.githubusercontent.com/33934527/57764349-360cd880-773e-11e9-94a3-a124c2d4068a.png)
-
+-->
