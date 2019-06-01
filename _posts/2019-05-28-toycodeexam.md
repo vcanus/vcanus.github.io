@@ -9,7 +9,7 @@ tags: pattern matching
 <iframe width="559" height="315" src="https://www.youtube.com/embed/Hf_YySQltoc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 -->
 
-<iframe width="559" height="315" src="https://youtube.com/Zl5cSXs89jU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="559" height="315" src="https://www.youtube.com/watch?v=Zl5cSXs89jU&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. Register & train right eye images
 2. Match images
