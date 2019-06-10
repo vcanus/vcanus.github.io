@@ -6,7 +6,8 @@ title:
 
 We aim for people's better life.
 
-## 1. Edge Computing Device & Software
+## 1. Edge Computing Device & Software (will be relased in 2020)
+<!--
 ### 1) For General-Purpose
 ```
  - Model 
@@ -39,6 +40,7 @@ We aim for people's better life.
 
 ### 4) For Smart Farm
 preparing...
+-->
 
 ## 2. CAM Software for 3D Metal Printing
 ### Key Features
