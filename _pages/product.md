@@ -8,6 +8,7 @@ We aim for people's better life.
 
 ## 1. Edge Computing Device & Software 
 (will be relased in 2020)
+
 <!--
 ### 1) For General-Purpose
 ```
