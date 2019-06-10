@@ -6,45 +6,7 @@ title:
 
 We aim for people's better life.
 
-## 1. Edge Computing Device & Software 
-(will be relased in 2020)
-
-<!--
-### 1) For General-Purpose
-```
- - Model 
-    + MiniV
-    + EdgeV
- - Key Features (Common)
-    + Data Transfer with Various Options
-    + Flexible Embedding of User's Funtion
-    + Support of Various Controllers
-```
-
-### 2) For Anomaly Detection and Diagnosis
-```
- - Model
-    + AccuraV
- - Key Features
-    + Common Features
-    + Realtime Model Update
-    + Machine Learning Algorithm for Anomaly Detection
-```
-
-### 3) For Metal Cutting
-```
- - Model
-    + MTGuard
- - Key Features
-    + Common Feature
-    + Utilization of Virtual Machining 
-```
-
-### 4) For Smart Farm
-preparing...
--->
-
-## 2. CAM Software for 3D Metal Printing
+## 1. CAM Software for 3D Metal Printing
 ### Key Features
 ```
  - Toolpath Generation for 5-axis Machining
@@ -52,7 +14,7 @@ preparing...
  - Virtual Simulation
 ```
 
-## 3. Laser-based Patterning System
+## 2. Laser-based Patterning System
 ### 1) Laser and Optic Module
 ```
  - Laser Source and Custom Optics for Customer's Requirement
@@ -68,6 +30,9 @@ preparing...
 
 ### 3) Inks
 We can provide customized inks that depends on process condition and situation.
+
+## 3. Edge Computing Device & Software 
+(will be relased in 2020)
 
 ## 4. Medication Device
 preparing...
