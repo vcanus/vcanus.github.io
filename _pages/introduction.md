@@ -28,16 +28,19 @@ Trusted company with better technology
 
 ## 4. Business Area
 
-### 1) B2B - Manufacturing Industry
+### 1) B2B - Software for Industry
+VCANUS provides products and solutions to increase productivity.
+#### Industy Field
 ```
- - FPD manufacturing
- - Semi-conductor manufacturing
+ - FPD/Semi-conductor Manufacturing
  - Printed Electronics
- - 3D Metal Manufacturing
- - Machining process
+ - 3D Metal Printing
+ - Machining
+ - Energy
 ```
 
-### 2) B2C
+### 2) B2C - Web/Mobile Application
 ```
- - Medication Device
+ - Medication Device & Software
+ - Education Software
 ```

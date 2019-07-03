@@ -7,7 +7,8 @@ Data Innovator for Smart Industry
 
 ## 1. Big Data System Development
 ```
- - ETL & Messaging Transfer
+ - Data Monitoring
+ - ETL & Message Transfer
  - DB Optimization
  - Distributed System for Data Analysis
 ```
