@@ -14,7 +14,16 @@ We aim for people's better life.
  - Virtual Simulation
 ```
 
-## 2. Laser-based Patterning System
+## 2. Vision Software for Picking Robot
+### Key Feature
+```
+ - Image Registration
+ - Pattern Matching
+ - Object Recognition & Classification
+ - Synchronization with Robots
+```
+
+## 3. Laser-based Patterning System
 ### 1) Laser and Optic Module
 ```
  - Laser Source and Custom Optics for Customer's Requirement
@@ -31,9 +40,9 @@ We aim for people's better life.
 ### 3) Inks
 We can provide customized inks that depends on process condition and situation.
 
-## 3. Edge Computing Device & Software 
+## 4. Edge Computing Device & Software 
 (will be relased in 2020)
 
-## 4. Education Application
+## 5. Education Application
 preparing...
 
