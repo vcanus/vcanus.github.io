@@ -31,16 +31,9 @@ We aim for people's better life.
 ### 3) Inks
 We can provide customized inks that depends on process condition and situation.
 
-## 3. Time-series Data Integration System
-Developing...
-```
- - Data ETL
- - Data Analysis Platform
-```
-
-## 4. Edge Computing Device & Software 
+## 3. Edge Computing Device & Software 
 (will be relased in 2020)
 
-## 5. Medication Device
+## 4. Education Application
 preparing...
 
