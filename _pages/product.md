@@ -11,7 +11,7 @@ We aim for people's better life.
 ```
  - Toolpath Generation for 5-axis Machining
  - Toolpath Generation for Additive Machining
- - Virtual Simulation
+ - Virtual Simulation (Digital Twin)
 ```
 
 ## 2. Vision Software for Picking Robot
