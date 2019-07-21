@@ -9,7 +9,7 @@ We are seeking developers who love to code.
 
  - Phone : +82-31-698-3517
  - Fax : +82-31-698-3518
- - Email : info@vcanus.com
+ - Email : info@vcanus.co.kr
 
 ## Address
 <!-- -->
