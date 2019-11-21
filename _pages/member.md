@@ -11,7 +11,7 @@ Trust is the glue of life. It's the most essential ingredient in effective commu
 ### SG Lee
  - CEO
  - Ph.D, KAIST
- - Expertise in Data Analysis and Architecture
+ - Expertise in Data Analysis and SW Architecture
  - Strong Background in Manufacturing System 
 
 ### Jinho Kim

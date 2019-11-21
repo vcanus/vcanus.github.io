@@ -26,10 +26,14 @@ Data Innovator for Smart Industry
 VCANUS is collaborating with Applied Laser Technology Lab. at the University of Kookmin. We can provide the best solution to manufacture your products.
 ```
  - Laser-based Sintering
- - Patents and Know-how for Patterning
- - Process Data Analysis and Optimzation
+ - Optical Design and Analysis
+ - Process Optimzation based on Data Analysis
 ```
+
 ![vcanus_laser_patterning](https://user-images.githubusercontent.com/44759045/61097248-83cf6400-a495-11e9-9296-16b9d62f6652.jpg)
+
+![optical design & analysis](https://user-images.githubusercontent.com/44759045/69300844-bebd8180-0c57-11ea-920c-cbc79ab7b2a7.png)
+
 
 <!--
 ![image](https://user-images.githubusercontent.com/33934527/57792252-82293e80-7779-11e9-9cfb-94e78fd245bf.png)
