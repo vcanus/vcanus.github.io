@@ -30,8 +30,9 @@ VCANUS is collaborating with Applied Laser Technology Lab. at the University of 
  - Process Optimzation based on Data Analysis
 ```
 
-![vcanus_laser_patterning](https://user-images.githubusercontent.com/44759045/61097248-83cf6400-a495-11e9-9296-16b9d62f6652.jpg)
+<!--![vcanus_laser_patterning](https://user-images.githubusercontent.com/44759045/61097248-83cf6400-a495-11e9-9296-16b9d62f6652.jpg)-->
 
+![laser patterning](https://user-images.githubusercontent.com/44759045/69303343-f03a4b00-0c5f-11ea-8ac2-7c360a4d9b08.png)
 ![optical design & analysis](https://user-images.githubusercontent.com/44759045/69300844-bebd8180-0c57-11ea-920c-cbc79ab7b2a7.png)
 
 
