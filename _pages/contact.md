@@ -5,7 +5,7 @@ title:
 ---
 
 Welcome to VCANUS.
-We are seeking developers who love to code.
+We are seeking for developers who love programming.
 
  - Phone : +82-31-698-3517
  - Fax : +82-31-698-3518
