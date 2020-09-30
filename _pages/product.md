@@ -13,18 +13,18 @@ We aim for people's better life.
 ```
  - Low Latency for Data Transfer
  - Time-series DB Supported
- - Summary Statistics Data Read/Write with VCANUS's Measurement Data Solution
+ - Summary Statistics Read/Write
 ```
 #### Compatibility
 ```
- - Supported Field Bus: OPC-UA, Mistubishi CC-Link IE, MQTT, etc.
- - Supported CNC: Siemens, Fanuc
+ - Field Bus: OPC-UA, Mistubishi CC-Link IE, MQTT, etc.
+ - CNC Makers: Siemens, Fanuc
 ```
 #### Data Analysis
 ```
  - Analysis Processing with Chaining Architecture
  - Distributed Process Control
- - Basic Function: Domain Transform(Fourier, Wavelet), Summary Statistics, RMS, etc.
+ - Basic Function: Domain Transform, Summary Statistics, RMS, etc.
  - Basic Module: Anomaly Detection
  - User Function or Module is Supported
  - Supported Language: C++, Python
