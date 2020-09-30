@@ -73,6 +73,7 @@ We aim for people's better life.
  - Toolpath Generation for 5-axis Additive Manufacturing
  - Virtual Simulation
 ```
+![image](https://user-images.githubusercontent.com/44759045/94678230-2012ae80-0359-11eb-89e9-3b3b198e1107.png)
 
 ## 4. Laser Control System for 3D Metal Printing
 ### Key Feature
