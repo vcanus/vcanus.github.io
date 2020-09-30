@@ -30,7 +30,7 @@ Trusted company with better technology
 
 ### 1) B2B - Software for Industry
 VCANUS provides products and solutions to increase productivity.
-#### Big Data System & Data Analysis Solution
+#### Big Data & Data Analysis Solution
 ```
  - Big Data & Ecosystem
  - Edge Computing & Analytics Platform
