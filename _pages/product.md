@@ -31,7 +31,7 @@ We aim for people's better life.
 ```
 #### Visualization
 ```
- - Network-based RT Chart: 10K/sec x N-Channel
+ - Network-based RT Chart: 10K/sec x N-Channels
  - Web-based Chart
 ```
 #### Applications
@@ -41,7 +41,7 @@ We aim for people's better life.
  - Special Function: RT Timer is supported (Linux only)
 ```
 
-## 2. 3D Scanning System with PC-based Robot Control
+## 2. 3D Scanning System with Robot Control
 ### Key Features
 #### Robot & 3D Scanner Control
 ```
