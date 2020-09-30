@@ -30,17 +30,23 @@ Trusted company with better technology
 
 ### 1) B2B - Software for Industry
 VCANUS provides products and solutions to increase productivity.
-#### Industy Field
+#### Big Data System & Data Analysis Solution
 ```
- - FPD/Semi-conductor Manufacturing
- - Printed Electronics
- - 3D Metal Printing
- - Machining
- - Energy
+ - Big Data & Ecosystem
+ - Edge Computing & Analytics Platform
+ - Data Analysis Solution & Consulting
 ```
-
+#### Virtual Manufacturing & Process Optimization
+```
+ - Computer Aided Manufacturing
+ - 3D Measurement & Data Analysis
+ - Digital Twin & Process Optimization
+```
+#### Laser-based Patterning
+```
+ - Laser Filament Growth Sintering
+```
 ### 2) B2C - Web/Mobile Application
 ```
- - Medication Device & Software
- - Education Software
+ - R&D Stage
 ```
