@@ -41,14 +41,40 @@ We aim for people's better life.
  - Special Function: RT Timer is supported (Linux only)
 ```
 
-## 2. CAM Software for 3D Metal Printing
+## 2. 3D Scanning System with PC-based Robot Control
+### Key Features
+#### Robot & 3D Scanner Control
+```
+ - PC-based Robot Control
+ - API Servers for Scanner Control
+ - Data & Event Transfer with EcoSystem
+ - PLC is supported
+```
+#### Measurement Data Management
+```
+ - Script-based Measurement DB Management
+ - Performance Up with VCANUS's DB Solution
+```
+#### Visualization & HMI
+```
+ - 3D Visualization
+ - Winform-based HMI
+ - Web-based UI
+```
+#### Robot Teaching with VR Solution
+```
+ - Motion Teaching with VR Sensor
+ - Virtual Simulation & Collision Detection
+```
+
+## 3. CAM Software for 3D Metal Printing
 ### Key Features
 ```
  - Toolpath Generation for 5-axis Additive Manufacturing
  - Virtual Simulation
 ```
 
-## 3. Laser Control System for 3D Metal Printing
+## 4. Laser Control System for 3D Metal Printing
 ### Key Feature
 ```
  - Optic & Vision System
