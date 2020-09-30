@@ -28,7 +28,7 @@ Trusted company with better technology
 
 ## 4. Business Area
 
-### 1) B2B - Software for Industry
+### 1) B2B - Software for Manufacturing Industry
 VCANUS provides products and solutions to increase productivity.
 #### Big Data & Data Analysis Solution
 ```
