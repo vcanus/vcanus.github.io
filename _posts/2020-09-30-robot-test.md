@@ -5,6 +5,6 @@ categories: development
 tags: 6-axis robot simulator vr teaching
 ---
 
-<iframe width="559" height="315" src="https://youtu.be/embed/Qv9jmb0s3aY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="559" height="315" src="https://youtube.com/embed/Qv9jmb0s3aY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 PC-based 6-axis robot control and visualization
