@@ -10,13 +10,15 @@ Trust is the glue of life. It's the most essential ingredient in effective commu
 
 ### SG Lee
  - CEO
- - Ph.D, KAIST
  - Expertise in Data Analysis and SW Architecture
  - Strong Background in Manufacturing System 
 
+### DH Kim
+ - Director
+ - Experties in Software Development
+
 ### Jinho Kim
  - Director
- - MS, Postech
  - Expertise in Big Data and Micro Services
 <!-- - Technology Research and Testing in Germany -->
 
@@ -27,12 +29,9 @@ Trust is the glue of life. It's the most essential ingredient in effective commu
  - Expertise in Laser-based Printed Electronics
 
 ## Brilliant Developers
-### BG Kim
-### David
-### SH Park
-### DivNa
+### MinGyu
+### YooGyung
+### SoHyun
+### SooHyun
+### TaeHwa
 
-## VIP
-### YR Shin
-### Jjangchan
-### DH Kim
