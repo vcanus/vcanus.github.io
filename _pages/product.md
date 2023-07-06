@@ -20,13 +20,13 @@ We aim for people's better life.
  - Supported CNC Makers: Siemens, Fanuc
  - Supported DAQ Vendors: Adlink, NI, Advantech
 ```
-### High Performance
+#### High Performance
 ```
  - High Speed Data Transfer with Low Latency
  - Web-based Real-Time Monitoring (10KHz x 16ch)
  - Real-Time Anomaly Detection
 ```
-### Visualization
+#### Visualization
 ```
  - Dashboard-based Page Management
  - Real-Time Chart (Line, Gauge, FFT, Spectogram, etc.)
