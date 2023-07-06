@@ -12,6 +12,9 @@ We aim for people's better life.
  - Data Collection, ETL, and Visualization
  - Real-Time Monitoring & Diagnosis of Sensor Data
 ```
+![image](https://github.com/vcanus/vcanus.github.io/assets/33934527/4ef0e1be-8406-4eaa-b455-a7a047ea461e)
+![image](https://github.com/vcanus/vcanus.github.io/assets/33934527/6e29174f-aee4-444e-b1ac-3267357f383d)
+
 
 ### Key Features
 #### High Connectivity 
@@ -50,6 +53,7 @@ We aim for people's better life.
  - Supported Language: C++, Python
 ```
 #### Applications
+![image](https://github.com/vcanus/vcanus.github.io/assets/33934527/81d76629-750b-490b-b46a-8332fc588a31)
 ##### Anormaly Detection of Manufacturing Equipment
 ```
  - CNC Machining
@@ -63,7 +67,8 @@ We aim for people's better life.
 ```
  - Measurement and Inspection of 3D Objects
  - Make Scanning Easier with Robot
-``` 
+```
+![image](https://github.com/vcanus/vcanus.github.io/assets/33934527/5beb18ad-f209-4e79-b035-6a4d60b236ed)
 ### Key Features
 #### [Support GOM Scanners](https://www.gom.com/)
 ```
