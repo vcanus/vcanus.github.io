@@ -12,8 +12,7 @@ We aim for people's better life.
  - Data Collection, ETL, and Visualization
  - Real-Time Monitoring & Diagnosis of Sensor Data
 ```
-![image](https://github.com/vcanus/vcanus.github.io/assets/33934527/4ef0e1be-8406-4eaa-b455-a7a047ea461e)
-![image](https://github.com/vcanus/vcanus.github.io/assets/33934527/6e29174f-aee4-444e-b1ac-3267357f383d)
+![image](https://github.com/vcanus/vcanus.github.io/assets/33934527/f9cc1e1e-8370-4f04-b45f-f9d88aa89a58)
 
 
 ### Key Features
