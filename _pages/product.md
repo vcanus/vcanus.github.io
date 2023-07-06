@@ -4,8 +4,6 @@ permalink: /product/
 title: 
 ---
 
-We aim for people's better life.
-
 ## 1. TSLoom
 ### Introduction & Purpose
 ```
