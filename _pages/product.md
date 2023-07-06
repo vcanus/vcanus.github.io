@@ -69,7 +69,7 @@ We aim for people's better life.
 ```
 ![image](https://github.com/vcanus/vcanus.github.io/assets/33934527/5beb18ad-f209-4e79-b035-6a4d60b236ed)
 ### Key Features
-#### [Support GOM Scanners](https://www.gom.com/)
+#### [Support GOM Scanners](https://www.gom.com/){:target="_blank"}
 ```
  - Large Volume
  - High Speed & High Precision
