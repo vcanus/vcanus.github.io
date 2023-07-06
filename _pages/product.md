@@ -52,12 +52,12 @@ We aim for people's better life.
  - Supported Language: C++, Python
 ```
 #### Applications
-![image](https://github.com/vcanus/vcanus.github.io/assets/33934527/81d76629-750b-490b-b46a-8332fc588a31)
 ##### Anormaly Detection of Manufacturing Equipment
 ```
  - CNC Machining
  - FPD/Semiconductor Equipment
 ```
+![image](https://github.com/vcanus/vcanus.github.io/assets/33934527/81d76629-750b-490b-b46a-8332fc588a31)
 ##### Anormaly Detection of Server Status
 
 
