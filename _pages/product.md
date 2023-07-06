@@ -6,81 +6,111 @@ title:
 
 We aim for people's better life.
 
-## 1. Edge Computing Solution 
+## 1. TSLoom
+### Introduction & Purpose
+```
+ - Data Collection, ETL, and Visualization
+ - Real-Time Monitoring & Diagnosis of Sensor Data
+```
 
 ### Key Features
-#### Data Aquisition & ETL
+#### High Connectivity 
 ```
- - Low Latency for Data Transfer
- - Time-series DB Supported
- - Summary Statistics Read/Write
+ - Supported Field Bus: OPC-UA, Mistubishi CC-Link IE, MQTT, etc.
+ - Supported CNC Makers: Siemens, Fanuc
+ - Supported DAQ Vendors: Adlink, NI, Advantech
 ```
-#### Compatibility
+### High Performance
 ```
- - Field Bus: OPC-UA, Mistubishi CC-Link IE, MQTT, etc.
- - CNC Makers: Siemens, Fanuc
+ - High Speed Data Transfer with Low Latency
+ - Web-based Real-Time Monitoring (10KHz x 16ch)
+ - Real-Time Anomaly Detection
 ```
-#### Data Analysis
+### Visualization
 ```
- - Analysis Processing with Chaining Architecture
- - Distributed Process Control
- - Basic Function: Domain Transform, Summary Statistics, RMS, etc.
- - Basic Module: Anomaly Detection
- - User Function or Module is Supported
+ - Dashboard-based Page Management
+ - Real-Time Chart (Line, Gauge, FFT, Spectogram, etc.)
+ - DB Search with Time, Events and Recipes
+```
+#### Anormaly Detection
+##### Statistical Model
+```
+ - Control Limit based Detection
+ - Custom Function Support
+ - Easy but Special Algorithm is embedded
+```
+##### Frequency-based Model
+```
+ - Abnormal Frequency Detection
+ - Fast and Conventional Method
+```
+##### Training-based Model
+```
+ - Use of Machine Learning Model
  - Supported Language: C++, Python
 ```
-#### Visualization
-```
- - Network-based RT Chart: 10K/sec x N-Channels
- - Web-based Chart
-```
 #### Applications
+##### Anormaly Detection of Manufacturing Equipment
 ```
- - Verified Vendors: Adlink MCM-Series, NI DAQ
- - High Frequency Data Acquisition, Realtime ETL, and Visualization
- - Special Function: RT Timer is supported (Linux only)
+ - CNC Machining
+ - FPD/Semiconductor Equipment
+```
+##### Anormaly Detection of Server Status
+
+
+## 2. RoboScan 
+### Introduction & Purpose
+```
+ - Measurement and Inspection of 3D Objects
+ - Make Scanning Easier with Robot
+``` 
+### Key Features
+#### [Support GOM Scanners](https://www.gom.com/)
+```
+ - Large Volume
+ - High Speed & High Precision
+ - Smaill & Compact
+```
+#### Easy Teaching
+```
+ - Virtual Teaching with Mouse & Keyboard
+ - Edit of Teaching Points
+ - Direct Teaching with Collaborative Robots
+```
+#### Digital Twin & Real-Time Monitoring
+```
+ - Real-Time Monitoring of Robot Motion
+ - CAD Data Visualization
+```
+#### Simulation & Collision Check
+```
+ - 3D Simulation and Verification of Teaching Path
+ - Collision Detection between a Scanner and Objects
 ```
 
-## 2. 3D Scanning System with Robot Control
-### Key Features
-#### Robot & 3D Scanner Control
-```
- - PC-based Robot Control
- - API Servers for Scanner Control
- - Data & Event Transfer with EcoSystem
- - PLC is supported
-```
 #### Measurement Data Management
 ```
- - Script-based Measurement DB Management
- - Performance Up with VCANUS's DB Solution
-```
-#### Visualization & HMI
-```
- - 3D Visualization
- - Winform-based HMI
- - Web-based UI
-```
-#### Robot Teaching with VR Solution
-```
- - Motion Teaching with VR Sensor
- - Virtual Simulation & Collision Detection
+ - Data Save & Search & Charting
+ - Support Statistical Process Control
+ - Data Analysis
 ```
 
-## 3. CAM Software for 3D Metal Printing
+## 3. CA2M
+### Introduction & Purpose
+```
+ - CAM Software for 3D Metal Printing
+ - Path Generation for Printing Motion
+```
+
 ### Key Features
 ```
- - Toolpath Generation for 5-axis Additive Manufacturing
+ - Object Editing
+ - Various Pattern Generation (Oneway, Zigzag, Profile, Surface, Offset, etc.)
  - Virtual Simulation
+ - G-Code Generation
 ```
 ![image](https://user-images.githubusercontent.com/44759045/94678230-2012ae80-0359-11eb-89e9-3b3b198e1107.png)
 
-## 4. Laser Control System for 3D Metal Printing
-### Key Feature
-```
- - Optic & Vision System
- - Laser Power Control System
- - Error Compensation Map
-```
+
 
 
