@@ -56,11 +56,4 @@ VCANUS provides products and solutions to increase productivity.
 ```
 ### 2) For Daily Life
 in preparation
-<!--
-#### AI-based Payment System
-```
- - AI-based object detection
- - Quick payment with camera and kiosk
-```
-#### Customized and Personalized Beauty 
--->
+
