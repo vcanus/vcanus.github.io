@@ -4,7 +4,7 @@ permalink: /member/
 title: 
 ---
 
-Motto : Let's Enjoy Life with Belief, Passion and Trust.
+Let's Enjoy Life with Belief, Passion and Trust.
 
 Trust is the glue of life. It's the most essential ingredient in effective communication. It's the foundational principle that holds all relationships. - Stephen R. Covey
 
