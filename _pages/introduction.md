@@ -15,7 +15,7 @@ VCANUS is the company with strong growth potential. The name of VCANUS is borrow
 ```
  - World best company in intelligent manufacturing field. 
  - Specialty in data analysis of time-series, images, and 3D data.
- - Success in various business with intelligent specialty.
+ - Success in various business with specialty.
 ```
 
 ## Actions
