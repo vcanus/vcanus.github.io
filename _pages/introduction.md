@@ -16,13 +16,6 @@ VCANUS is the company to provide bridge solutions between the pysical and virutl
  - Ideas to reality with software technology
 ```
 
-## Missions
-```
- - Intelligent manufacturing specialist about semi-conductor, display, automotive, etc.
- - Data processing and analysis specialist about time-series, image, 3D data, etc.
- - Software specialist can make things efficiently
-```
-
 ## Actions
 ```
  - Agile
