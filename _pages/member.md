@@ -8,6 +8,13 @@ Let's Enjoy Life with Belief, Passion and Trust.
 
 Trust is the glue of life. It's the most essential ingredient in effective communication. It's the foundational principle that holds all relationships. - Stephen R. Covey
 
+## Missions
+```
+ - Intelligent manufacturing specialist about semi-conductor, display, automotive, etc.
+ - Data processing and analysis specialist about time-series, image, 3D data, etc.
+ - Specialist can make things efficiently
+```
+
 ## Board Members
 
 ### SG Lee
