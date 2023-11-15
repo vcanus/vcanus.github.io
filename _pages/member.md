@@ -10,9 +10,11 @@ Trust is the glue of life. It's the most essential ingredient in effective commu
 
 ## Missions
 ```
- - Intelligent manufacturing specialist about semi-conductor, display, automotive, etc.
- - Data processing and analysis specialist about time-series, image, 3D data, etc.
- - Specialist can make things efficiently
+ - Specialist who can make things efficiently
+ - Programming specialist
+ - Data specialist
+ - Analytics specialist
+ - Manufacturing specialist
 ```
 
 ## Board Members
