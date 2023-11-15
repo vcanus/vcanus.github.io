@@ -1,5 +1,5 @@
 ---
 layout: archive
-permalink: /recruit/
+permalink: /careers/
 title: 
 ---
