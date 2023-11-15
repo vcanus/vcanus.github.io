@@ -14,6 +14,7 @@ VCANUS is the company to provide bridge solutions between the pysical and virutl
 ## Objective
 ```
  - Ideas to reality with software technology
+ - Data Innovator
 ```
 
 ## Actions
