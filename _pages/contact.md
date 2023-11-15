@@ -13,11 +13,11 @@ We are seeking for developers who love programming.
 
 ## Address 
 ### HQ, R&D
-RoadlandEZ #603, Sungnamdaero69, Bundang-gu, Sungnam, 13636, Korea
+RoadlandEZ #603, Sungnamdaero 69, Bundang-gu, Sungnam, 13636, Korea
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3172.0185788265217!2d127.10601915100473!3d37.34206884460961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b59ea40e221d1%3A0x9fa1811e8aaa2edf!2z66Gc65Oc656c65OcRVrtg4Dsm4w!5e0!3m2!1sen!2skr!4v1583554124965!5m2!1sen!2skr" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 ### Soowon Lab
-AceSmartWing #514, Yeongtong-gu, Suwon, 16521, Korea
+AceSmartWing #514, Samsungro 263 Yeongtong-gu, Suwon, 16521, Korea
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3175.262899480269!2d127.05888897713115!3d37.265192472118045!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b455e4f66a745%3A0x14fe3e8f54a7a2d7!2z7JeQ7J207Iqk7Iqk66eI7Yq47JyZIOyYge2GtSDsp4Dsi53sgrDsl4XshLzthLA!5e0!3m2!1sen!2skr!4v1700014490566!5m2!1sen!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Yeongnam R&D
