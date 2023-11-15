@@ -18,5 +18,7 @@ main:
    url: /product/
  - title: "Solution"
    url: /solution/
+ - title: "Careers"
+   url: /careers/
  - title: "Contact"
    url: /contact/
