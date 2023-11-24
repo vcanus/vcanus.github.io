@@ -33,7 +33,7 @@ Trust is the glue of life. It's the most essential ingredient in effective commu
 
 ### Jinho Kim
  - Director
- - MS, Postech
+ - MS, POSTECH
  - Expertise in Big Data and Micro Services
 <!-- - Technology Research and Testing in Germany -->
 
