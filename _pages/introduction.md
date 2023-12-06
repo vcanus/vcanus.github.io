@@ -8,7 +8,7 @@ VCANUS is the company to provide bridge solutions between the pysical and virutl
 
 ## Vision
 ```
- - Enrich our lives by providing bridge solutions between the physical and virtual worlds
+ - Enrich our lives by providing bridge solutions between the virtual and real worlds
 ```
 
 ## Objective
