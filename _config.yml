@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "VCANUS"
 title_separator          : "-"
 name                     : "VCANUS"
-description              : "Bridge solution between virtual and real worlds"
+description              : "Bridge solution between the virtual and real worlds"
 url                      : "https://vcanu.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Your Name"
+  name             : #"VCANUS"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"Data Innovator"
+  bio              : #"Bridging between the virtual and real worlds"
   location         : #"Sungnam, Korea"
   email            :
   links:
