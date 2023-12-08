@@ -16,19 +16,19 @@ We aim for people's better life.
 
 
 ### Key Features
-#### High Connectivity 
+#### Data Connectivity 
 ```
  - Supported Field Bus: OPC-UA, Mistubishi CC-Link IE, MQTT, etc.
  - Supported CNC Makers: Siemens, Fanuc
  - Supported DAQ Vendors: Adlink, NI, Advantech
 ```
-#### High Performance
+#### High Speed Operations
 ```
  - High Speed Data Transfer with Low Latency
  - Web-based Real-Time Monitoring (10KHz x 16ch)
  - Real-Time Anomaly Detection
 ```
-#### Visualization
+#### Advanced Visualization
 ```
  - Dashboard-based Page Management
  - Real-Time Chart (Line, Gauge, FFT, Spectogram, etc.)
