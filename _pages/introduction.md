@@ -8,13 +8,16 @@ VCANUS is the company to provide bridge solutions between the virtual and real w
 
 ## Vision
 ```
- - Enrich our lives by providing bridge solutions between the virtual and real worlds
+ - Enrich our lives
+   by providing bridge solutions
+   between the virtual and real worlds
 ```
 
 ## Objective
 ```
  - Ideas to reality with software technology
- - Data Innovator in the field of data operations and data analytics
+ - Data Innovator
+   in the field of data operations and data analytics
 ```
 
 ## Actions
