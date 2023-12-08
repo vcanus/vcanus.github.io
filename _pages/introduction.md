@@ -37,22 +37,23 @@ VCANUS is the company to provide bridge solutions between the virtual and real w
 ## Business Area
 
 ### 1) For Manufacturing Industry
-#### Big Data & Data Analysis Solution
+#### Big Data & MLOps Solutions
 ```
  - Big Data & Ecosystem
  - Edge Computing & Data Analytics Platform
- - MLOps Solution & Consulting
+ - Data Analysis Solution & Consulting
 ```
 #### Virtual Manufacturing & Process Optimization
 ```
+ - Digital Twin & Process Optimization
  - Computer Aided Manufacturing
  - 3D Measurement & Data Analysis
- - Digital Twin & Process Optimization
 ```
 #### Laser-based Patterning
 ```
- - Laser Filament Growth Sintering
- - Laser Ablation System
+ - Laser Process Optimization
+ - Real-time Control & Robot System
+ - Optimal Path & Pattern Generation
 ```
 ### 2) For Daily Life
 in preparation
