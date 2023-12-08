@@ -3,7 +3,7 @@ layout: archive
 permalink: /solution/
 title: 
 ---
-Data Innovator for Smart Industry
+Data Innovator for Intelligent Manufacturing
 
 ## 1. Big Data System Development
 ```
