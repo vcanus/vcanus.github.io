@@ -16,11 +16,12 @@ We aim for people's better life.
 
 
 ### Key Features
-#### Various Connectivity 
+#### Scalable Connectivity 
 ```
  - Supported Field Bus: OPC-UA, Mistubishi CC-Link IE, MQTT, etc.
  - Supported CNC Controllers: Siemens, Fanuc
  - Supported DAQ Vendors: Adlink, NI, Advantech
+ - VCANUS's time synchronization solution can be supported
 ```
 #### High Speed Operations
 ```
