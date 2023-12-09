@@ -8,24 +8,23 @@ We aim for people's better life.
 
 ## 1. TSLoom
 ### Introduction & Purpose
-#### MLOps of Time-series Data
 ```
  - Real-Time Monitoring of Time-series Data
- - DB Read/Write of Time-
+ - MLOps of Time-series Data
 ```
 ![image](https://github.com/vcanus/vcanus.github.io/assets/33934527/f9cc1e1e-8370-4f04-b45f-f9d88aa89a58)
 
 
 ### Key Features
-#### Data Connectivity 
+#### Various Connectivity 
 ```
  - Supported Field Bus: OPC-UA, Mistubishi CC-Link IE, MQTT, etc.
- - Supported CNC Makers: Siemens, Fanuc
+ - Supported CNC Controllers: Siemens, Fanuc
  - Supported DAQ Vendors: Adlink, NI, Advantech
 ```
 #### High Speed Operations
 ```
- - High Speed Data Transfer with Low Latency
+ - High Throughput with Low Latency
  - Web-based Real-Time Monitoring (10KHz x 16ch)
  - Real-Time Anomaly Detection
 ```
@@ -35,6 +34,8 @@ We aim for people's better life.
  - Real-Time Chart (Line, Gauge, FFT, Spectogram, etc.)
  - DB Search with Time, Events and Recipes
 ```
+#### Easy to Analyze
+
 #### Anormaly Detection
 ##### Statistical Model
 ```
