@@ -8,9 +8,10 @@ We aim for people's better life.
 
 ## 1. TSLoom
 ### Introduction & Purpose
+#### MLOps of Time-series Data
 ```
- - Data Collection, ETL, and Visualization
- - Real-Time Monitoring & Diagnosis of Sensor Data
+ - Real-Time Monitoring of Time-series Data
+ - DB Read/Write of Time-
 ```
 ![image](https://github.com/vcanus/vcanus.github.io/assets/33934527/f9cc1e1e-8370-4f04-b45f-f9d88aa89a58)
 
