@@ -9,7 +9,7 @@ We aim for people's better life.
 ## 1. TSLoom
 ### Introduction & Purpose
 ```
- - Real-Time Monitoring of Time-series Data
+ - Real-Time Monitoring and Analysys of Time-series Data
  - MLOps of Time-series Data
 ```
 ![image](https://github.com/vcanus/vcanus.github.io/assets/33934527/f9cc1e1e-8370-4f04-b45f-f9d88aa89a58)
@@ -31,10 +31,13 @@ We aim for people's better life.
 #### Advanced Visualization
 ```
  - Dashboard-based Page Management
- - Real-Time Chart (Line, Gauge, FFT, Spectogram, etc.)
+ - High-speed Real-Time Chart (Line, Gauge, FFT, Spectogram, etc.)
  - DB Search with Time, Events and Recipes
 ```
 #### Easy to Analyze
+- Visual Programming with Workflow Composition
+- Deployment and Management of Data Workflow
+- Training and Deployment Machine Learning Model
 
 #### Anormaly Detection
 ##### Statistical Model
