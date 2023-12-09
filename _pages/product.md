@@ -35,9 +35,11 @@ We aim for people's better life.
  - DB Search with Time, Events and Recipes
 ```
 #### Easy to Analyze
-- Visual Programming with Workflow Composition
-- Deployment and Management of Data Workflow
-- Training and Deployment Machine Learning Model
+```
+ - Visual Programming with Workflow Composition
+ - Deployment and Management of Data Workflow
+ - Training and Deployment Machine Learning Model
+```
 
 #### Anormaly Detection
 ##### Statistical Model
