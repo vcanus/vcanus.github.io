@@ -28,6 +28,7 @@ We aim for people's better life.
  - High throughput with low latency
  - Web-based real-time monitoring (10KHz x 32ch)
  - Real-time data analysis
+ - Distributed and scalable system
 ```
 #### Advanced Visualization
 ```
@@ -64,8 +65,8 @@ We aim for people's better life.
 #### Applications
 ##### Anormaly Detection of Manufacturing Equipment
 ```
- - CNC Machining
- - FPD/Semiconductor Equipment
+ - CNC machining
+ - FPD/Semiconductor equipment
 ```
 ![image](https://github.com/vcanus/vcanus.github.io/assets/33934527/81d76629-750b-490b-b46a-8332fc588a31)
 ##### Anormaly Detection of Server Status
@@ -74,54 +75,54 @@ We aim for people's better life.
 ## 2. RoboScan 
 ### Introduction & Purpose
 ```
- - Measurement and Inspection of 3D Objects
- - Make Scanning Easier with Robot
+ - Measurement and inspection of 3D objects
+ - Make scanning easier with robot
 ```
 ![image](https://github.com/vcanus/vcanus.github.io/assets/33934527/5beb18ad-f209-4e79-b035-6a4d60b236ed)
 ### Key Features
 #### [Support GOM Scanners](https://www.gom.com/){:target="_blank"}
 ```
- - Large Volume
- - High Speed & High Precision
- - Smaill & Compact
+ - Large volume
+ - High speed & high precision
+ - Smaill & compact
 ```
 #### Easy Teaching
 ```
- - Virtual Teaching with Mouse & Keyboard
- - Edit of Teaching Points
- - Direct Teaching with Collaborative Robots
+ - Virtual teaching with mouse & keyboard
+ - Edit of teaching points
+ - Direct teaching with collaborative robots
 ```
 #### Digital Twin & Real-Time Monitoring
 ```
- - Real-Time Monitoring of Robot Motion
- - CAD Data Visualization
+ - Real-time monitoring of robot motion
+ - CAD data visualization
 ```
 #### Simulation & Collision Check
 ```
- - 3D Simulation and Verification of Teaching Path
- - Collision Detection between a Scanner and Objects
+ - 3D simulation and verification of teaching path
+ - Collision detection between a scanner and objects
 ```
 
 #### Measurement Data Management
 ```
- - Data Save & Search & Charting
- - Support Statistical Process Control
- - Data Analysis
+ - Data save & search & charting
+ - Support statistical process control
+ - Data analysis
 ```
 
 ## 3. CA2M
 ### Introduction & Purpose
 ```
- - CAM Software for 3D Metal Printing
- - Path Generation for Printing Motion
+ - CAM software for 3D metal pPrinting
+ - Path generation for printing motion
 ```
 
 ### Key Features
 ```
- - Object Editing
- - Various Pattern Generation (Oneway, Zigzag, Profile, Surface, Offset, etc.)
- - Virtual Simulation
- - G-Code Generation
+ - Object editing
+ - Various pattern generation (Raster, Profile, Surface, Offset, etc.)
+ - Virtual simulation
+ - G-Code generation
 ```
 ![image](https://user-images.githubusercontent.com/44759045/94678230-2012ae80-0359-11eb-89e9-3b3b198e1107.png)
 
