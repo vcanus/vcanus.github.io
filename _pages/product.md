@@ -26,7 +26,7 @@ We aim for people's better life.
 #### High Speed Operations
 ```
  - High Throughput with Low Latency
- - Web-based Real-Time Monitoring (10KHz x 16ch)
+ - Web-based Real-Time Monitoring (10KHz x 32ch)
  - Real-Time Anomaly Detection
 ```
 #### Advanced Visualization
