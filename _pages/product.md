@@ -9,8 +9,8 @@ We aim for people's better life.
 ## 1. TSLoom
 ### Introduction & Purpose
 ```
- - Real-Time Monitoring and Analysys of Time-series Data
- - MLOps of Time-series Data
+ - Real-Time monitoring and analysys of time-series data
+ - MLOps of time-series data
 ```
 ![image](https://github.com/vcanus/vcanus.github.io/assets/33934527/f9cc1e1e-8370-4f04-b45f-f9d88aa89a58)
 
@@ -18,28 +18,30 @@ We aim for people's better life.
 ### Key Features
 #### Scalable Connectivity 
 ```
- - Supported Field Bus: OPC-UA, Mistubishi CC-Link IE, MQTT, etc.
- - Supported CNC Controllers: Siemens, Fanuc
- - Supported DAQ Vendors: Adlink, NI, Advantech
+ - Supported field bus: OPC-UA, Mistubishi CC-Link IE, MQTT, etc.
+ - Supported CNC controllers: Siemens, Fanuc
+ - Supported DAQ vendors: Adlink, NI, Advantech
  - VCANUS's time synchronization solution can be supported
 ```
 #### High Speed Operations
 ```
- - High Throughput with Low Latency
- - Web-based Real-Time Monitoring (10KHz x 32ch)
- - Real-Time Anomaly Detection
+ - High throughput with low latency
+ - Web-based real-time monitoring (10KHz x 32ch)
+ - Real-time data analysis
 ```
 #### Advanced Visualization
 ```
- - Dashboard-based Page Management
- - High-speed Real-Time Chart (Line, Gauge, FFT, Spectogram, etc.)
- - DB Search with Time, Events and Recipes
+ - Panel-based dashboard management
+ - Design and update of dashboard layout without build
+ - High-speed real-time chart (Line, Gauge, Spectogram, etc.)
+ - Data search by time, event and recipe
 ```
 #### Easy to Analyze
 ```
- - Visual Programming with Workflow Composition
- - Deployment and Management of Data Workflow
- - Training and Deployment Machine Learning Model
+ - Designed for RT deployment and operations
+ - Visual programming based on workflow composition
+ - Deployment and management of workflows
+ - Training and deployment of ML(Machine Learning) models
 ```
 
 #### Anormaly Detection
