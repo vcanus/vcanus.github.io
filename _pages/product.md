@@ -4,7 +4,8 @@ permalink: /product/
 title: 
 ---
 
-We aim for people's better life.
+Bridge solution between the virtual and real worlds
+
 
 ## 1. TSLoom
 ### Introduction & Purpose
