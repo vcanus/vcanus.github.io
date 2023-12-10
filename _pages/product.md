@@ -21,28 +21,32 @@ We aim for people's better life.
  - Supported field bus: OPC-UA, Mistubishi CC-Link IE, MQTT, etc.
  - Supported CNC controllers: Siemens, Fanuc
  - Supported DAQ vendors: Adlink, NI, Advantech
- - VCANUS's time synchronization solution can be supported
+ - VCANUS's time synchronization solution is optional
 ```
-#### High Speed Operations
+#### High Performance Operations
 ```
- - High throughput with low latency
- - Web-based real-time monitoring (10KHz x 32ch)
- - Real-time data analysis
- - Distributed and scalable system
+ - Data transfer-based operations
+ - High throughput and low latency
+ - Distributed and scalable executions
 ```
 #### Advanced Visualization
 ```
  - Panel-based dashboard management
- - Design and update of dashboard layout without build
- - High-speed real-time chart (Line, Gauge, Spectogram, etc.)
- - Data search by time, event and recipe
+ - High speed RT chart
+ - High speed DB search chart
 ```
 #### Easy to Analyze
 ```
- - Designed for RT deployment and operations
- - Visual programming based on workflow composition
- - Deployment and management of workflows
- - Training and deployment of ML(Machine Learning) models
+ - Workflow composition with visual programming
+ - Designed for real-time deployment and execution
+ - Workflow management
+ - ML model management
+```
+#### Extensible Configuration
+```
+ - Local server configuration
+ - Extension to cloud systems
+ - Connnection to MES
 ```
 
 #### Anormaly Detection
