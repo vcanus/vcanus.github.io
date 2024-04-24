@@ -1,6 +1,6 @@
 ---
 title: "주식회사 비카누스 설립"
-data: 2018-11-01 00:00:00 -0000
+data: 2018-11-27 00:00:00 -0000
 categories: news 
 tags: vcanus established
 ---
