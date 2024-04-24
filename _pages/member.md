@@ -49,4 +49,5 @@ Trust is the glue of life. It's the most essential ingredient in effective commu
 ### SoHyun
 ### SooHyun
 ### TaeHwa
+### SeungJoo
 
