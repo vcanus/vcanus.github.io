@@ -11,7 +11,8 @@ We are seeking for developers who love programming.
  - Fax : +82-31-719-8817
  - Email : info@vcanus.com
 
-주요 복리 후생
+
+[ 주요 복리 후생 ]
 - 성과급 지급
 - 경조사비 지원
 - 교육비 지원
@@ -20,5 +21,5 @@ We are seeking for developers who love programming.
 - 장기근속 포상
 - 대출 지원
 - 체력단련비 지원
-* 세부 내용은 경영지원부와 협의
+(세부 내용은 경영지원팀 문의)
 
