@@ -21,5 +21,5 @@ We are seeking for developers who love programming.
 - 장기근속 포상
 - 대출 지원
 - 체력단련비 지원
-(세부 내용은 경영지원팀 문의)
+- 세부 내용은 경영지원팀 문의
 
