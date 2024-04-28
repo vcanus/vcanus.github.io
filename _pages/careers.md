@@ -24,6 +24,5 @@ We are seeking for developers who love programming.
 - 출장비, 교통비 지원
 - 주차비, 유류비 지원
 - 통신비 지원
-- 대출 지원
 - 세부 내용 경영지원팀 문의
 
