@@ -1,8 +1,8 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: ""
-url: "https://jekyll-advance.netlify.app"
+baseurl: "https://github.com/vcanus/vcanus.github.io"
+url: "http://vcanus.github.io"
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
