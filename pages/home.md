@@ -8,10 +8,10 @@ meta_title: VCANUS - The company to realize intelligence
 
 hero:
   enabled: true
-  heading: "VCANUS"
+  heading: "Deep dive to fragment of reality with digital information"
   sub_heading: "VCANUS provides intelligent products and equipments based on real-time data processing, edge AI, CAD/CAM and the advanced machine control technologies."
   text_color: "#FFFFFF"
-  background_color: "#1d2830"
+  background_color: "#FFFFFF"
   background_gradient: true
   background_image: "/assets/images/gen/home/home-vcanus-large.webp"
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
