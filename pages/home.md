@@ -38,11 +38,11 @@ hero:
 
 services:
   enabled: true
-  heading: "Our Products"
+  heading: "Our Services"
   sub_heading: ""
   limit: 6
   sort: "weight" # 'date'
-  view_more_button_text: "View All Products"
+  view_more_button_text: "View All Services"
   view_more_button_link: "/services"
   prevent_click: false
 
@@ -120,3 +120,4 @@ posts:
   view_more_button_link: "/blog"
   prevent_click: false
 ---
+
