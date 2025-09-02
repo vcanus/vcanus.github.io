@@ -84,7 +84,7 @@ exclude:
 # -------------------
 # Theme Config
 # --------------------
-title: "VCANUS"
+title: "Jekyll Advance"
 category_dir: category
 
 colors:
@@ -124,7 +124,7 @@ fonts:
   logo: "Lato"
 
 logo:
-  logo_text: "VCANUS"
+  logo_text: "Jekyll Advance"
   logo_image: assets/images/logo/logo.png
   logo_image_mobile: assets/images/logo/logo-mobile.png
   logo_image_invert: assets/images/logo/logo-invert.png
@@ -138,7 +138,7 @@ logo:
   show_logo_text_on_mobile: false
   show_logo_text_on_desktop: false
 
-header: 
+header:
   fixed: true
 
 open_graph:
@@ -160,7 +160,7 @@ cookie_banner:
 analytics:
   google_analytics_id: "G-SL5FWY00S6" # G-XXXXXXXXXX
   gtm_id: "" # GTM-XXXXXXXX
-  plausible_data_domain: "vcanus.com" # example: mywebsite.com
+  plausible_data_domain: "" # example: mywebsite.com
   umami_data_website_id: "" # example: "ddd14336-5fb0-4cdd-8f32-e1bfa906cc2b"
   umami_src: "" # "https://analytics.eu.umami.is/script.js"
 
@@ -175,13 +175,13 @@ newsletter:
     form_action_url: https://zerostatic.us21.list-manage.com/subscribe/post?u=798e19886b83aaab346734382&amp;id=f1c526a772&amp;f_id=0027e3e6f0
     form_title: "Let's keep in touch"
 
-contact_form: 
+contact_form:
   use_netlify_form: true
   use_formspree_form: false
   formspree_endpoint: https://formspree.io/f/moqyklqv
   netlify_form_name: "contact"
 
-menu: 
+menu:
   show_dropdown_items_in_mobile_menu: false
   show_social_media_in_mobile_menu: true
 
@@ -194,19 +194,18 @@ footer:
   enable_menu_footer_primary: true
   enable_menu_footer_secondary: true
   enable_menu_footer_tertiary: true
-  footer_primary_menu_title: "Service"
-  footer_secondary_menu_title: "Team"
+  footer_primary_menu_title: "Product"
+  footer_secondary_menu_title: "Company"
   footer_tertiary_menu_title: "Other"
 
 bottom:
   enable_bottom: true # show/hide the entire bottom (below the footer)
   enable_bottom_menu: true # if enabled, the bottom menu can be edited in `_data/menu.yml`
-  copyright_text: "© 2018 VCANUS"
-  show_rss_icon: false
+  copyright_text: "© 2023 Zerostatic Themes"
+  show_rss_icon: true
 
 sidebar:
   enable_sidebar_services: true
   enable_breadcrumbs_services: true
   enable_sidebar_projects: false
   enable_breadcrumbs_projects: true
-
