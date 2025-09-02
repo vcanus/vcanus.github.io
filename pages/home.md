@@ -36,14 +36,14 @@ hero:
         outline: true
         style: "light"
 
-services:
+products:
   enabled: true
-  heading: "Our Services"
+  heading: "Our Products"
   sub_heading: ""
   limit: 6
   sort: "weight" # 'date'
-  view_more_button_text: "View All Services"
-  view_more_button_link: "/services"
+  view_more_button_text: "View All Products"
+  view_more_button_link: "/products"
   prevent_click: false
 
 intro:
