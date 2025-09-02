@@ -19,13 +19,13 @@ paginate_path: "/blog/page/:num"
 # Collections
 collections_dir: collections
 collections:
-  services:
+  products:
     output: true
     permalink: /:collection/:path/
-  projects:
+  solutions:
     output: true
     permalink: /:collection/:path/
-  team:
+  company:
     output: true
     permalink: /:collection/:path/
   posts:
@@ -36,19 +36,19 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: services
+      type: products
     values:
-      layout: service
+      layout: product
   - scope:
       path: ""
-      type: projects
+      type: solutions
     values:
-      layout: project
+      layout: solution
   - scope:
       path: ""
-      type: team
+      type: company
     values:
-      layout: team
+      layout: company
   - scope:
       path: ""
       type: posts
@@ -160,7 +160,7 @@ cookie_banner:
 analytics:
   google_analytics_id: "G-SL5FWY00S6" # G-XXXXXXXXXX
   gtm_id: "" # GTM-XXXXXXXX
-  plausible_data_domain: "" # example: mywebsite.com
+  plausible_data_domain: "vcanus.com" # example: mywebsite.com
   umami_data_website_id: "" # example: "ddd14336-5fb0-4cdd-8f32-e1bfa906cc2b"
   umami_src: "" # "https://analytics.eu.umami.is/script.js"
 
@@ -201,8 +201,8 @@ footer:
 bottom:
   enable_bottom: true # show/hide the entire bottom (below the footer)
   enable_bottom_menu: true # if enabled, the bottom menu can be edited in `_data/menu.yml`
-  copyright_text: "© 2023 Zerostatic Themes"
-  show_rss_icon: true
+  copyright_text: "© 2018 VCANUS"
+  show_rss_icon: false
 
 sidebar:
   enable_sidebar_services: true
