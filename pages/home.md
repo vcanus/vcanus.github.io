@@ -4,7 +4,7 @@ permalink: "/"
 title: "VCANUS"
 description: "Realizaing Intelligence"
 header_transparent: true
-meta_title: VCANUS - The company to realize intelligence
+meta_title: Jekyll Advance - Premium Jekyll Theme
 
 hero:
   enabled: true
@@ -13,7 +13,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
-  background_image: "/assets/images/gen/home/home-vcanus-large.webp"
+  background_image: "/assets/images/gen/home/home-1-large.webp"
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: false
