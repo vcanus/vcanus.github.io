@@ -13,7 +13,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
-  background_image: "/assets/images/gen/home/home-1-large.webp"
+  background_image: "/assets/images/gen/home/home-vcanus-large.webp"
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: false
@@ -36,16 +36,17 @@ hero:
         outline: true
         style: "light"
 
-services:
+projects:
   enabled: true
-  heading: "Our Services"
+  heading: "Our Projects"
   sub_heading: ""
-  limit: 6
+  limit: 2
+  columns: 2
   sort: "weight" # 'date'
-  view_more_button_text: "View All Services"
-  view_more_button_link: "/services"
+  view_more_button_text: "View All Projects"
+  view_more_button_link: "/projects"
   prevent_click: false
-
+  
 intro:
   enabled: true
   align: left
@@ -79,15 +80,14 @@ partners:
   limit: 5
   sort: "weight" # 'date'
 
-projects:
+services:
   enabled: true
-  heading: "Our Projects"
+  heading: "Our Products"
   sub_heading: ""
-  limit: 2
-  columns: 2
+  limit: 6
   sort: "weight" # 'date'
-  view_more_button_text: "View All Projects"
-  view_more_button_link: "/projects"
+  view_more_button_text: "View All Products"
+  view_more_button_link: "/services"
   prevent_click: false
 
 outro:
