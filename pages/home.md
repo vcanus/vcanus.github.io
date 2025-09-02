@@ -36,17 +36,16 @@ hero:
         outline: true
         style: "light"
 
-projects:
+services:
   enabled: true
-  heading: "Our Projects"
+  heading: "Our Products"
   sub_heading: ""
-  limit: 2
-  columns: 2
+  limit: 6
   sort: "weight" # 'date'
-  view_more_button_text: "View All Projects"
-  view_more_button_link: "/projects"
+  view_more_button_text: "View All Products"
+  view_more_button_link: "/services"
   prevent_click: false
-  
+ 
 intro:
   enabled: true
   align: left
@@ -80,14 +79,15 @@ partners:
   limit: 5
   sort: "weight" # 'date'
 
-services:
+projects:
   enabled: true
-  heading: "Our Products"
+  heading: "Our Projects"
   sub_heading: ""
-  limit: 6
+  limit: 2
+  columns: 2
   sort: "weight" # 'date'
-  view_more_button_text: "View All Products"
-  view_more_button_link: "/services"
+  view_more_button_text: "View All Projects"
+  view_more_button_link: "/projects"
   prevent_click: false
 
 outro:
