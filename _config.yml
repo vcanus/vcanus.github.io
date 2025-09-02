@@ -19,13 +19,13 @@ paginate_path: "/blog/page/:num"
 # Collections
 collections_dir: collections
 collections:
-  products:
+  services:
     output: true
     permalink: /:collection/:path/
-  solutions:
+  projects:
     output: true
     permalink: /:collection/:path/
-  company:
+  team:
     output: true
     permalink: /:collection/:path/
   posts:
@@ -36,19 +36,19 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: products
+      type: services
     values:
-      layout: product
+      layout: service
   - scope:
       path: ""
-      type: solutions
+      type: projects
     values:
-      layout: solution
+      layout: project
   - scope:
       path: ""
-      type: company
+      type: team
     values:
-      layout: company
+      layout: team
   - scope:
       path: ""
       type: posts
@@ -194,8 +194,8 @@ footer:
   enable_menu_footer_primary: true
   enable_menu_footer_secondary: true
   enable_menu_footer_tertiary: true
-  footer_primary_menu_title: "Product"
-  footer_secondary_menu_title: "Company"
+  footer_primary_menu_title: "Service"
+  footer_secondary_menu_title: "Team"
   footer_tertiary_menu_title: "Other"
 
 bottom:
