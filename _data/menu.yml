@@ -27,14 +27,14 @@ footer_primary:
   - name: Home
     url: /
     weight: 1
-  - name: Services
-    url: /services/
+  - name: Products
+    url: /products/
     weight: 2
-  - name: Projects
-    url: /projects/
+  - name: Solutions
+    url: /solutions/
     weight: 3
-  - name: Team
-    url: /team/
+  - name: Company
+    url: /company/
     weight: 4
 footer_secondary:
   - name: Blog

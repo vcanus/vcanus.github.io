@@ -1,23 +1,23 @@
 ---
 layout: list
-collection: "Solutions"
-title: Solutions
-description: "A selection of our work and projects."
-permalink: "/solutions/"
+title: "Company"
+description: "Meet our dedicated team."
+permalink: "/company/"
+date: 2018-02-12T15:37:57+07:00
 header_transparent: true
 
 hero:
   enabled: true
-  heading: "Projects"
-  sub_heading: "Our portfolio of work and projects."
+  heading: "Company"
+  sub_heading: ""
   text_color: "#FFFFFF"
-  background_color: false
+  background_color: ""
   background_gradient: true
-  background_image: "/assets/images/gen/home/home-2-large.webp"
+  background_image: false
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: false
   fullscreen_desktop: false
-  height: "500px"
+  height: "330px"
   buttons:
     enabled: false
     list:
@@ -30,9 +30,9 @@ hero:
         style: "light"
 
 grid:
-  collection: "solutions"
+  collection: "team"
   sort_by: "weight" # "date", "weight"
-  columns: 2
+  columns: 3
   prevent_click: false
 
 intro:
@@ -41,24 +41,17 @@ intro:
   image: false
   heading: "We are a full service digital agency"
   sub_heading: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget sapien in elit semper accumsan. Pellentesque accumsan ut tortor eu varius. Sed id tincidunt massa, ut egestas orci."
-  features:
-    enabled: true
-    list:
-      - text: "Some of our projects are open source"
-        fa_icon: false
   buttons:
-    enabled: true
+    enabled: false
     list:
-      - text: "View Github"
-        url: "https://github.com/zerostaticthemes"
-        external: true
-        fa_icon: "fab fa-github"
-        size: "large"
-        outline: false
-        style: "primary"
+      - text: "About Us"
+        url: "/about/"
+        external: false
+        fa_icon: false
+        size: normal
 
 outro:
-  enabled: true
+  enabled: false
   align: left
   image: false
   heading: "Ready to get started?"
@@ -70,7 +63,5 @@ outro:
         url: "/contact"
         external: false
         fa_icon: false
-        size: "normal"
-        outline: false
-        style: "primary"
+        size: normal
 ---
