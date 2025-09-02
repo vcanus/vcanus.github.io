@@ -2,18 +2,34 @@ main:
   - name: Home
     url: /
     weight: 1
-  - name: Products
-    url: /products/
+  - name: Services
+    url: /services/
     weight: 1
     child:
-      - name: "TSLoom"
-        url: /products/tsloom/
-  - name: Solutions
-    url: /solutions/
+      - name: "Web Development"
+        url: /services/web-development/
+      - name: "UX"
+        url: /services/user-experience/
+      - name: "Branding"
+        url: /services/branding/
+      - name: "Web Design"
+        url: /services/web-design/
+      - name: "SEO"
+        url: /services/seo/
+      - name: "Software Engineering"
+        url: /services/software-engineering/
+  - name: Projects
+    url: /projects/
     weight: 2
     child:
-      - name: "Robot Application"
-        url: /solutions/robot-application/
+      - name: "Book Design"
+        url: /projects/book-design/
+      - name: "Special Edition"
+        url: /projects/special-edition/
+      - name: "Master System"
+        url: /projects/master-system/
+      - name: "Clothing Range"
+        url: /projects/clothing-range/
   - name: Blog
     url: /blog/
     weight: 4
@@ -27,14 +43,14 @@ footer_primary:
   - name: Home
     url: /
     weight: 1
-  - name: Products
-    url: /products/
+  - name: Services
+    url: /services/
     weight: 2
-  - name: Solutions
-    url: /solutions/
+  - name: Projects
+    url: /projects/
     weight: 3
-  - name: Company
-    url: /company/
+  - name: Team
+    url: /team/
     weight: 4
 footer_secondary:
   - name: Blog
