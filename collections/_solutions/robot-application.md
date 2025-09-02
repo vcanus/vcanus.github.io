@@ -1,21 +1,21 @@
 ---
-title: "Clothing Range"
-description: "Business impact we need to crystallize a plan churning anomalies dogpile that it's about managing expectations."
+title: "Robot Application"
+description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units."
 date: 2018-12-20
-weight: 4
+weight: 1
 header_transparent: false
-thumbnail: "/assets/images/gen/projects/project-4-3-thumbnail.webp"
-image: "/assets/images/gen/projects/project-4-3.webp"
-client: "RGA Agency"
+thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
+image: "/assets/images/gen/projects/project-1-1.webp"
+client: "Zero Developments Pty Ltd"
 
 hero:
   enabled: true
-  heading: "Clothing Range"
-  sub_heading: "Business impact we need to crystallize a plan churning anomalies dogpile that it's about managing expectations."
-  text_color: "#FFFFFF"
+  heading: "Robot Application"
+  sub_heading: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units."
+  text_color: "#000000"
   background_color: ""
   background_gradient: false
-  background_image: "/assets/images/gen/projects/project-4-7.webp"
+  background_image: "/assets/images/gen/projects/project-1-4.webp"
   background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: false
@@ -38,7 +38,7 @@ Markdown is a lightweight markup language with plain-text-formatting syntax. Its
 
 Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 
-{% include framework/shortcodes/figure.html full=true src="/assets/images/gen/projects/project-4-2.webp" title="Affordable Housing"  caption="A concept rendering of demountable units built on site" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+{% include framework/shortcodes/figure.html full=true src="/assets/images/gen/projects/project-1-2.webp" title="Affordable Housing"  caption="A concept rendering of demountable units built on site" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
 
 ## History
 
@@ -48,7 +48,7 @@ John Gruber created the Markdown language in 2004 in collaboration with Aaron Sw
 
 To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.
 
-{% include framework/shortcodes/figure.html full=true src="/assets/images/gen/projects/project-4-3.webp" title="Affordable Housing"  caption="A concept rendering of demountable units built on site" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+{% include framework/shortcodes/figure.html full=true src="/assets/images/gen/projects/project-1-3.webp" title="Affordable Housing"  caption="A concept rendering of demountable units built on site" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
 
 ## Example
 
