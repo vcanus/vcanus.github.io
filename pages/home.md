@@ -1,15 +1,15 @@
 ---
 layout: home
 permalink: "/"
-title: "Jekyll Advance"
-description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+title: "VCANUS"
+description: "Data Innovator"
 header_transparent: true
 meta_title: Jekyll Advance - Premium Jekyll Theme
 
 hero:
   enabled: true
-  heading: "Jekyll Advance"
-  sub_heading: "Built using highly configurable sections, Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+  heading: "(업데이트 중. 빠른 시간 내 찾아뵙겠습니다.)Deep dive to fragment of reality with digital information"
+  sub_heading: "VCANUS provides intelligent products and equipments based on real-time data processing, analysis, edge AI, CAD/CAM and the advanced machine control technologies."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
