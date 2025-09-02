@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Products
-description: "A selection of our digital services"
+description: "A selection of our products"
 permalink: "/products/"
 header_transparent: true
 
@@ -29,7 +29,7 @@ hero:
         style: "light"
 
 grid:
-  collection: "services"
+  collection: "products"
   sort_by: "weight" # "date", "weight"
   columns: 3
   prevent_click: false
