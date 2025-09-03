@@ -88,11 +88,7 @@ With TSLoom, users can:
 - One-click installation of nodes and workflows
 - (Additional features in development)
 
-<img width="297" height="207" alt="Image" src="https://github.com/user-attachments/assets/0d36a1ed-6fb4-4a64-9598-49cab9f2e693" />
-
-<img width="335" height="207" alt="Image" src="https://github.com/user-attachments/assets/9ae8aee4-7a17-434e-85f2-0431c3c65378" />
-
-<img width="298" height="207" alt="Image" src="https://github.com/user-attachments/assets/5ff355ce-1ff1-49f7-831b-7571a143aa1a" />
+<img width="681" height="152" alt="Image" src="https://github.com/user-attachments/assets/7029911f-49e4-491a-a739-713e73941740" />
 
 <!--{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}-->
 
