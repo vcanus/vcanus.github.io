@@ -1,23 +1,23 @@
 ---
-title: "Branding"
-description: "The expression of a brand including its name, trademark, and visual appearance."
+title: "VCRI"
+description: "VCANUS's Common Robot Interface"
 date: 2019-10-03
 weight: 3
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-color-palette-100.png"
-thumbnail: "/assets/images/gen/services/service-3-thumbnail.webp"
-image: "/assets/images/gen/services/service-3.webp"
+thumbnail: "/assets/images/gen/services/service-2-thumbnail.webp"
+image: "/assets/images/gen/services/service-2.webp"
 
 hero:
   enabled: true
-  heading: "Branding"
+  heading: "VCRI"
   sub_heading: "The expression of a brand including its name, trademark, and visual appearance."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
   background_image_blend_mode: false" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-3.webp"
+  background_image: "/assets/images/gen/services/service-2.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px

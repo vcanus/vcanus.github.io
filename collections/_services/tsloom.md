@@ -6,8 +6,8 @@ weight: 3
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-color-palette-100.png"
-thumbnail: "/assets/images/gen/services/service-3-thumbnail.webp"
-image: "/assets/images/gen/services/service-3.webp"
+thumbnail: "/assets/images/gen/services/service-1-thumbnail.webp"
+image: "/assets/images/gen/services/service-1.webp"
 
 hero:
   enabled: true
@@ -17,7 +17,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: false" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-3.webp"
+  background_image: "/assets/images/gen/services/service-1.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
@@ -53,6 +53,7 @@ With TSLoom, users can:
 - Deploy pre-built ML models (for prediction, classification, clustering, and anomaly detection) or custom models tailored to unique requirements.
 - Design and automate data preprocessing and postprocessing workflows using a user-friendly visual programming interface.
 - Connect to industrial PLCs, databases, and enterprise systems in real time, enabling instant data analysis and decision-making.
+<img width="786" height="176" alt="Image" src="https://github.com/user-attachments/assets/a1d1d6f9-1e5a-48f7-a915-eeef8a920830" />
 
 ## Key Features
 
@@ -87,8 +88,6 @@ With TSLoom, users can:
 ### Marketplace
 - One-click installation of nodes and workflows
 - (Additional features in development)
-
-<img width="786" height="176" alt="Image" src="https://github.com/user-attachments/assets/a1d1d6f9-1e5a-48f7-a915-eeef8a920830" />
 
 
 <!--{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}-->
