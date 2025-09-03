@@ -8,8 +8,8 @@ header_transparent: true
 
 hero:
   enabled: true
-  heading: "Projects"
-  sub_heading: "Our portfolio of work and projects."
+  heading: "Solutions"
+  sub_heading: "We provide advanced solutions based on extensive experience in industrial fields."
   text_color: "#FFFFFF"
   background_color: false
   background_gradient: true

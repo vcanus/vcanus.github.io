@@ -47,12 +47,13 @@ MLOps는 머신러닝(Machine Learning)과 운영(Operations)의 합성어로, �
 [Wikipedia](https://en.wikipedia.org/wiki/MLOps)
 
 MLOps는 머신러닝, 데이터 처리 및 데이터 엔지니어링의 교집합이며, 머신러닝 모델의 개발 용이성, 자동화된 적용이 매우 필요하고, TSLoom은 이에 대한 기능을 제공합니다.
+MLOps sits at the intersection of machine learning, data processing, and data engineering, making it crucial to streamline model development and enable automated deployment. TSLoom offers robust features to support these needs.
 <!--{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}-->
 
 ## What you can do with TSLoom
 
 TSLoom을 통해 Prediction, Classification, Clustering, Anomaly Detection과 같은 사전 정의된 머신러닝 모델 또는 사용자 모델을 실행할 수 있습니다. 또한, 모델 실행 전후로 필요한 다양한 데이터 처리 과정을 Visual Programming을 통해 쉽게 구성할 수 있습니다.
-TSLoom은 산업용 PLC, 데이터베이스와의 연결을 위한 폭 넓은 Realtime Connectivity 기능을 제공하여 현장에서 발생하는 데이터를 실시간으로 분석하고 처리할 수 있습니다.
+TSLoom은 산업용 PLC, 데이터베이스와의 연결을 위한 폭 넓은 Realtime Connectivity 기능을 제공하여 산업 현장에서 발생하는 데이터를 실시간으로 분석하고 처리할 수 있습니다.
 
 > As a UX designer, you should consider the Why, What and How of product use.
 

@@ -7,8 +7,8 @@ header_transparent: true
 
 hero:
   enabled: true
-  heading: "Services"
-  sub_heading: "We offer a complete range of digital services."
+  heading: "Products"
+  sub_heading: "The aim of our products is to drive the success of our customers' businesses'."
   text_color: "#FFFFFF"
   background_color: false
   background_gradient: true
