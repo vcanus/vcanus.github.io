@@ -53,6 +53,7 @@ With TSLoom, users can:
 - Deploy pre-built ML models (for prediction, classification, clustering, and anomaly detection) or custom models tailored to unique requirements.
 - Design and automate data preprocessing and postprocessing workflows using a user-friendly visual programming interface.
 - Connect to industrial PLCs, databases, and enterprise systems in real time, enabling instant data analysis and decision-making.
+<img width="786" height="176" alt="Image" src="https://github.com/user-attachments/assets/a1d1d6f9-1e5a-48f7-a915-eeef8a920830" />
 
 ## Key Features
 
@@ -87,8 +88,6 @@ With TSLoom, users can:
 ### Marketplace
 - One-click installation of nodes and workflows
 - (Additional features in development)
-
-<img width="786" height="176" alt="Image" src="https://github.com/user-attachments/assets/a1d1d6f9-1e5a-48f7-a915-eeef8a920830" />
 
 
 <!--{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}-->
