@@ -1,6 +1,6 @@
 ---
-title: "Branding"
-description: "The expression of a brand including its name, trademark, and visual appearance."
+title: "DeepVi"
+description: "Real-time image analysis service"
 date: 2019-10-03
 weight: 3
 header_transparent: true
@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/service-3.webp"
 
 hero:
   enabled: true
-  heading: "Branding"
-  sub_heading: "The expression of a brand including its name, trademark, and visual appearance."
+  heading: "Real-time Image Analysis Service"
+  sub_heading: "AI-based image processing, annotation and classification"
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
@@ -33,7 +33,7 @@ hero:
         style: "primary"
 ---
 
-# Creating Modern Websites
+# AI-based image processing, annotation and classification
 
 Web design encompasses many different skills and disciplines in the production and maintenance of websites.
 
