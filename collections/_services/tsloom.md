@@ -1,6 +1,6 @@
 ---
 title: "TSLoom"
-description: "Real-time ML operation platform"
+description: "Real-time MLOps Platform"
 date: 2025-09-03
 weight: 3
 header_transparent: true
@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/service-3.webp"
 
 hero:
   enabled: true
-  heading: "Branding"
-  sub_heading: "The expression of a brand including its name, trademark, and visual appearance."
+  heading: "TSLoom"
+  sub_heading: "Data collection, processing, transfer, analysis, loading, and visualization"
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
@@ -33,19 +33,25 @@ hero:
         style: "primary"
 ---
 
-# Real-time ML Operation Platform
+# Real-time MLOps Platform
+ 
+TSLoom은 머신러닝 모델을 기반으로 실시간으로 수집되는 데이터를 처리하고 분석할 수 있는 데이터 처리 및 분석 플랫폼입니다.
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+TSLoom은 MLOps 플랫폼으로서 쉽게 데이터 분석 모델을 배포하고 관리할 수 있으며, 분산 제어 및 컨테이너 기술을 통해 고객사의 시스템과 빠르게 연계할 수 있습니다.
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+## What is MLOps?
 
-## What is Web Design?
+MLOps는 머신러닝(Machine Learning)과 운영(Operations)의 합성어로, 데이터 수집부터 머신러닝 모델의 학습 및 개발, 머신러닝 모델의 배포 및 관리까지 전 과정을 통합하고 자동화하는 패러다임입니다.
+<div class=pull-left>
+<img width="378" height="346" alt="Image" src="https://github.com/user-attachments/assets/797f417e-fb70-4169-8239-5321f332ad42" />
+[Wikipedia](https://en.wikipedia.org/wiki/MLOps)
+</div>
+<div class=pull-right>
+MLOps는 머신러닝, 데이터 처리 및 데이터 엔지니어링의 교집합이며, 머신러닝 모델의 개발 용이성, 자동화된 적용이 매우 필요합니다.
+</div>
+<!--{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}-->
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
-
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
-
-## Front-end Development
+## What you can do with TSLoom
 
 The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
 
@@ -53,7 +59,7 @@ The What addresses the things people can do with a product—its functionality. 
 
 Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
 
-## Design Systems
+## Key Features
 
 A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
 
