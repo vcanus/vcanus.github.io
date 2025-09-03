@@ -16,6 +16,8 @@ main:
         url: /services/vcam/
       - name: "VScan3d"
         url: /services/vscan3d/
+      - name: "SEO"
+        url: /services/seo/
   - name: Solutions
     url: /solutions/
     weight: 2
@@ -44,7 +46,7 @@ footer_primary:
   - name: Solutions
     url: /projects/
     weight: 3
-  - name: Company
+  - name: Team
     url: /team/
     weight: 4
 footer_secondary:
