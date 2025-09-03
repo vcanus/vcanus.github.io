@@ -6,6 +6,8 @@ main:
     url: /services/
     weight: 1
     child:
+      - name: "TSEdge"
+        url: /services/tsedge/
       - name: "TSLoom"
         url: /services/tsloom/
       - name: "DeepVi"
@@ -16,8 +18,6 @@ main:
         url: /services/vcam/
       - name: "VScan3d"
         url: /services/vscan3d/
-      - name: "SEO"
-        url: /services/seo/
   - name: Solutions
     url: /solutions/
     weight: 2
