@@ -1,6 +1,6 @@
 ---
-title: "VCRI"
-description: "VCANUS's Common Robot Interface"
+title: "VURI"
+description: "VCANUS Universal Robot Interface"
 date: 2019-10-03
 weight: 2
 header_transparent: true
@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/service-2.webp"
 
 hero:
   enabled: true
-  heading: "VCRI"
-  sub_heading: "Common Robot Interface"
+  heading: "VURI"
+  sub_heading: "No Pendant. One Interface. Total Control."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
@@ -33,7 +33,7 @@ hero:
         style: "primary"
 ---
 
-# VCANUS Univeral Robot Interface (VURI)
+# VCANUS Universal Robot Interface (VURI)
 
 VURI is a universal robot interface designed for virtual simulation and direct real-time control of industrial and collaborative robots. By replacing manual teaching processes and eliminating traditional robot code, VURI enables faster deployment, greater flexibility, and simplified automation through intuitive sequence management and direct GUI-based operation.
 VURI provides a unified platform to manage multiple robot brands—such as KUKA, Stäubli, FANUC, ABB, and Rainbow Robotics—through a single, common interface, removing the need for brand-specific programming. Additionally, VURI integrates Beckhoff PLC functionality, enabling seamless I/O signal control (e.g., lamps, switches, buttons) essential for automation systems.

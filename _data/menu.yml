@@ -12,8 +12,8 @@ main:
         url: /services/tsloom/
       - name: "DeepVi"
         url: /services/deepvi/
-      - name: "VCRI"
-        url: /services/vcri/
+      - name: "VURI"
+        url: /services/vuri/
       - name: "VCAM"
         url: /services/vcam/
       - name: "VScan3d"

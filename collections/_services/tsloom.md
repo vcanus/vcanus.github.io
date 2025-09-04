@@ -12,7 +12,7 @@ image: "/assets/images/gen/services/service-1.webp"
 hero:
   enabled: true
   heading: "TSLoom"
-  sub_heading: "Complete Data Pipeline: Collection, Processing, Transfer, Analysis, Storage, and Visualization"
+  sub_heading: "From Data to Action in Real Time"
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
