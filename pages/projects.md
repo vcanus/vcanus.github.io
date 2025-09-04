@@ -9,7 +9,7 @@ header_transparent: true
 hero:
   enabled: true
   heading: "Solutions"
-  sub_heading: "We provide advanced solutions based on extensive experience in industrial fields."
+  sub_heading: "We deliver cutting-edge solutions backed by decades of industrial expertise."
   text_color: "#FFFFFF"
   background_color: false
   background_gradient: true

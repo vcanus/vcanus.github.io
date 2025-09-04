@@ -6,8 +6,6 @@ main:
     url: /services/
     weight: 1
     child:
-      - name: "TSEdge"
-        url: /services/tsedge/
       - name: "TSLoom"
         url: /services/tsloom/
       - name: "DeepVi"
@@ -22,8 +20,6 @@ main:
     url: /solutions/
     weight: 2
     child:
-      - name: "ML Operations"
-        url: /projects/mlops/
       - name: "3D Measurement"
         url: /projects/3d-measurement/
       - name: "Intelligent Manufacturing"
