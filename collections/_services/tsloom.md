@@ -2,7 +2,7 @@
 title: "TSLoom"
 description: "Industrial Real-Time Data & AI Platform"
 date: 2025-09-03
-weight: 3
+weight: 1
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-color-palette-100.png"
