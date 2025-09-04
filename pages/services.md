@@ -8,7 +8,7 @@ header_transparent: true
 hero:
   enabled: true
   heading: "Products"
-  sub_heading: "The aim of our products is to drive the success of our customers' businesses'."
+  sub_heading: "Our products empower customers to achieve business success."
   text_color: "#FFFFFF"
   background_color: false
   background_gradient: true
