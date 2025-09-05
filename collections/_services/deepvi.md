@@ -1,23 +1,23 @@
 ---
 title: "DeepVi"
-description: "Real-time image analysis service"
+description: "AI-Powered Vision Analytics Platform"
 date: 2019-10-03
 weight: 2
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-design-100.png"
-thumbnail: "/assets/images/gen/services/service-2-thumbnail.webp"
-image: "/assets/images/gen/services/service-2.webp"
+thumbnail: "/assets/images/gen/services/service-7-thumbnail.webp"
+image: "/assets/images/gen/services/service-7.webp"
 
 hero:
   enabled: true
-  heading: "Real-time Image Analysis Service"
-  sub_heading: "AI-based image processing, annotation and classification"
+  heading: "AI-Powered Vision Analytics Platform"
+  sub_heading: "From Pixels to Insights—Automate, Train, Deploy."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
   background_image_blend_mode: false" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-2.webp"
+  background_image: "/assets/images/gen/services/service-7.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
@@ -33,40 +33,53 @@ hero:
         style: "primary"
 ---
 
-# AI-based image processing, annotation and classification
+# DeepVi: AI-Powered Vision Analytics Platform
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+DeepVi is an end-to-end AI vision platform that streamlines real-time labeling, segmentation, model training, and deployment—all through predefined, automated workflows. By integrating data collection, AI-driven analysis, and result processing into a single platform, DeepVi turns raw images and videos into actionable insights with minimal manual effort.
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+## Why DeepVi?
 
-## What is Web Design?
+DeepVi helps you:
+- Label and segment images and videos to prepare high-quality training data.
+- Train and deploy custom machine learning models with ease.
+- Automate your entire workflow—from data ingestion to analysis and action—using a simple drag-and-drop interface.
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+Unlike traditional tools, DeepVi executes workflows in real time, delivering faster results and smoother operations.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+## Key Features
 
-## Front-end Development
+### Data Source Management
+- Storage Management
+Organize folders, monitor storage capacity, and seamlessly separate raw data from training datasets.
+- Upload Functionality
+Easily upload images and videos from local devices to the centralized data repository.
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
+### Data Curation
+- Labeling & Segmentation
+Precisely annotate images and videos to create accurate training datasets.
+- Training Dataset Creation
+Convert labeled images into structured datasets ready for model training.
 
-> As a UX designer, you should consider the Why, What and How of product use.
+### Machine Learning Model Management
+- Model Training & Testing
+Train and validate ML models using your labeled datasets.
+- Model Database & Deployment
+Version, manage, and deploy trained models in just a few clicks.
 
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
+### Workflow Composition
+- End-to-End Automation
+Design custom workflows that cover data collection, AI analysis, and result processing.
+- Drag-and-Drop GUI
+Visually build workflows—no coding required.
 
-## Design Systems
+### Workflow Node Management
+- Data Source Node
+Register and configure Data Collectors to kickstart your data ingestion process.
+- Data Sink Node
+Process and act on analysis results—whether it’s visualization, database updates, alerts, or MES integration.
 
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
-
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
-
-## Process
-
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
-
-- User experience research
-- Visual design and illustration
-- Programming and coding
-
-![Design In Figma](/assets/images/gen/content/content-2.webp)
-
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+### Deployment & Monitoring
+- Workflow Control
+Start, pause, or stop workflows at any time for full flexibility.
+- Real-Time Monitoring
+Monitor workflow progress and node outputs live to ensure smooth execution.
