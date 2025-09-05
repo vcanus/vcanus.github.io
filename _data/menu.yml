@@ -14,7 +14,7 @@ main:
         url: /services/vuri/
       - name: "VC2M"
         url: /services/vc2m/
-  - name: Projects
+  - name: Solutions
     url: /projects/
     weight: 2
     child:
