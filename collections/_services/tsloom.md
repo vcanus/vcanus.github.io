@@ -5,7 +5,7 @@ date: 2025-09-03
 weight: 1
 header_transparent: true
 fa_icon: false
-icon: "assets/images/icons/icons8-color-palette-100.png"
+icon: "assets/images/icons/icons8-stacked-organizational-chart-100.png"
 thumbnail: "/assets/images/gen/services/service-1-thumbnail.webp"
 image: "/assets/images/gen/services/service-1.webp"
 

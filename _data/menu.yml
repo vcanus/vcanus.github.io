@@ -14,13 +14,11 @@ main:
         url: /services/vuri/
       - name: "VCAM"
         url: /services/vcam/
-      - name: "VScan3d"
-        url: /services/vscan3d/
   - name: Solutions
     url: /solutions/
     weight: 2
     child:
-      - name: "3D Measurement"
+      - name: "3D Measurement & Inspection"
         url: /projects/3d-measurement/
       - name: "Intelligent Manufacturing"
         url: /projects/intelligent-manufacturing/
