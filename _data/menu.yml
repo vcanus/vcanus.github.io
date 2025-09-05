@@ -15,7 +15,7 @@ main:
       - name: "VC2M"
         url: /services/vc2m/
   - name: Solutions
-    url: /products/
+    url: /projects/
     weight: 2
     child:
       - name: "3D Measurement & Inspection"

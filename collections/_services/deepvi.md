@@ -2,7 +2,7 @@
 title: "DeepVi"
 description: "Real-time image analysis service"
 date: 2019-10-03
-weight: 3
+weight: 2
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-design-100.png"

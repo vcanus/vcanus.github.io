@@ -40,7 +40,8 @@ services:
   enabled: true
   heading: "Our Products"
   sub_heading: ""
-  limit: 6
+  limit: 4
+  columns: 2
   sort: "weight" # 'date'
   view_more_button_text: "View All Products"
   view_more_button_link: "/services"

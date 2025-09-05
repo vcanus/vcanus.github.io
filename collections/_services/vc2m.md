@@ -2,7 +2,7 @@
 title: "VC2M"
 description: "VCANUS CAM for Additive Manufacturing"
 date: 2019-10-03
-weight: 3
+weight: 4
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-merge-git-100.png"
