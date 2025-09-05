@@ -5,9 +5,9 @@ date: 2019-10-03
 weight: 3
 header_transparent: true
 fa_icon: false
-icon: "assets/images/icons/icons8-color-palette-100.png"
-thumbnail: "/assets/images/gen/services/service-3-thumbnail.webp"
-image: "/assets/images/gen/services/service-3.webp"
+icon: "assets/images/icons/icons8-design-100.png"
+thumbnail: "/assets/images/gen/services/service-2-thumbnail.webp"
+image: "/assets/images/gen/services/service-2.webp"
 
 hero:
   enabled: true
