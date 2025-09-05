@@ -83,8 +83,8 @@ projects:
   enabled: true
   heading: "Our Projects"
   sub_heading: ""
-  limit: 2
-  columns: 2
+  limit: 6
+  columns: 3
   sort: "weight" # 'date'
   view_more_button_text: "View All Projects"
   view_more_button_link: "/projects"
