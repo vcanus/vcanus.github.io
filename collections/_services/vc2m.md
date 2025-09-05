@@ -1,17 +1,17 @@
 ---
-title: "Branding"
-description: "The expression of a brand including its name, trademark, and visual appearance."
+title: "VC2M"
+description: "VCANUS CAM for Additive Manufacturing"
 date: 2019-10-03
 weight: 3
 header_transparent: true
 fa_icon: false
-icon: "assets/images/icons/icons8-color-palette-100.png"
-thumbnail: "/assets/images/gen/services/service-3-thumbnail.webp"
-image: "/assets/images/gen/services/service-3.webp"
+icon: "assets/images/icons/icons8-merge-git-100.png"
+thumbnail: "/assets/images/gen/services/service-8-thumbnail.webp"
+image: "/assets/images/gen/services/service-8.webp"
 
 hero:
   enabled: true
-  heading: "Branding"
+  heading: "VC2M"
   sub_heading: "The expression of a brand including its name, trademark, and visual appearance."
   text_color: "#ffffff"
   background_color: ""

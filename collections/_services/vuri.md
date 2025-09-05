@@ -86,11 +86,11 @@ With VURI, users can:
 
 ### Sequence Control & Task Management
 - Sequence control (start, stop, pause, reset).
-- Task creation, registration, and management (point-to-point motion, PLC-linked custom tasks).
+- Task creation, registration, and management (point-to-point motion, PC or PLC-linked custom tasks).
 - Interlock setting for safe task execution.
 
 ### High Extensibility 
-- Automatic path/sequence generation via CAM software integration (VC2AM).
+- Automatic path/sequence generation via CAM software integration (VC2M).
 - Compatibility with measurement devices (3D vision, ToF cameras, stereo cameras, etc.).
 
 ### PLC Programming & Utilization
