@@ -12,10 +12,10 @@ main:
         url: /services/deepvi/
       - name: "VURI"
         url: /services/vuri/
-      - name: "VCAM"
-        url: /services/vcam/
+      - name: "VC2M"
+        url: /services/vc2m/
   - name: Solutions
-    url: /solutions/
+    url: /products/
     weight: 2
     child:
       - name: "3D Measurement & Inspection"
