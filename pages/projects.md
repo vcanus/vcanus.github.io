@@ -62,11 +62,11 @@ outro:
   align: left
   image: false
   heading: "Ready to get started?"
-  sub_heading: "Contact us today for a free quote!"
+  sub_heading: "Your Reality. Our Digital Insight"
   buttons:
     enabled: true
     list:
-      - text: "Get A Quote"
+      - text: "Contact Us"
         url: "/contact"
         external: false
         fa_icon: false
