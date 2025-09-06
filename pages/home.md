@@ -76,7 +76,7 @@ intro:
         style: "primary"
 
 partners:
-  enabled: false
+  enabled: true
   limit: 5
   sort: "weight" # 'date'
 
