@@ -9,7 +9,7 @@ meta_title: Dive Deep into Reality—Through Digital Insight.
 hero:
   enabled: true
   heading: "Decoding Reality.<br> One Byte at a Time."
-  sub_heading: "VCANUS innovates with cutting-edge technologies—real-time data analytics, edge AI, machine automation, and digital twin—to transform industrial efficiency and precision."
+  sub_heading: "VCANUS innovates with cutting-edge technologies—real-time data analytics, edge AI, intelligent systems, and digital twins—to redefine efficiency, precision, and intelligence across industries."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
@@ -52,7 +52,7 @@ intro:
   align: left
   image: "/assets/images/gen/content/content-5-thumbnail.webp"
   heading: "Where Data Meets Innovation."
-  sub_heading: "VCANUS drives industrial innovation with AI-powered solutions, elevating precision and efficiency to new levels for smarter, faster, and future-ready manufacturing."
+  sub_heading: "VCANUS drives innovation with AI-powered solutions, elevating precision and efficiency to new levels for smarter, faster, and future-ready operations."
   features:
     enabled: false
     list:
