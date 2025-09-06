@@ -96,7 +96,7 @@ outro:
   align: center
   image: false
   heading: Get Started Today
-  sub_heading: "Your Reality. Our Digital Insight. Dive Deep into Reality—Through Digital Insight."
+  sub_heading: "Your Reality. Our Digital Insight."
   features:
     enabled: false
     list:
