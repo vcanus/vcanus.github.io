@@ -4,12 +4,12 @@ permalink: "/"
 title: "VCANUS"
 description: "Data Innovator"
 header_transparent: true
-meta_title: Jekyll Advance - Premium Jekyll Theme
+meta_title: Dive Deep into Reality—Through Digital Insight.
 
 hero:
   enabled: true
   heading: "Decoding Reality. One Byte at a Time."
-  sub_heading: "VCANUS innovates with cutting-edge technologies—real-time data analytics, edge AI, computer graphics, and machine automation—to transform industrial efficiency and precision."
+  sub_heading: "VCANUS innovates with cutting-edge technologies—real-time data analytics, edge AI, machine automation, and digital twin—to transform industrial efficiency and precision."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
