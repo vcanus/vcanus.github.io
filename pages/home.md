@@ -4,7 +4,7 @@ permalink: "/"
 title: "VCANUS"
 description: "Data Innovator"
 header_transparent: true
-meta_title: Dive Deep into Reality—Through Digital Insight.
+meta_title: Jekyll Advance - Premium Jekyll Theme
 
 hero:
   enabled: true
@@ -96,7 +96,7 @@ outro:
   align: center
   image: false
   heading: Get Started Today
-  sub_heading: "Your Reality. Our Digital Insight."
+  sub_heading: "Your Reality. Our Digital Insight. Dive Deep into Reality—Through Digital Insight."
   features:
     enabled: false
     list:
