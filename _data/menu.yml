@@ -12,8 +12,8 @@ main:
         url: /services/deepvi/
       - name: "VURI"
         url: /services/vuri/
-      - name: "VC2M"
-        url: /services/vc2m/
+      - name: "VLCAM"
+        url: /services/vlcam/
   - name: Solutions
     url: /projects/
     weight: 2
