@@ -95,17 +95,17 @@ outro:
   enabled: true
   align: center
   image: false
-  heading: Get Started Today
-  sub_heading: "Your Reality. Our Digital Insight."
+  heading: Transform your challenges with our expertise.
+  sub_heading: "Let us turn your vision into reality"
   features:
     enabled: false
     list:
-      - text: "Free Quote"
+      - text: "Let us turn your vision into reality"
         fa_icon: "fas fa-envelope-open-text"
   buttons:
     enabled: true
     list:
-      - text: "Contact Us"
+      - text: "Contact Us Today"
         url: "/contact"
         external: false
         size: "large"
