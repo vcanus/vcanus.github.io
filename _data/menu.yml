@@ -24,6 +24,8 @@ main:
         url: /projects/3d-measurement/
       - name: "Intelligent Manufacturing"
         url: /projects/intelligent-manufacturing/
+      - name: "Robot Application"
+        url: /projects/robot-application/
   - name: Blog
     url: /blog/
     weight: 4
