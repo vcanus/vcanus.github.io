@@ -18,12 +18,12 @@ main:
     url: /projects/
     weight: 2
     child:
+      - name: "Data Analysis"
+        url: /projects/data-analysis/
       - name: "3D Measurement & Inspection"
         url: /projects/3d-measurement/
       - name: "Intelligent Manufacturing"
         url: /projects/intelligent-manufacturing/
-      - name: "Robot Application"
-        url: /projects/robot-application/
   - name: Blog
     url: /blog/
     weight: 4
