@@ -40,9 +40,6 @@ footer_primary:
   - name: Solutions
     url: /projects/
     weight: 3
-  - name: Team
-    url: /team/
-    weight: 4
 footer_secondary:
   - name: Blog
     url: /blog/
@@ -50,9 +47,12 @@ footer_secondary:
   - name: About
     url: /about/
     weight: 2
+  - name: Members
+    url: /team/
+    weight: 3
   - name: Contact
     url: /contact/
-    weight: 3
+    weight: 4
 footer_tertiary:
   - name: Privacy Policy
     url: /privacy-policy/
@@ -60,9 +60,6 @@ footer_tertiary:
   - name: Terms and Conditions
     url: /terms-and-conditions/
     weight: 2
-  - name: Buy Now
-    url: https://www.zerostatic.io/theme/jekyll-advance/
-    weight: 3
 bottom:
   - name: Privacy Policy
     url: /privacy-policy/
