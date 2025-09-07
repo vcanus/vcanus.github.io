@@ -55,7 +55,7 @@ Unlike traditional analytics tools, our solutions are tailored for industrial en
 - Optimize production schedules by predicting bottlenecks and resource demands.
 - Improve yield and reduce scrap with data-driven recommendations.
 <br>
-** Use Cases: **
+> Use Cases:
     - Predictive quality control in semiconductor, automotive, and metal fabrication.
     - Energy consumption optimization in manufacturing lines.
 
@@ -65,7 +65,7 @@ Unlike traditional analytics tools, our solutions are tailored for industrial en
 - Cluster similar process patterns to identify hidden inefficiencies or optimal conditions.
 - Enable root-cause analysis by grouping similar anomalies or defects.
 <br>
-** Use Cases: **
+> Use Cases:
     - Defect classification in PCB assembly, casting, and additive manufacturing.
     - Process optimization in chemical and pharmaceutical production.
 
@@ -75,7 +75,7 @@ Unlike traditional analytics tools, our solutions are tailored for industrial en
 - Early warning system for equipment failures, reducing unplanned downtime.
 - Adaptive thresholds that learn from historical data to minimize false alarms.
 <br>
-** Use Cases: **
+> Use Cases:
     - Fault detection in rotating machinery, pumps, and CNC tools.
     - Quality monitoring in food & beverage, packaging, and electronics.
 
@@ -85,7 +85,7 @@ Unlike traditional analytics tools, our solutions are tailored for industrial en
 - Low-latency inference for real-time decision-making without cloud dependency.
 - Secure and scalable deployment across multiple production sites.
 <br>
-** Technologies: **
+> Technologies:
     - TSLoom: Time-series optimization for industrial data.
     - Federated Learning: Privacy-preserving model training across distributed sites.
     - Containerized AI: Easy deployment via Docker/Kubernetes.
@@ -111,7 +111,7 @@ Unlike traditional analytics tools, our solutions are tailored for industrial en
 - **Display Manufacturer**: Enhanced process performance by analyzing display inspection images for defect detection, classification, and root-cause analysis.
 - **Display Equipment Manufacturer**: Detected abnormal vibrations in equipment to identify faulty states and prevent downtime.
 - **Robot Application Manufacturer**: Identified abnormal vibration segments in robot motion and improved process performance through motion optimization.
-- **Metal Machining**: Monitored vibrations during CNC machining to classify processes and detect anomalous conditions.
+- **Metal Machining Process**: Monitored vibrations during CNC machining to classify processes and detect anomalous conditions.
 
 ### Why Choose VCANUS?
 ✅ Industry-Specific Models: Pre-trained models for common manufacturing processes.
