@@ -1,6 +1,6 @@
 ---
-title: "VURI"
-description: "VCANUS Universal Robot Interface"
+title: "VURT-X"
+description: "VCANUS Universal Robot Transformation X"
 date: 2019-10-03
 weight: 3
 header_transparent: false
@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/service-10.webp"
 
 hero:
   enabled: true
-  heading: "VURI"
-  sub_heading: "No Pendant. One Interface. Total Control."
+  heading: "VURT-X"
+  sub_heading: "No Code. No Pendants. Just Control."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
@@ -33,25 +33,25 @@ hero:
         style: "primary"
 ---
 
-# VCANUS Universal Robot Interface (VURI)
+# VCANUS Universal Robot Transformation - X
 
-VURI is a universal robot interface designed for virtual simulation and direct real-time control of industrial and collaborative robots. By replacing manual teaching processes and eliminating traditional robot code, VURI enables faster deployment, greater flexibility, and simplified automation through intuitive sequence management and direct GUI-based operation.
-VURI provides a unified platform to manage multiple robot brands—such as KUKA, Stäubli, FANUC, ABB, and Rainbow Robotics—through a single, common interface, removing the need for brand-specific programming. Additionally, VURI integrates Beckhoff PLC functionality, enabling seamless I/O signal control (e.g., lamps, switches, buttons) essential for automation systems.
-For manufacturers managing diverse robot fleets, VURI reduces setup time, minimizes programming complexity, and enhances operational efficiency, making robot deployment and management more systematic and cost-effective.
+VURT-X is a universal robot transformation platform designed for virtual simulation and direct real-time control of industrial and collaborative robots. By replacing manual teaching processes and eliminating traditional robot code, VURT-X enables faster deployment, greater flexibility, and simplified automation through intuitive sequence management and direct GUI-based operation.
+VURT-X provides a unified platform to manage multiple robot brands—such as KUKA, Stäubli, FANUC, ABB, and Rainbow Robotics—through a single, common interface, removing the need for brand-specific programming. Additionally, VURT-X integrates Beckhoff PLC functionality, enabling seamless I/O signal control (e.g., lamps, switches, buttons) essential for automation systems.
+For manufacturers managing diverse robot fleets, VURT-X reduces setup time, minimizes programming complexity, and enhances operational efficiency, making robot deployment and management more systematic and cost-effective.
 
-## Why Is a Universal Robot Interface Needed?
+## Why Is a Universal Robot Transformation Needed?
 
 Traditional robot programming relies on teach pendants and manual coding, which are time-consuming, error-prone, and inflexible. This approach not only delays deployment but also increases maintenance efforts, especially when managing multiple robots.
-VURI solves these challenges by:
+VURT-X solves these challenges by:
 - Eliminating manual teaching through direct GUI-based control.
 - Removing traditional robot code with automated sequence management.
 - Enabling virtual simulation for path verification and collision detection.
 - Providing real-time monitoring and 3D visualization for precise operation and diagnostics.
-By replacing fragmented, brand-dependent workflows with a unified and scalable solution, VURI accelerates deployment, reduces engineering overhead, and improves productivity.
+By replacing fragmented, brand-dependent workflows with a unified and scalable solution, VURT-X accelerates deployment, reduces engineering overhead, and improves productivity.
 
-## What You Can Do with VURI
+## What You Can Do with VURT-X
 
-With VURI, users can:
+With VURT-X, users can:
 - Simulate and verify motion paths and detect collisions in a virtual environment.
 - Operate robots directly via an intuitive GUI, without teach pendants.
 - Synchronize robot and external system movements for coordinated, high-precision tasks.
@@ -90,7 +90,7 @@ With VURI, users can:
 - Interlock setting for safe task execution.
 
 ### High Extensibility 
-- Automatic path/sequence generation via CAM software integration (VC2M).
+- Automatic path/sequence generation via CAM software integration (VLCAM).
 - Compatibility with measurement devices (3D vision, ToF cameras, stereo cameras, etc.).
 
 ### PLC Programming & Utilization
@@ -99,7 +99,7 @@ With VURI, users can:
 
 ### Error Management
 - Error compensation (setup error: coordinate compensation; position error: 3D table-based compensation).
-- Error table management (registration, unregistration, updates).
+- Error table management (registration, updates).
 
 ### Centralized Control of Robot Systems (Option)
 - Integration of multi-brand robots via a common interface and user-friendly GUI.
