@@ -4,9 +4,9 @@ description: "Predict. Optimize. Transform."
 date: 2018-12-20
 weight: 1
 header_transparent: false
-thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
-image: "/assets/images/gen/projects/project-1-1.webp"
-client: "Zero Developments Pty Ltd"
+thumbnail: "/assets/images/gen/projects/ai-edge-thumbnail.webp"
+image: "/assets/images/gen/projects/ai-edge-large.webp"
+client: ""
 
 hero:
   enabled: true
@@ -15,7 +15,7 @@ hero:
   text_color: "#000000"
   background_color: ""
   background_gradient: false
-  background_image: "/assets/images/gen/projects/project-1-4.webp"
+  background_image: "/assets/images/gen/projects/ai-edge-large.webp"
   background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: false
