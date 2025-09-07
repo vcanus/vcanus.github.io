@@ -82,12 +82,12 @@ partners:
 
 projects:
   enabled: true
-  heading: "Our Projects"
+  heading: "Our Solutions"
   sub_heading: ""
   limit: 3
   columns: 3
   sort: "weight" # 'date'
-  view_more_button_text: "View All Projects"
+  view_more_button_text: "View All Solutions"
   view_more_button_link: "/projects"
   prevent_click: false
 
