@@ -3,7 +3,7 @@ title: "DeepVi"
 description: "AI-Powered Vision Analytics Platform"
 date: 2019-10-03
 weight: 2
-header_transparent: true
+header_transparent: false
 fa_icon: false
 icon: "assets/images/icons/icons8-design-100.png"
 thumbnail: "/assets/images/gen/services/service-7-thumbnail.webp"

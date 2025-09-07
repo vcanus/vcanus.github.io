@@ -3,7 +3,7 @@ title: "VURI"
 description: "VCANUS Universal Robot Interface"
 date: 2019-10-03
 weight: 3
-header_transparent: true
+header_transparent: false
 fa_icon: false
 icon: "assets/images/icons/icons8-color-palette-100.png"
 thumbnail: "/assets/images/gen/services/service-10-thumbnail.webp"

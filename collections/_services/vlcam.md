@@ -3,7 +3,7 @@ title: "VLCAM"
 description: "VCANUS LASER CAM"
 date: 2019-10-03
 weight: 4
-header_transparent: true
+header_transparent: false
 fa_icon: false
 icon: "assets/images/icons/icons8-merge-git-100.png"
 thumbnail: "/assets/images/gen/services/service-8-thumbnail.webp"

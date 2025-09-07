@@ -1,5 +1,5 @@
 ---
-title: "Book Design"
+title: "Edge AI"
 description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units."
 date: 2018-12-20
 weight: 1
@@ -10,7 +10,7 @@ client: "Zero Developments Pty Ltd"
 
 hero:
   enabled: true
-  heading: "Book Design"
+  heading: "Edge AI"
   sub_heading: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units."
   text_color: "#000000"
   background_color: ""
