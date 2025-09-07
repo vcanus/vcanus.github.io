@@ -4,8 +4,8 @@ description: "Smart Factory 3D Scanning: Zeiss ATOS Powered by VURT-X"
 date: 2018-12-20
 weight: 2
 header_transparent: false
-thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
-image: "/assets/images/gen/projects/project-1-1.webp"
+thumbnail: "/assets/images/gen/projects/ai-3dmeasurement-thumbnail.webp"
+image: "/assets/images/gen/projects/atos5-large.webp"
 client: ""
 
 hero:
@@ -15,7 +15,7 @@ hero:
   text_color: "#000000"
   background_color: ""
   background_gradient: false
-  background_image: "/assets/images/gen/projects/project-1-4.webp"
+  background_image: "/assets/images/gen/projects/atos5-large.webp"
   background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: false
