@@ -90,7 +90,7 @@ With VURT-X, users can:
 - Interlock setting for safe task execution.
 
 ### High Extensibility 
-- Automatic path/sequence generation via CAM software integration (VLCAM).
+- Automatic path/sequence generation via CAM software integration.
 - Compatibility with measurement devices (3D vision, ToF cameras, stereo cameras, etc.).
 
 ### PLC Programming & Utilization

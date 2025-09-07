@@ -12,8 +12,8 @@ main:
         url: /services/deepvi/
       - name: "VURT-X"
         url: /services/vurtx/
-      - name: "VLCAM"
-        url: /services/vlcam/
+      - name: "VRCAM"
+        url: /services/vrcam/
   - name: Solutions
     url: /projects/
     weight: 2
