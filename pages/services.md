@@ -53,12 +53,12 @@ outro:
   enabled: true
   align: left
   image: false
-  heading: "Ready to get started?"
-  sub_heading: "Contact us today for a free quote!"
+  heading: "Transform your challenges with our expertise"
+  sub_heading: "Let us turn your vision into reality"
   buttons:
     enabled: true
     list:
-      - text: "Get A Quote"
+      - text: "Contact Us Today"
         url: "/contact"
         external: false
         fa_icon: false

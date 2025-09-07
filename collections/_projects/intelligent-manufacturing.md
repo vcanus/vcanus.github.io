@@ -2,7 +2,7 @@
 title: "Intelligent Manufacturing"
 description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units."
 date: 2018-12-20
-weight: 1
+weight: 3
 header_transparent: false
 thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-1-1.webp"
