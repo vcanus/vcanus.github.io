@@ -90,7 +90,7 @@ Unlike traditional analytics tools, our solutions are tailored for industrial en
 >    + Federated Learning: Privacy-preserving model training across distributed sites.
 >    + Containerized AI: Easy deployment via Docker/Kubernetes.
 
-### How It Works
+## How It Works
 - Data Collection: Collect real-time sensor data from PLCs, SCADA, or IoT devices.
 - Model Training: Build custom ML models using TSLoom and AutoML for your specific process.
 - Edge Deployment: Deploy models to edge devices for real-time inference and decision-making.
@@ -105,7 +105,7 @@ Unlike traditional analytics tools, our solutions are tailored for industrial en
 | Food & Beverage | Packaging defect detection, process stability monitoring |
 | Chemical & Pharma | Reaction optimization, batch process clustering |
 
-### Success Stories 
+## Success Stories 
 - **Roll-to-Roll Coating Process**: Achieved **98% accuracy** in predicting target coating thickness by analyzing process variables. Improved process performance by controlling variables using predictive models.
 - **Secondary Battery Manufacturer**: Performed correlation analysis of process variables, identified root causes of anomalies, and developed visualization solutions for process optimization.
 - **Display Manufacturer**: Enhanced process performance by analyzing display inspection images for defect detection, classification, and root-cause analysis.
@@ -113,7 +113,7 @@ Unlike traditional analytics tools, our solutions are tailored for industrial en
 - **Robot Application Manufacturer**: Identified abnormal vibration segments in robot motion and improved process performance through motion optimization.
 - **Metal Machining Process**: Monitored vibrations during CNC machining to classify processes and detect anomalous conditions.
 
-### Why Choose VCANUS?
+## Why Choose VCANUS?
 ✅ Industry-Specific Models: Pre-trained models for common manufacturing processes.
 <br>
 ✅ Edge-to-Cloud Flexibility: Run AI on-premise, at the edge, or in the cloud.
@@ -124,7 +124,7 @@ Unlike traditional analytics tools, our solutions are tailored for industrial en
 <br>
 ✅ End-to-End Support: From data collection to model deployment and maintenance.
 
-### Get Started with VCANUS EdgeAI
+## Get Started with VCANUS EdgeAI
 Transform your manufacturing processes with data-driven intelligence. Contact us to:
 - Discuss a pilot project tailored to your needs.
 - Schedule a demo of our EdgeAI platform.

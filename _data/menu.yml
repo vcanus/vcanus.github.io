@@ -20,8 +20,8 @@ main:
     child:
       - name: "Edge AI"
         url: /projects/edge-ai/
-      - name: "3D Measurement & Inspection"
-        url: /projects/3d-measurement/
+      - name: "3D Measurement with Zeiss"
+        url: /projects/3d-measurement-zeiss/
       - name: "Intelligent Manufacturing"
         url: /projects/intelligent-manufacturing/
   - name: Blog
