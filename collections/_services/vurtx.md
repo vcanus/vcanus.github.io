@@ -33,7 +33,7 @@ hero:
         style: "primary"
 ---
 
-# VCANUS Universal Robot Transformation - X
+## VCANUS Universal Robot Transformation - X
 
 VURT-X is a universal robot transformation platform designed for virtual simulation and direct real-time control of industrial and collaborative robots. By replacing manual teaching processes and eliminating traditional robot code, VURT-X enables faster deployment, greater flexibility, and simplified automation through intuitive sequence management and direct GUI-based operation.
 VURT-X provides a unified platform to manage multiple robot brands—such as KUKA, Stäubli, FANUC, ABB, and Rainbow Robotics—through a single, common interface, removing the need for brand-specific programming. Additionally, VURT-X integrates Beckhoff PLC functionality, enabling seamless I/O signal control (e.g., lamps, switches, buttons) essential for automation systems.

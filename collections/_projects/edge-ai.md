@@ -1,6 +1,6 @@
 ---
 title: "Edge AI"
-description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units."
+description: "Predict. Optimize. Transform."
 date: 2018-12-20
 weight: 1
 header_transparent: false
@@ -11,7 +11,7 @@ client: "Zero Developments Pty Ltd"
 hero:
   enabled: true
   heading: "Edge AI"
-  sub_heading: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units."
+  sub_heading: "Predict. Optimize. Transform."
   text_color: "#000000"
   background_color: ""
   background_gradient: false
@@ -32,46 +32,92 @@ hero:
         style: "primary"
 ---
 
-## We helped the city of brisbane rebuild their old water recycling plant and reclaimation works.
+## VCANUS EdgeAI Solutions for Smart Manufacturing
 
-Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.
+VCANUS provides cutting-edge EdgeAI solutions powered by TSLoom and advanced data analytics, enabling manufacturers to achieve real-time process intelligence, predictive maintenance, and data-driven decision-making. Our solutions leverage machine learning, time-series analysis, and edge computing to optimize production processes, reduce downtime, and enhance quality—all while ensuring scalability, low latency, and seamless integration with existing systems.
 
-Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+## Why VCANUS EdgeAI?
 
-{% include framework/shortcodes/figure.html full=true src="/assets/images/gen/projects/project-1-2.webp" title="Affordable Housing"  caption="A concept rendering of demountable units built on site" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+VCANUS empowers manufacturers to:
 
-## History
+- Predict process outcomes with high accuracy using time-series data.
+- Classify and cluster production patterns for deeper insights and efficiency.
+- Detect anomalies in real time to prevent defects and minimize waste.
+- Deploy lightweight, high-performance AI models directly on edge devices for low-latency decision-making.
+- Integrate seamlessly with industrial IoT (IIoT) and MES/ERP systems.
 
-John Gruber created the Markdown language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format". Its key design goal is readability. That the language be readable as-is.
+Unlike traditional analytics tools, our solutions are tailored for industrial environments, delivering actionable insights at the edge where data is generated.
 
-> Designing affordable units within the existing water works area required an extensive site survey and ground testing.
+## Key Solutions
 
-To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.
+### 1. Process Prediction
+- Forecast critical process parameters (e.g., temperature, pressure, cycle time) using TSLoom-based time-series models.
+- Optimize production schedules by predicting bottlenecks and resource demands.
+- Improve yield and reduce scrap with data-driven recommendations.
+### Use Cases:
+- Predictive quality control in semiconductor, automotive, and metal fabrication.
+- Energy consumption optimization in manufacturing lines.
 
-{% include framework/shortcodes/figure.html full=true src="/assets/images/gen/projects/project-1-3.webp" title="Affordable Housing"  caption="A concept rendering of demountable units built on site" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
 
-## Example
+### 2. Classification & Clustering
+- Classify production states (e.g., normal vs. abnormal operation) for automated quality control.
+- Cluster similar process patterns to identify hidden inefficiencies or optimal conditions.
+- Enable root-cause analysis by grouping similar anomalies or defects.
+### Use Cases:
+- Defect classification in PCB assembly, casting, and additive manufacturing.
+- Process optimization in chemical and pharmaceutical production.
 
-There are several different versions of markdown
 
-### CommonMark
+### 3. Anomaly Detection
+- Real-time anomaly detection using unsupervised and supervised learning models.
+- Early warning system for equipment failures, reducing unplanned downtime.
+- Adaptive thresholds that learn from historical data to minimize false alarms.
+### Use Cases:
+- Fault detection in rotating machinery, pumps, and CNC tools.
+- Quality monitoring in food & beverage, packaging, and electronics.
 
-From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to "document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations".
 
-### GitHub Flavored Markdown (GFM)
+### 4. EdgeAI Deployment
+- Lightweight AI models optimized for edge devices (e.g., PLCs, industrial PCs, gateways).
+- Low-latency inference for real-time decision-making without cloud dependency.
+- Secure and scalable deployment across multiple production sites.
+### Technologies:
+- TSLoom: Time-series optimization for industrial data.
+- Federated Learning: Privacy-preserving model training across distributed sites.
+- Containerized AI: Easy deployment via Docker/Kubernetes.
 
-In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.he user to create their own.
+### Hot It Works
+- Data Collection: Gather real-time sensor data from PLCs, SCADA, or IoT devices.
+- Model Training: Develop custom ML models using TSLoom and AutoML for your specific process.
+- Edge Deployment: Deploy trained models to edge devices for real-time inference.
+- Monitor & Improve: Continuously refine models with closed-loop feedback from production.
 
-### Markdown Extra
+| Industry | Application |
+|---|---|
+| Automotive | Welding quality prediciton, assembly line anormaly detection |
+| Semiconductor | Wafer defect classification, equipment health monitoring |
+| Metal & Machining | Tool wear prediction, surface defect detection |
+| Electronics | PCB defect classification, soldering quality prediction |
+| Food & Beverage | Packaging defect detection, process stability monitoring |
+| Chemical & Pharma | Reaction optimization, batch process clustering |
 
-Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), Python and Ruby. It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal.
+### Why Choose VCANUS?
+✅ Industry-Specific Models: Pre-trained models for common manufacturing processes.
+✅ Edge-to-Cloud Flexibility: Run AI on-premise, at the edge, or in the cloud.
+✅ Seamless Integration: Compatible with Siemens, Rockwell, Beckhoff, and other industrial systems.
+✅ Explainable AI: Transparent model outputs for operator trust and compliance.
+✅ End-to-End Support: From data collection to model deployment and maintenance.
 
-Markdown Extra adds the following features to Markdown:
+### Success Stories 
+- Automotive Manufacturer: Reduced defect rates by 30% using real-time anomaly detection.
+- Semiconductor Fab: Improved yield by 15% with predictive process control.
+- Metal Fabrication: Cut downtime by 25% via equipment failure prediction.
 
-- markdown markup inside HTML blocks
-- elements with id/class attribute
-- "fenced code blocks" that span multiple lines of code
-- tables
-- definition lists
-- footnotes
-- abbreviations
+### Get Started with VCANUS EdgeAI
+Transform your manufacturing processes with data-driven intelligence. Contact us to:
+- Discuss a pilot project tailored to your needs.
+- Schedule a demo of our EdgeAI platform.
+- Explore custom solution development for your unique challenges.
+
+📩 Contact: [mailto: info@vcanus.com]
+🌐 Website: [http://www.vcanus.com]
