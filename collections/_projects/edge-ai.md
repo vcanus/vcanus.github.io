@@ -56,8 +56,8 @@ Unlike traditional analytics tools, our solutions are tailored for industrial en
 - Improve yield and reduce scrap with data-driven recommendations.
 <br>
 > Use Cases:
-    - Predictive quality control in semiconductor, automotive, and metal fabrication.
-    - Energy consumption optimization in manufacturing lines.
+>    + Predictive quality control in semiconductor, automotive, and metal fabrication.
+>    + Energy consumption optimization in manufacturing lines.
 
 
 ### 2. Classification & Clustering
@@ -66,8 +66,8 @@ Unlike traditional analytics tools, our solutions are tailored for industrial en
 - Enable root-cause analysis by grouping similar anomalies or defects.
 <br>
 > Use Cases:
-    - Defect classification in PCB assembly, casting, and additive manufacturing.
-    - Process optimization in chemical and pharmaceutical production.
+>    + Defect classification in PCB assembly, casting, and additive manufacturing.
+>    + Process optimization in chemical and pharmaceutical production.
 
 
 ### 3. Anomaly Detection
@@ -76,8 +76,8 @@ Unlike traditional analytics tools, our solutions are tailored for industrial en
 - Adaptive thresholds that learn from historical data to minimize false alarms.
 <br>
 > Use Cases:
-    - Fault detection in rotating machinery, pumps, and CNC tools.
-    - Quality monitoring in food & beverage, packaging, and electronics.
+>    + Fault detection in rotating machinery, pumps, and CNC tools.
+>    + Quality monitoring in food & beverage, packaging, and electronics.
 
 
 ### 4. EdgeAI Deployment
@@ -86,9 +86,9 @@ Unlike traditional analytics tools, our solutions are tailored for industrial en
 - Secure and scalable deployment across multiple production sites.
 <br>
 > Technologies:
-    - TSLoom: Time-series optimization for industrial data.
-    - Federated Learning: Privacy-preserving model training across distributed sites.
-    - Containerized AI: Easy deployment via Docker/Kubernetes.
+>    + TSLoom: Time-series optimization for industrial data.
+>    + Federated Learning: Privacy-preserving model training across distributed sites.
+>    + Containerized AI: Easy deployment via Docker/Kubernetes.
 
 ### How It Works
 - Data Collection: Collect real-time sensor data from PLCs, SCADA, or IoT devices.
