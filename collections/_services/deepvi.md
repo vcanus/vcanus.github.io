@@ -33,7 +33,7 @@ hero:
         style: "primary"
 ---
 
-# DeepVi: AI-Powered Vision Analytics Platform
+## DeepVi: AI-Powered Vision Analytics Platform
 
 DeepVi is an end-to-end AI vision platform that streamlines real-time labeling, segmentation, model training, and deployment—all through predefined, automated workflows. By integrating data collection, AI-driven analysis, and result processing into a single platform, DeepVi turns raw images and videos into actionable insights with minimal manual effort.
 

@@ -1,6 +1,6 @@
 ---
 title: "TSLoom"
-description: "Real-Time Data & AI Platform"
+description: "Real-Time Data & AI Platform for Industries and Beyond"
 date: 2023-12-15
 weight: 1
 header_transparent: false
@@ -33,7 +33,7 @@ hero:
         style: "primary"
 ---
 
-# Real-Time Data & AI Platform for Industries and Beyond
+## Real-Time Data & AI Platform for Industries and Beyond
  
 TSLoom is a high-performance data processing and MLOps platform designed to enable real-time analytics and machine learning on streaming data. By leveraging distributed control, containerization, and automated workflows, TSLoom simplifies the deployment, management, and integration of ML models—empowering industries and innovators to transform raw data into actionable insights.
 
