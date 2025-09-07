@@ -10,8 +10,8 @@ main:
         url: /services/tsloom/
       - name: "DeepVi"
         url: /services/deepvi/
-      - name: "VURI"
-        url: /services/vuri/
+      - name: "VURT-X"
+        url: /services/vurtx/
       - name: "VLCAM"
         url: /services/vlcam/
   - name: Solutions
