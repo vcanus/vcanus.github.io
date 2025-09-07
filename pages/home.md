@@ -13,7 +13,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
-  background_image: "/assets/images/gen/home/home-2-large.webp"
+  background_image: "/assets/images/gen/home/ai-data-innovation-large.webp"
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: false
@@ -50,7 +50,7 @@ services:
 intro:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/content-5-thumbnail.webp"
+  image: "/assets/images/gen/content/ai-robot-thumbnail.webp"
   heading: "Where Data Meets Innovation."
   sub_heading: "VCANUS drives innovation with AI-powered solutions, elevating precision and efficiency to new levels for smarter, faster, and future-ready operations."
   features:
