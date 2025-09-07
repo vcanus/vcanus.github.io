@@ -63,7 +63,7 @@ With TSLoom, users can:
 - Data Aquisition (DAQ): Adlink, NI, Advantech
 - General Protocols: MQTT, TCP/IP
 - Databases: PostgreSQL, MySQL, Oracle, MongoDB, Redis, etc.
-- Custom Solutions: [contact us](mailto:info@vcanus.com)
+- Custom Solutions: 📩 [contact us](mailto:info@vcanus.com)
 
 ### High Performance Real-Time & ML Platform
 - Proprietary real-time data processing (collection, preparation, analysis, monitoring)
