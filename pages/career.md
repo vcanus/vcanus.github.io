@@ -25,7 +25,8 @@ hero:
 ---
 
 
-# Join VCANUS: Where Data Meets Action
+# Join VCANUS
+# : Where Data Meets Action
 
 
 ## Our Vision

@@ -1,10 +1,4 @@
 ---
-title: "Visit Us"
-date: 2021-24-01
-layout: basic
-permalink: "/visitus/"
----
----
 layout: basic
 title: "Visit Us"
 date: 2018-11-28T15:15:34+10:00
@@ -41,8 +35,7 @@ hero:
 
 ### HQ, R&D
 RoadlandEZ #603, Sungnamdaero 69, Bundang-gu, Sungnam, Gyeonggi-do 13636, Republic of Korea
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3172.0185788265217!2d127.10601915100473!3d37.34206884460961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b59ea40e221d1%3A0x9fa1811e8aaa2edf!2z66Gc65Oc656c65OcRVrtg4Dsm4w!5e0!3m2!1sen!2skr!4v1583554124965!5m2!1sen!2skr" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3172.002101659315!2d127.10555784097967!3d37.342458937060485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b5962e5208497%3A0x18cfc7f7dbde09ad!2sVCANUS!5e0!3m2!1sen!2skr!4v1757350882096!5m2!1sen!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Suwon Factory
 Gwanggyo The First Knowledge Industry Center #402, Maeyeong-ro 159-19, Yeongtong-gu, Suwon, Gyeonggi-do 16521, Republic of Korea
