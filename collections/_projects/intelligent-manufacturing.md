@@ -4,8 +4,8 @@ description: "Smart Vision. Precise Control. Seamless Automation."
 date: 2018-12-20
 weight: 3
 header_transparent: false
-thumbnail: "/assets/images/gen/projects/ai-intelligent-manufacturing-thumbnail.webp"
-image: "/assets/images/gen/services/service-12-large.webp"
+thumbnail: "/assets/images/gen/projects/vlap3d-thumbnail.webp"
+image: "/assets/images/gen/projeccts/vlap3d-large.webp"
 client: ""
 
 hero:
@@ -15,7 +15,7 @@ hero:
   text_color: "#000000"
   background_color: ""
   background_gradient: false
-  background_image: "/assets/images/gen/projects/project-1-4.webp"
+  background_image: "/assets/images/gen/projects/vlap3d-large.webp"
   background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: false
