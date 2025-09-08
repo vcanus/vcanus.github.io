@@ -40,11 +40,10 @@ TSLoom is a high-performance data processing and MLOps platform designed to enab
 ## What is MLOps?
 
 |||
-|---|---|
+|:---|:---|
 |<img alt="MLOps" src="/assets/images/gen/services/mlops.webp" width="300"/>|MLOps (Machine Learning Operations) is a set of practices that combines machine learning, data engineering, and IT operations to automate and optimize the entire ML lifecycle—from data collection and model training to deployment and continuous monitoring. It accelerates model development, ensures operational reliability, and enables scalable, seamless deployment in both industrial and general applications.
-TSLoom provides comprehensive end-to-end MLOps capabilities, making it easier to operationalize and scale ML solutions—whether for factories, smart cities, or custom applications.
-|
-|[Wikipedia](https://en.wikipedia.org/wiki/MLOps)||
+TSLoom provides comprehensive end-to-end MLOps capabilities, making it easier to operationalize and scale ML solutions—whether for factories, smart cities, or custom applications.|
+|[Wikipedia](https://en.wikipedia.org/wiki/MLOps)| |
 
 <!--{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}-->
 
