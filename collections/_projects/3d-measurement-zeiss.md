@@ -159,4 +159,3 @@ Transform your manufacturing with custom 3D measurement and data intelligence:
 - Schedule a demo of ATOS solutions.
 - Explore our AI-powered analytics software for your measurement data.
 
-📩 [contact us](mailto:info@vcanus.com)
