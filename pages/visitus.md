@@ -2,7 +2,7 @@
 title: "Visit Us"
 date: 2021-24-01
 layout: basic
-permalink: "/visit-us/"
+permalink: "/visitus/"
 ---
 
 Welcome to VCANUS.
