@@ -6,7 +6,7 @@ authors: ["SG Lee"]
 categories: ["News"]
 description: "Data into Intelligence, Intelligence into Action"
 thumbnail: "/assets/images/gen/blog/vcanus-ci-thumbnail.webp"
-image: "/assets/images/gen/blog/blog-1.webp"
+image: "/assets/images/gen/blog/vcanus-ci-thumbnail.webp"
 ---
 
 ## "Turning Data into Intelligence. One Byte at a Time."
