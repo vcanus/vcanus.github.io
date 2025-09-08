@@ -12,7 +12,7 @@ hero:
   enabled: true
   heading: "Edge AI"
   sub_heading: "Predict. Optimize. Transform."
-  text_color: "#000000"
+  text_color: "#fffd8b"
   background_color: ""
   background_gradient: false
   background_image: "/assets/images/gen/projects/ai-edge-large.webp"
