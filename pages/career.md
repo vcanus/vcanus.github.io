@@ -5,7 +5,7 @@ date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/career/"
 description: "Build the Future with Data & AI"
-image: "/assets/images/gen/content/content-3.webp"
+image: "/assets/images/gen/content/content-3-thumbnail.webp"
 
 hero:
   enabled: false
@@ -30,7 +30,8 @@ hero:
 
 ## Our Vision
 
-**"Data into Intelligence, Intelligence into Action"**
+###"Data into Intelligence, Intelligence into Action"
+
 We transform raw data into practical solutions, helping **people and industries** make smarter, data-driven decisions.
 
 
@@ -67,17 +68,17 @@ We’re looking for **developers who enjoy solving real-world problems with tech
 
 We support our team with a great work environment and benefits, including:
 
-✅ Flexible Paid Time Off: Use your vacation days as needed.
-✅ Retirement Pension Plan: Secure your future with our pension program.
-✅ Performance Bonuses: Rewarded for your contributions.
-✅ Celebration & Condolence Support: Financial assistance for life events.
-✅ Education Support: Continuous learning and skill development.
-✅ Invention Rewards: Recognition and compensation for job-related innovations.
-✅ Long-Term Service Awards: Rewards for loyalty and dedication.
-✅ Housing Assistance: Support for accommodation.
-✅ Travel & Transportation Allowances: Coverage for business trips and commuting costs.
-✅ Parking & Fuel Allowances: Support for your daily commute.
-✅ Communication Allowances: Reimbursement for phone and internet expenses.
+✅ Flexible Paid Time Off: Use your vacation days as needed.   
+✅ Retirement Pension Plan: Secure your future with our pension program.   
+✅ Performance Bonuses: Rewarded for your contributions.   
+✅ Celebration & Condolence Support: Financial assistance for life events.   
+✅ Education Support: Continuous learning and skill development.   
+✅ Invention Rewards: Recognition and compensation for job-related innovations.   
+✅ Long-Term Service Awards: Rewards for loyalty and dedication.   
+✅ Housing Assistance: Support for accommodation.   
+✅ Travel & Transportation Allowances: Coverage for business trips and commuting costs.   
+✅ Parking & Fuel Allowances: Support for your daily commute.   
+✅ Communication Allowances: Reimbursement for phone and internet expenses.   
 
 (For details, reach out to our Management Support Team!)
 
@@ -91,5 +92,6 @@ We support our team with a great work environment and benefits, including:
 📧 Email: info@vcanus.com
 
 **Ready to turn data into action?**
+<br>
 We look forward to meeting **talented developers** who share our passion for technology and innovation. We’d love to hear from you. Let’s create impact together! 🚀
 
