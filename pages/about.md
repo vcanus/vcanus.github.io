@@ -24,40 +24,53 @@ hero:
         size: large
 ---
 
-# Creating Modern Websites
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+# About VCANUS: Turning Data into Intelligent Solutions
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+VCANUS specializes in real-time data processing, AI-driven analytics, and adaptive control systems to solve complex challenges across industries. Our expertise in transforming raw data into actionable insights enables smarter decision-making, automation, and optimization—whether in manufacturing, education, healthcare, or beyond.
 
-## What is Web Design?
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+## Core Capabilities
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+### 1. Data Analysis & AI
+- Predictive Analytics: Machine learning models for forecasting, anomaly detection, and root cause analysis.
+- Computer Vision: High-speed image and sensor data processing for defect detection, classification, and feature extraction.
+- Edge AI: On-device analysis for low-latency applications, from quality control to real-time monitoring.
 
-## Front-end Development
+### 2. Image & Signal Processing
+- High-Resolution Data Handling: Processing thousands of images/sensor inputs per minute with custom algorithms (OpenCV, HALCON, deep learning).
+- Automated Insights: Generation of reports, deviation maps, and alerts based on predefined rules or AI models.
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
+### 3. Path Planning & Control
+- VRCAM: 3D scanning and optimal path generation for robots, lasers, or automated systems.
+- VURT-X: Real-time adaptive control for precision tasks, adjusting parameters dynamically to maintain performance.
 
-> As a UX designer, you should consider the Why, What and How of product use.
+### 4. Adaptive Systems
+- Self-Optimizing Algorithms: Hybrid PID + AI control for stable, efficient operations.
+- Digital Twins: Virtual testing and simulation to refine processes before deployment.
 
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
 
-## Design Systems
+## Why VCANUS?
+- Proven Expertise: Deployed in manufacturing, robotics, and industrial automation with measurable results (e.g., 20% efficiency gains, 98% prediction accuracy).
+- Scalable Solutions: From single-machine pilots to enterprise-wide systems.
+- Cross-Industry Potential: Core technologies adaptable to education (e.g., AI tutoring systems), healthcare (e.g., medical imaging analysis), and more.
 
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
 
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
+## Our Platforms
 
-## Process
+| Platform | Key Function | Applications |
+|---|---|---|
+| TSLoom | Real-time image/data analysis | Defect detection, quality control |
+| VURT-X | Adaptive control & feedback systems | Robotics, process optimization |
+| VRCAM | 3D scanning & path planning | Automation, precision tasks |
 
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
 
-- User experience research
-- Visual design and illustration
-- Programming and coding
+## Beyond Manufacturing
+Our data processing and AI capabilities extend to:
+- Education: Automated grading, personalized learning analytics.
+- Healthcare: Medical image analysis, predictive diagnostics.
+- Smart Cities: Traffic pattern analysis, infrastructure monitoring.
 
-![Design In Figma](/assets/images/gen/content/content-2.webp)
+Let’s innovate together.
+📧 info@vcanus.com | 🌐 http://www.vcanus.com
 
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
