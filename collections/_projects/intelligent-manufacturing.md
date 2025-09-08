@@ -125,9 +125,13 @@ Innovate with VRCAM and robotic automation for precision material processing:
 ## Why Choose VCANUS?
 
 ✅ Proven Expertise: Successful deployments in automotive, aerospace, electronics, and heavy industries.
+<br>
 ✅ End-to-End Solutions: From sensor integration to AI analytics and robotic automation.
+<br>
 ✅ Seamless Integration: Compatible with PLCs, MES, ERP, and third-party software.
+<br>
 ✅ Scalable & Customizable: Solutions tailored to your unique production needs.
+<br>
 ✅ Future-Ready: Continuous updates with latest AI, vision, and robotic technologies.
 
 ## Industries We Serve
