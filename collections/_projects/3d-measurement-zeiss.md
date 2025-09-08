@@ -100,21 +100,16 @@ VCANUS provides advanced software tools to transform raw 3D data into actionable
 - Use machine learning models to detect unexpected patterns in measurement data.
 - Predict potential issues before they affect production quality.
 > Example Workflow (Automotive Mass Production):
->   1) Scan: Robot-mounted ATOS captures 3D data of a car body panel.
->   2) Align: Software aligns scan data to CAD nominals.
->   3) Analyze:
->       <br>
->       . Compare measurements against management tolerances (e.g., ±0.2 mm for critical features).
->       <br>
->       . Apply statistical models to assess process stability.
->   4) Report:
->       <br>
->       . Automated reports highlight areas exceeding tolerances.
->       <br>
->       . Dashboards visualize trends and deviations for process engineers.
->   5) Act:
->       <br>
->       . Adjust production parameters (e.g., fixture settings, machining paths) based on data.
+>   - Scan: Robot-mounted ATOS captures 3D data of a car body panel.
+>   - Align: Software aligns scan data to CAD nominals.
+>   - Analyze:
+>       - Compare measurements against management tolerances (e.g., ±0.2 mm for critical features).
+>       - Apply statistical models to assess process stability.
+>   - Report:
+>       - Automated reports highlight areas exceeding tolerances.
+>       - Dashboards visualize trends and deviations for process engineers.
+>   - Act:
+>       - Adjust production parameters (e.g., fixture settings, machining paths) based on data.
 
 ### 3. Turnkey Robotic Measurement Cells
 
