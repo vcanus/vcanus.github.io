@@ -127,6 +127,7 @@ VCANUS provides advanced software tools to transform raw 3D data into actionable
 
 |<img src="/assets/images/gen/projects/rscan1.webp" width="180">|<img src="/assets/images/gen/projects/rscan2.webp" width="180">|<img src="/assets/images/gen/projects/rscan3.webp" width="180">|<img src="/assets/images/gen/projects/rscan4.webp" width="180">|
 |---|---|---|---|
+|||||
 
 ## Why Choose VCANUS?
 ✅ Custom Solutions: No limitations—design systems for your unique parts and processes.
