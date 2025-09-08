@@ -54,7 +54,7 @@ Our solutions are designed for flexibility, precision, and intelligence, deliver
 
 VCANUS offers the full range of Zeiss ATOS scanners, trusted tools for high-resolution 3D digitization:
 
-| |<img src="/assets/images/gen/projects/zeiss-atos5.webp">|<img src="/assets/images/gen/projects/zeiss-atos5-airfoil.webp">|<img src="/assets/images/gen/projects/zeiss-atos5x.webp">|<img src="/assets/images/gen/projects/zeiss-atos5-lrx.webp">|
+| |<img src="/assets/images/gen/projects/zeiss-atos5.webp" width="150">|<img src="/assets/images/gen/projects/zeiss-atos5-airfoil.webp" width="150">|<img src="/assets/images/gen/projects/zeiss-atos5x.webp" width="150">|<img src="/assets/images/gen/projects/zeiss-atos5-lrx.webp" width="150">|
 |---|---|---|---|---|
 |  | ATOS 5 | ATOS 5 for Airfoil | ATOS 5X | ATOS LRX |
 | Your system for | High-speed 3D scanning system | Precise Scanning of smallest details | Automated scanning for large volumes | 3D scanning for very large volumes |
@@ -129,8 +129,9 @@ VCANUS provides advanced software tools to transform raw 3D data into actionable
 - 100% digital measurement of body panels in a high-volume production line.
 - Error classification using position-specific tolerances, reducing manual judgment errors.
 - Process optimization through measurement data-based root cause analysis, enabling targeted corrections and improved yield.
-|<img src="/assets/images/gen/projects/rscan1.webp">|<img src="/assets/images/gen/projects/rscan2.webp">|<img src="/assets/images/gen/projects/rscan3">|<img src="/assets/images/gen/projects/rscan4.webp">|
+|<img src="/assets/images/gen/projects/rscan1.webp" width="150">|<img src="/assets/images/gen/projects/rscan2.webp" width="150">|<img src="/assets/images/gen/projects/rscan3" width="150">|<img src="/assets/images/gen/projects/rscan4.webp" width="150">|
 |---|---|---|---|
+| robot control | error management | SPC | product history & report |
 
 ## Why Choose VCANUS?
 ✅ Custom Solutions: No limitations—design systems for your unique parts and processes.
