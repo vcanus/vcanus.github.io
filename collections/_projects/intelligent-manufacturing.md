@@ -1,17 +1,17 @@
 ---
 title: "Intelligent Manufacturing"
-description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units."
+description: "Smart Vision. Precise Control. Seamless Automation."
 date: 2018-12-20
 weight: 3
 header_transparent: false
 thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-1-1.webp"
-client: "Zero Developments Pty Ltd"
+client: ""
 
 hero:
   enabled: true
   heading: "Intelligent Manufacturing"
-  sub_heading: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units."
+  sub_heading: "Smart Vision. Precise Control. Seamless Automation."
   text_color: "#000000"
   background_color: ""
   background_gradient: false
@@ -32,46 +32,115 @@ hero:
         style: "primary"
 ---
 
-## We helped the city of brisbane rebuild their old water recycling plant and reclaimation works.
+## VCANUS Intelligent Manufacturing Solutions
 
-Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.
+**Smart Vision. Precise Control. Seamless Automation.**
 
-Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+VCANUS delivers end-to-end Intelligent Manufacturing Solutions by integrating TSLoom, VURT-X, VRCAM, Edge AI, and 3D Measurement technologies. Our expertise spans machine vision, robotic automation, and AI-driven process optimization, enabling manufacturers to achieve real-time monitoring, predictive control, and autonomous production.
+With proven experience in roll-to-roll coating, display defect classification, machine alignment, metal 3D printing, and laser-based material processing, we empower industries to enhance quality, reduce waste, and optimize efficiency through intelligent automation.
 
-{% include framework/shortcodes/figure.html full=true src="/assets/images/gen/projects/project-1-2.webp" title="Affordable Housing"  caption="A concept rendering of demountable units built on site" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+## Why VCANUS Intelligent Manufacturing?
 
-## History
+**VCANUS enables manufacturers to:**
+- Automate complex processes using machine vision, Edge AI, and robotic systems.
+- Predict and control quality with real-time monitoring and adaptive feedback.
+- Optimize production workflows through AI-driven analytics and process simulation.
+- Integrate seamlessly with MES, ERP, and PLC systems for closed-loop automation.
+- Deploy scalable solutions tailored to specific industry needs.
 
-John Gruber created the Markdown language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format". Its key design goal is readability. That the language be readable as-is.
+Our solutions combine cutting-edge technology with deep domain expertise, delivering actionable insights and tangible ROI for smart factories.
 
-> Designing affordable units within the existing water works area required an extensive site survey and ground testing.
+## Core Technologies & Solutions
+### 1. Machine Vision-Based Intelligent Manufacturing
+Leverage TSLoom and Edge AI to transform visual data into actionable intelligence:
 
-To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.
+**Roll-to-Roll Coating System**
+- Meniscus Shape Detection: Use machine vision to detect meniscus shape characteristics.
+- Coating Thickness Prediction: Apply AI models to predict coating thickness in real time.
+- Process Optimization: Adjust coating parameters dynamically to ensure uniformity.
 
-{% include framework/shortcodes/figure.html full=true src="/assets/images/gen/projects/project-1-3.webp" title="Affordable Housing"  caption="A concept rendering of demountable units built on site" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+**Display Defect Classification**
+- Defect Detection: Identify micro-defects in display panels using high-resolution cameras.
+- Classification & Analysis: Classify defects by type, size, and location with machine learning.
+- Root Cause Analysis: Correlate defects with process parameters to pinpoint issues.
 
-## Example
+**Machine Alignment**
+- Edge & Polygon Detection: Use pattern matching and geometric alignment to set machine origins.
+- Automated Calibration: Achieve sub-millimeter precision in machine setup.
 
-There are several different versions of markdown
+**Metal 3D Printing System**
+- Melting Pool Monitoring: Capture IR camera images of the melting pool.
+- Adaptive Laser Control: Adjust laser power in real time to maintain consistent melting pool size.
 
-### CommonMark
+### 2. Distance Displacement Sensor-Based Manufacturing
+Utilize 1D/2D displacement sensors for inline inspection and 3D profiling:
 
-From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to "document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations".
+**Inline Part Inspection**
+- 1D/2D Sensor Integration: Deploy sensors for real-time dimensional checks.
+- Defect Detection: Identify surface defects, warpage, and dimensional deviations.
 
-### GitHub Flavored Markdown (GFM)
+**3D Shape Measurement**
+- 2D Sensor + Actuator Systems: Combine sensors with linear actuators to create 3D profiles of complex parts.
+- Automated Reporting: Generate pass/fail reports based on tolerance limits.
 
-In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.he user to create their own.
+### 3. Advanced Robotic Applications
+Innovate with VRCAM and robotic automation for precision material processing:
 
-### Markdown Extra
+**Laser-Based Material Removal System**
+- 3D Scanning & Path Planning: Use laser scanners to map part surfaces.
+- Adaptive Material Removal: Control robot-mounted lasers to remove material with micron-level precision.
+**Laser Sintering-Based Patterning System**
+- Laser Sintering Process: Create electronic circuit paths using laser sintering.
+- Defect Inspection: Detect circuit defects with machine vision and AI-based analysis.
 
-Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), Python and Ruby. It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal.
+## Key Benefits of VCANUS Solutions
+| Solution Area | Key Benefits |
+|---|---|
+| Machine Vision | Real-time monitoring, defect classification, and adaptive process control. |
+| Distance Displacement Sensors | High-speed inline inspection, 3D profiling, and automated quality reporting. |
+| Robotic Automation | Precision material processing, adaptive path planning, and seamless integration with production. |
+| Edge AI & 3D Measurement | Predictive analytics, statistical process control, and closed-loop quality management. |
 
-Markdown Extra adds the following features to Markdown:
+## Success Stories
+### Roll-to-Roll Coating System
+- Challenge: Inconsistent coating thickness due to meniscus shape variations.
+- Solution: Deployed machine vision + AI models to predict and adjust coating parameters.
+- Result: Achieved ±1% accuracy of coating thickness prediction
 
-- markdown markup inside HTML blocks
-- elements with id/class attribute
-- "fenced code blocks" that span multiple lines of code
-- tables
-- definition lists
-- footnotes
-- abbreviations
+### Display Defect Classification
+- Challenge: Manual defect classification was slow and error-prone.
+- Solution: Implemented AI-based defect detection and classification.
+- Result: Reduced defect classification time.
+
+### Metal 3D Printing System
+- Challenge: Unstable melting pool size led to part defects.
+- Solution: Used IR camera monitoring + adaptive laser control.
+- Result: Achieved 20% part quality improvement with real-time adjustments.
+
+### Laser-Based Material Removal
+- Challenge: Manual material removal was inconsistent and time-consuming.
+- Solution: Deployed robot-mounted laser scanners + VRCAM path planning.
+- Result: Reduced cycle time and improved surface finish quality.
+
+## Why Choose VCANUS?
+
+✅ Proven Expertise: Successful deployments in automotive, aerospace, electronics, and heavy industries.
+✅ End-to-End Solutions: From sensor integration to AI analytics and robotic automation.
+✅ Seamless Integration: Compatible with PLCs, MES, ERP, and third-party software.
+✅ Scalable & Customizable: Solutions tailored to your unique production needs.
+✅ Future-Ready: Continuous updates with latest AI, vision, and robotic technologies.
+
+## Industries We Serve
+| Industry | Application |
+|---|---|
+| Automotive | Body panel inspection, coating thickness control, and robotic material removal. |
+| Aerospace | Turbine blade inspection, composite material processing, and precision alignment. |
+| Electronics | Display defect classification, PCB inspection, and laser sintering for circuits. |
+| Heavy Machinery | Large-part 3D measurement, wear analysis, and automated welding inspection. |
+| Metal 3D Printing | Melting pool monitoring, adaptive laser control, and defect detection. |
+
+## Get Started with VCANUS Intelligent Manufacturing
+Transform your production with smart, data-driven solutions:
+- Discuss a pilot project tailored to your needs.
+- Schedule a demo of our machine vision, robotic, or Edge AI solutions.
+- Explore custom solutions for your unique manufacturing challenges.
