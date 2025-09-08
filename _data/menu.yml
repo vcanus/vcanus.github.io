@@ -30,6 +30,9 @@ main:
   - name: Career
     url: /career/
     weight: 5
+  - name: Visit Us
+    url: /visitus/
+    weight: 5
   - name: About
     url: /about/
     weight: 6
@@ -50,9 +53,12 @@ footer_secondary:
   - name: Career
     url: /career/
     weight: 2
+  - name: Visit Us
+    url: /visitus/
+    weight: 3
   - name: About
     url: /about/
-    weight: 3
+    weight: 4
 footer_tertiary:
   - name: Contact
     url: /contact/
