@@ -1,10 +1,10 @@
 ---
-title: "Precision 3D Measurement with Zeiss ATOS & Robotic Automation"
+title: "3D Measurement with Zeiss"
 description: "Smart Factory 3D Scanning: Zeiss ATOS Powered by VURT-X"
 date: 2018-12-20
 weight: 2
 header_transparent: false
-thumbnail: "/assets/images/gen/projects/ai-3dmeasurement-thumbnail.webp"
+thumbnail: "/assets/images/gen/projects/atos5-thumbnail.webp"
 image: "/assets/images/gen/projects/atos5-large.webp"
 client: ""
 
@@ -12,7 +12,7 @@ hero:
   enabled: true
   heading: "Precision 3D Measurement with Zeiss ATOS & Robotic Automation"
   sub_heading: "Custom Robotic Scanning. Data-Driven Insights."
-  text_color: "#000000"
+  text_color: "#ffffff"
   background_color: ""
   background_gradient: false
   background_image: "/assets/images/gen/projects/atos5-large.webp"
@@ -36,25 +36,27 @@ hero:
 
 Custom Robotic Scanning. Data-Driven Insights.
 
-VCANUS provides tailored 3D measurement solutions by integrating Zeiss ATOS optical scanners with robotic automation and VURT-X for fully automated, high-efficiency dimensional analysis. Unlike standard fixed systems like Zeiss ScanBox, we deliver custom robotic setups optimized for your production environment, enabling seamless digitalization of part geometries and AI-powered statistical analysis of measurement data.
-Our solutions combine Zeiss ATOS scanners with VCANUS’s robotic expertise and advanced software, allowing manufacturers to capture precise 3D data, analyze dimensional variations, and make data-driven decisions for process optimization—without the constraints of traditional measurement systems.
+VCANUS delivers cutting-edge 3D measurement solutions by integrating Zeiss ATOS optical scanners with robotic automation and VURT-X for fully automated, high-efficiency dimensional analysis. Our solutions combine Zeiss’s industry-leading 3D scanning technology with VCANUS’s robotic expertise and advanced software, enabling manufacturers to capture precise 3D data, analyze dimensional variations, and make data-driven decisions for process optimization.
+With customizable robotic setups and AI-powered analytics, we empower you to digitize complex geometries, automate workflows, and gain actionable insights—enhancing quality, efficiency, and productivity in your production environment.
 
 ## Why VCANUS 3D Measurement?
 
-VCANUS empowers manufacturers to:
+VCANUS enables manufacturers to:
 - Digitize complex part geometries using Zeiss ATOS scanners mounted on industrial robots or cobots.
-- Automate measurement workflows with VURT-X, eliminating manual intervention and reducing cycle times.
+- Automate measurement workflows with VURT-X, reducing cycle times and eliminating manual intervention.
 - Analyze measurement data with statistical tools and AI models to identify trends, correlations, and process deviations.
 - Apply production-specific tolerances to automatically classify parts based on predefined control limits.
-- Integrate seamlessly with MES, ERP, and CAD systems for closed-loop quality management.
+- Seamlessly integrate with MES, ERP, and CAD systems for closed-loop quality management.
 
-Unlike conventional systems, VCANUS focuses on customization, automation, and data intelligence—delivering actionable insights from 3D measurement data.
+Our solutions are designed for flexibility, precision, and intelligence, delivering real-time insights that drive continuous improvement.
 
-## Zeiss ATOS Scanners: Reliable 3D Data Capture
+## Zeiss ATOS5 Scanners: Versatile scanner for industrial demands
 
-VCANUS offers Zeiss ATOS scanners, industry-proven tools for high-resolution 3D digitization:
-| Technical Data | ATOS 5 | ATOS 5 for Airfoil | ATOS 5X | ATOS LRX |
-| -- | -- | -- | -- | -- |
+VCANUS offers the full range of Zeiss ATOS scanners, trusted tools for high-resolution 3D digitization:
+
+| |<img src="/assets/images/gen/projects/zeiss-atos5.webp">|<img src="/assets/images/gen/projects/zeiss-atos5-airfoil.webp">|<img src="/assets/images/gen/projects/zeiss-atos5x.webp">|<img src="/assets/images/gen/projects/zeiss-atos5-lrx.webp">|
+|---|---|---|---|---|
+|  | ATOS 5 | ATOS 5 for Airfoil | ATOS 5X | ATOS LRX |
 | Your system for | High-speed 3D scanning system | Precise Scanning of smallest details | Automated scanning for large volumes | 3D scanning for very large volumes |
 | Light source | LED | LED | LASER | LASER |
 | Measuring points per scan | 8 or 12m | 12m | 12m | 12m |
@@ -63,7 +65,7 @@ VCANUS offers Zeiss ATOS scanners, industry-proven tools for high-resolution 3D 
 ## Key Advantages of Zeiss ATOS
 ✅ High-resolution 3D data for detailed part analysis.
 <br>
-✅ Blue light technology for stable measurements in industrial environments.
+✅ Blue light and laser technology for stable measurements in industrial environments.
 <br>
 ✅ Fast data acquisition (millions of points per second).
 <br>
@@ -73,12 +75,12 @@ VCANUS offers Zeiss ATOS scanners, industry-proven tools for high-resolution 3D 
 
 ### 1. Robot-Mounted 3D Scanning
 
-- Flexible Automation:
-    + Mount ATOS scanners on 6-axis robots or cobots for adaptive scanning of complex parts.
-    + Custom fixturing ensures repeatable positioning and full coverage of part surfaces.
-- VURT-X Integration:
-    * Automated path planning for optimal scan coverage.
-    * Collision avoidance and adaptive scanning for varying part geometries.
+1) Flexible Automation:
+- Mount ATOS scanners on 6-axis robots or cobots for adaptive scanning of complex parts.
+- Custom fixturing ensures repeatable positioning and full coverage of part surfaces.
+2) VURT-X Integration:
+- Automated path planning for optimal scan coverage.
+- Collision avoidance and adaptive scanning for varying part geometries.
 > Use Cases:
 > + Automotive: Body panels, chassis components, and assembly verification.
 > + Aerospace: Airfoils, structural components, and tooling validation.
@@ -88,43 +90,47 @@ VCANUS offers Zeiss ATOS scanners, industry-proven tools for high-resolution 3D 
 
 VCANUS provides advanced software tools to transform raw 3D data into actionable insights:
 
-- Tolerance-Based Classification:
-    + Apply production-specific tolerances to automatically classify parts as within/outside control limits.
-    + Generate pass/fail reports based on positional tolerances (e.g., GD&T).
-- Statistical Process Control (SPC):
-    + Track dimensional variations over time to detect trends, shifts, or drifts.
-    + Correlate measurement data with process parameters (e.g., temperature, pressure) to identify root causes.
-- AI-Powered Anomaly Detection:
-    + Use machine learning models to detect unexpected patterns in measurement data.
-    + Predict potential issues before they affect production quality.
+1) Tolerance-Based Classification:
+- Apply production-specific tolerances to automatically classify parts as within/outside control limits.
+- Generate pass/fail reports based on positional tolerances (e.g., GD&T).
+2) Statistical Process Control (SPC):
+- Track dimensional variations over time to detect trends, shifts, or drifts.
+- Correlate measurement data with process parameters (e.g., temperature, pressure) to identify root causes.
+3) AI-Powered Anomaly Detection:
+- Use machine learning models to detect unexpected patterns in measurement data.
+- Predict potential issues before they affect production quality.
 > Example Workflow (Automotive Mass Production):
->   + 1. Scan: Robot-mounted ATOS captures 3D data of a car body panel.
->   + 2. Align: Software aligns scan data to CAD nominals.
->   + 3. Analyze:
+>   1) Scan: Robot-mounted ATOS captures 3D data of a car body panel.
+>   2) Align: Software aligns scan data to CAD nominals.
+>   3) Analyze:
+>       <br>
 >       . Compare measurements against management tolerances (e.g., ±0.2 mm for critical features).
+>       <br>
 >       . Apply statistical models to assess process stability.
->   + 4. Report:
+>   4) Report:
+>       <br>
 >       . Automated reports highlight areas exceeding tolerances.
+>       <br>
 >       . Dashboards visualize trends and deviations for process engineers.
->   + 5. Act:
+>   5) Act:
+>       <br>
 >       . Adjust production parameters (e.g., fixture settings, machining paths) based on data.
 
 ### 3. Turnkey Robotic Measurement Cells
 
 - **ScanCell Solutions**: Pre-engineered robotic cells with ATOS scanners, VURT-X, and safety systems for plug-and-play deployment.
 - **Inline Measurement**: Integrate 3D scanning into production lines for real-time dimensional analysis.
-- ** Portable Systems**: Mobile scanning setups for large or immovable parts (e.g., vehicle frames, ship hulls).
+- **Portable Systems**: Mobile scanning setups for large or immovable parts (e.g., vehicle frames, ship hulls).
 
 ## Success Stories
 
-#### Automotive Mass Production:
+**Automotive Mass Production**:
+<br>
 - 100% digital measurement of body panels in a high-volume production line.
-- AI-based classification of parts using position-specific tolerances, reducing manual judgment errors.
-- Process optimization through correlation analysis of measurement data and machine settings.
-
-#### Aerospace Supplier:
-- Automated scanning of structural components with adaptive robot paths.
-- Statistical reports enabled reduced scrap rates by identifying tool wear patterns.
+- Error classification using position-specific tolerances, reducing manual judgment errors.
+- Process optimization through measurement data-based root cause analysis, enabling targeted corrections and improved yield.
+|<img src="/assets/images/gen/projects/rscan1.webp">|<img src="/assets/images/gen/projects/rscan2.webp">|<img src="/assets/images/gen/projects/rscan3">|<img src="/assets/images/gen/projects/rscan4.webp">|
+|---|---|---|---|
 
 ## Why Choose VCANUS?
 ✅ Custom Solutions: No limitations—design systems for your unique parts and processes.
@@ -152,7 +158,8 @@ VCANUS provides advanced software tools to transform raw 3D data into actionable
 Transform your manufacturing with custom 3D measurement and data intelligence:
 
 - Discuss a pilot project tailored to your parts and processes.
-- Schedule a demo of our robotic ATOS solutions.
+- Inquire about Zeiss ATOS products.
+- Schedule a demo of ATOS solutions.
 - Explore our AI-powered analytics software for your measurement data.
 
 📩 [contact us](mailto:info@vcanus.com)
