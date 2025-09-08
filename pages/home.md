@@ -2,9 +2,9 @@
 layout: home
 permalink: "/"
 title: "VCANUS"
-description: "Data Innovator"
+description: "Turning Data into Intelligence. AI-Powered Solutions for Smarter Decisions."
 header_transparent: true
-meta_title: Dive Deep into Reality—Through Digital Insight.
+meta_title: "Turning Data into Intelligence. AI-Powered Solutions for Smarter Decisions."
 
 hero:
   enabled: true
@@ -39,7 +39,7 @@ hero:
 services:
   enabled: true
   heading: "Our Products"
-  sub_heading: ""
+  sub_heading: "Discover our cutting-edge platforms designed to drive innovation and efficiency."
   limit: 4
   columns: 2
   sort: "weight" # 'date'
@@ -52,7 +52,7 @@ intro:
   align: left
   image: "/assets/images/gen/content/where-data-meets-progress-thumbnail.webp"
   heading: "Where Data Meets Progress."
-  sub_heading: "Our AI-powered solutions turn raw data into actionable insights, helping businesses achieve greater efficiency, accuracy, and adaptability in their operations."
+  sub_heading: "Our AI-powered solutions convert raw data into actionable insights, enabling businesses to optimize efficiency, precision, and adaptability in their operations."
   features:
     enabled: false
     list:
@@ -83,7 +83,7 @@ partners:
 projects:
   enabled: true
   heading: "Our Solutions"
-  sub_heading: ""
+  sub_heading: "Explore how we solve real-world challenges with data and AI."
   limit: 3
   columns: 3
   sort: "weight" # 'date'
@@ -95,13 +95,17 @@ outro:
   enabled: true
   align: center
   image: false
-  heading: Solve complex challenges with our data-driven expertise.
-  sub_heading: "We transform your vision into intelligent solutions—from concept to reality."
+  heading: "Solve complex challenges with our data-driven expertise."
+  sub_heading: "We turn your vision into intelligent solutions—from concept to deployment."
   features:
     enabled: false
     list:
-      - text: "Using real-time analytics and AI, we turn challenges into opportunities."
-        fa_icon: "fas fa-envelope-open-text"
+      - text: "Real-time analytics for instant insights."
+        fa_icon: "fas fa-bolt"
+      - text: "Edge AI for low-latency, on-device intelligence."
+        fa_icon: "fas fa-microchip"
+      - text: "Digital twins for virtual testing and simulation."
+        fa_icon: "fas fa-project-diagram"
   buttons:
     enabled: true
     list:
@@ -109,11 +113,13 @@ outro:
         url: "/contact"
         external: false
         size: "large"
+        outline: false
+        style: "primary"
 
 posts:
   enabled: true
   heading: "Latest Posts"
-  sub_heading: ""
+  sub_heading: "Stay updated with our latest insights, news, and innovations in data and AI."
   limit: 3
   columns: 3
   sort: "weight" # 'date'
