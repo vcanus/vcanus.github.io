@@ -119,14 +119,16 @@ Innovate with VRCAM and robotic automation for precision material processing:
 - Solution: Implemented AI-based defect detection and classification.
 - Result: Reduced defect classification time.
 
-|<img src="/assets/images/gen/projects/lcd1.webp" width="450">|<img src="/assets/images/gen/projects/lcd2.webp" width="450">|
-|---|---|
-|||
+|<img src="/assets/images/gen/projects/lcd1.webp" width="300">|<img src="/assets/images/gen/projects/lcd2.webp" width="300">|<img src="/assets/images/gen/projects/lcd3.webp" width="300">|
+|---|---|---|
+||||
 
 ### Metal 3D Printing System
 - Challenge: Unstable melting pool size led to part defects.
 - Solution: Used IR camera monitoring + adaptive laser control.
 - Result: Achieved 20% part quality improvement with real-time adjustments.
+
+{% include framework/shortcodes/youtube.html id='kHJCm3TZ9vo' %}
 
 ### Laser-Based Material Removal
 - Challenge: Manual material removal was inconsistent and time-consuming.
