@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Hosting Your Static Site"
+title: "Founded in November 2018"
 date: 2018-11-19T00:00:00Z
 authors: ["SG Lee"]
 categories: ["News"]
-description: "VCANUS is established"
-thumbnail: "/assets/images/gen/blog/blog-1-thumbnail.webp"
+description: "Data into Intelligence, Intelligence into Action"
+thumbnail: "/assets/images/gen/blog/vcanus-ci-thumbnail.webp"
 image: "/assets/images/gen/blog/blog-1.webp"
 ---
 

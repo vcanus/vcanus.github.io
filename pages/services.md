@@ -53,8 +53,8 @@ outro:
   enabled: true
   align: left
   image: false
-  heading: "Transform your challenges with our expertise"
-  sub_heading: "Let us turn your vision into reality"
+  heading: "Solve complex challenges with our data-driven expertise."
+  sub_heading: "We transform your vision into intelligent solutions—from concept to reality."
   buttons:
     enabled: true
     list:
