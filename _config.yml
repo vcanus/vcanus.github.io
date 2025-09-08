@@ -188,7 +188,7 @@ menu:
 footer:
   enable_footer: true # show/hide the entire footer
   footer_title: "VCANUS"
-  footer_description: "See beyond the data—with AI-powered insights."
+  footer_description: "See beyond the data—with AI-driven intelligence."
   enable_social_media_icons: true
   enable_contact_details: true
   enable_menu_footer_primary: true
