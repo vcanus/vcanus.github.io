@@ -39,8 +39,8 @@ intro:
   enabled: false
   align: left
   image: false
-  heading: "We are a full service digital agency"
-  sub_heading: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget sapien in elit semper accumsan. Pellentesque accumsan ut tortor eu varius. Sed id tincidunt massa, ut egestas orci."
+  heading: ""
+  sub_heading: ""
   features:
     enabled: true
     list:

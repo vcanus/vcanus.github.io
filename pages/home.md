@@ -50,9 +50,9 @@ services:
 intro:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/ai-robot-thumbnail.webp"
+  image: "/assets/images/gen/content/where-data-meets-progress-thumbnail.webp"
   heading: "Where Data Meets Progress."
-  sub_heading: "Our AI-powered solutions turn raw data into actionable insights, helping businesses achieve greater efficiency, accuracy, and adaptability in their operations"
+  sub_heading: "Our AI-powered solutions turn raw data into actionable insights, helping businesses achieve greater efficiency, accuracy, and adaptability in their operations."
   features:
     enabled: false
     list:
