@@ -12,7 +12,7 @@ hero:
   enabled: true
   heading: "Intelligent Manufacturing"
   sub_heading: "Smart Vision. Precise Control. Seamless Automation."
-  text_color: "#000000"
+  text_color: "#ffffff"
   background_color: ""
   background_gradient: false
   background_image: "/assets/images/gen/projects/vlap3d-large.webp"
