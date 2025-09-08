@@ -84,6 +84,10 @@ Utilize 1D/2D displacement sensors for inline inspection and 3D profiling:
 - 2D Sensor + Actuator Systems: Combine sensors with linear actuators to create 3D profiles of complex parts.
 - Automated Reporting: Generate pass/fail reports based on tolerance limits.
 
+|<img src="/assets/images/gen/projects/2dp1.webp" width="300">|<img src="/assets/images/gen/projects/2dp2.webp" width="600">|
+|---|---|
+|||
+
 ### 3. Advanced Robotic Applications
 Innovate with VRCAM and robotic automation for precision material processing:
 
@@ -115,9 +119,9 @@ Innovate with VRCAM and robotic automation for precision material processing:
 ||||
 
 ### Display Defect Classification
-- Challenge: Manual defect classification was slow and error-prone.
-- Solution: Implemented AI-based defect detection and classification.
-- Result: Reduced defect classification time.
+- Challenge: Increase accuracy of defect classification.
+- Solution: Segmentation 기능을 추가하여 defect 검출 성능을 향상하고 학습 네트워크 및 성능을 최적화.
+- Result: 결함 검출 및 분류 성능 향상.
 
 |<img src="/assets/images/gen/projects/lcd1.webp" width="300">|<img src="/assets/images/gen/projects/lcd2.webp" width="300">|<img src="/assets/images/gen/projects/lcd3.webp" width="300">|
 |---|---|---|
