@@ -4,13 +4,13 @@ title: "Visit Us"
 date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/visitus/"
-description: "You are always welcom."
+description: "You are always welcome."
 image: "/assets/images/gen/content/content-4-thumbnail.webp"
 
 hero:
   enabled: false
-  heading: "Career at VCANUS"
-  sub_heading: "Build the Future with Data & AI"
+  heading: "Visit Us"
+  sub_heading: "You are always welcome."
   background_image: false
   background_image_blend_mode: false
   full_height_mobile: false
@@ -23,6 +23,7 @@ hero:
         fa_icon: false
         size: large
 ---
+
 
 ## Contact
 
