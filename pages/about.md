@@ -9,8 +9,8 @@ image: "/assets/images/gen/content/content-5.webp"
 
 hero:
   enabled: false
-  heading: "About Us"
-  sub_heading: "Business plan hackathon handshake responsive web design."
+  heading: "About VCANUS"
+  sub_heading: "Turning Data into Intelligent Solutions"
   background_image: false
   background_image_blend_mode: false
   full_height_mobile: false
@@ -24,8 +24,6 @@ hero:
         size: large
 ---
 
-
-# About VCANUS: Turning Data into Intelligent Solutions
 
 VCANUS specializes in real-time data processing, AI-driven analytics, and adaptive control systems to solve complex challenges across industries. Our expertise in transforming raw data into actionable insights enables smarter decision-making, automation, and optimization—whether in manufacturing, education, healthcare, or beyond.
 
@@ -72,5 +70,6 @@ Our data processing and AI capabilities extend to:
 - Smart Cities: Traffic pattern analysis, infrastructure monitoring.
 
 Let’s innovate together.
+<br>
 📧 info@vcanus.com | 🌐 http://www.vcanus.com
 

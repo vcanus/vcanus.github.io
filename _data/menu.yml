@@ -27,9 +27,12 @@ main:
   - name: Blog
     url: /blog/
     weight: 4
+  - name: Career
+    url: /career/
+    weight: 5
   - name: About
     url: /about/
-    weight: 5
+    weight: 6
 footer_primary:
   - name: Home
     url: /
@@ -47,9 +50,6 @@ footer_secondary:
   - name: About
     url: /about/
     weight: 2
-  - name: Members
-    url: /team/
-    weight: 3
   - name: Contact
     url: /contact/
     weight: 4
