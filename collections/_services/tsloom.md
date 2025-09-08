@@ -52,7 +52,8 @@ TSLoom provides comprehensive end-to-end MLOps capabilities, making it easier to
 With TSLoom, users can:
 - Deploy pre-built ML models (for prediction, classification, clustering, and anomaly detection) or custom models tailored to unique needs.
 - Design and automate data preprocessing and postprocessing workflows using a user-friendly visual programming interface.
-- Connect to industrial PLCs, IoT devices, databases, and enterprise systems in real time, enabling instant data analysis and decision-making.
+- Connect to industrial PLCs, IoT devices, databases, and enterprise systems in real time, enabling instant data analysis and decision-making.   
+
 |<img src="/assets/images/gen/services/tsloom1.webp" width="200">|<img src="/assets/images/gen/services/tsloom2.webp" width="200">|<img src="/assets/images/gen/services/tsloom3.webp" width="200">|<img src="/assets/images/gen/services/tsloom4.webp" width="200">|
 |---|---|---|---|
 |||||
