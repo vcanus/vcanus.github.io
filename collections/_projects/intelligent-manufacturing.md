@@ -67,7 +67,7 @@ Leverage TSLoom and Edge AI to transform visual data into actionable intelligenc
 
 **Machine Alignment**
 - Edge & Polygon Detection: Use pattern matching and geometric alignment to set machine origins.
-- Automated Calibration: Achieve sub-millimeter precision in machine setup.
+- Automated Calibration: Achieve micro-meter precision in machine setup.
 
 **Metal 3D Printing System**
 - Melting Pool Monitoring: Capture IR camera images of the melting pool.
@@ -89,7 +89,7 @@ Innovate with VRCAM and robotic automation for precision material processing:
 
 **Laser-Based Material Removal System**
 - 3D Scanning & Path Planning: Use laser scanners to map part surfaces.
-- Adaptive Material Removal: Control robot-mounted lasers to remove material with micron-level precision.
+- Adaptive Material Removal: Control robot-mounted lasers to remove material with dozens of micron-level precision.
 
 **Laser Sintering-Based Patterning System**
 - Laser Sintering Process: Create electronic circuit paths using laser sintering.
@@ -108,12 +108,20 @@ Innovate with VRCAM and robotic automation for precision material processing:
 ### Roll-to-Roll Coating System
 - Challenge: Inconsistent coating thickness due to meniscus shape variations.
 - Solution: Deployed machine vision + AI models to predict and adjust coating parameters.
-- Result: Achieved ±1% accuracy of coating thickness prediction
+- Result: Achieved 98% accuracy of coating thickness prediction
+
+|<img src="/assets/images/gen/projects/r2r1.webp" width="300">|<img src="/assets/images/gen/projects/r2r2.webp" width="300">|<img src="/assets/images/gen/projects/r2r3.webp" width="300">|
+|---|---|---|
+||||
 
 ### Display Defect Classification
 - Challenge: Manual defect classification was slow and error-prone.
 - Solution: Implemented AI-based defect detection and classification.
 - Result: Reduced defect classification time.
+
+|<img src="/assets/images/gen/projects/lcd1.webp" width="450">|<img src="/assets/images/gen/projects/lcd2.webp" width="450">|
+|---|---|
+|||
 
 ### Metal 3D Printing System
 - Challenge: Unstable melting pool size led to part defects.
