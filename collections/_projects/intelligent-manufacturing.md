@@ -51,6 +51,7 @@ With proven experience in roll-to-roll coating, display defect classification, m
 Our solutions combine cutting-edge technology with deep domain expertise, delivering actionable insights and tangible ROI for smart factories.
 
 ## Core Technologies & Solutions
+
 ### 1. Machine Vision-Based Intelligent Manufacturing
 Leverage TSLoom and Edge AI to transform visual data into actionable intelligence:
 
@@ -89,17 +90,19 @@ Innovate with VRCAM and robotic automation for precision material processing:
 **Laser-Based Material Removal System**
 - 3D Scanning & Path Planning: Use laser scanners to map part surfaces.
 - Adaptive Material Removal: Control robot-mounted lasers to remove material with micron-level precision.
+
 **Laser Sintering-Based Patterning System**
 - Laser Sintering Process: Create electronic circuit paths using laser sintering.
 - Defect Inspection: Detect circuit defects with machine vision and AI-based analysis.
 
 ## Key Benefits of VCANUS Solutions
+
 | Solution Area | Key Benefits |
 |---|---|
-| Machine Vision | Real-time monitoring, defect classification, and adaptive process control. |
-| Distance Displacement Sensors | High-speed inline inspection, 3D profiling, and automated quality reporting. |
-| Robotic Automation | Precision material processing, adaptive path planning, and seamless integration with production. |
-| Edge AI & 3D Measurement | Predictive analytics, statistical process control, and closed-loop quality management. |
+| Machine Vision | Real-time monitoring, defect classification, and adaptive process control |
+| Distance Displacement Sensors | High-speed inline inspection, 3D profiling, and automated quality reporting |
+| Robotic Automation | Precision material processing, adaptive path planning, and seamless integration with production |
+| Edge AI & 3D Measurement | Predictive analytics, statistical process control, and closed-loop quality management |
 
 ## Success Stories
 ### Roll-to-Roll Coating System
@@ -135,13 +138,14 @@ Innovate with VRCAM and robotic automation for precision material processing:
 ✅ Future-Ready: Continuous updates with latest AI, vision, and robotic technologies.
 
 ## Industries We Serve
+
 | Industry | Application |
 |---|---|
-| Automotive | Body panel inspection, coating thickness control, and robotic material removal. |
-| Aerospace | Turbine blade inspection, composite material processing, and precision alignment. |
-| Electronics | Display defect classification, PCB inspection, and laser sintering for circuits. |
-| Heavy Machinery | Large-part 3D measurement, wear analysis, and automated welding inspection. |
-| Metal 3D Printing | Melting pool monitoring, adaptive laser control, and defect detection. |
+| Automotive | Body panel inspection, coating thickness control, and robotic material removal |
+| Aerospace | Turbine blade inspection, composite material processing, and precision alignment |
+| Electronics | Display defect classification, PCB inspection, and laser sintering for circuits |
+| Heavy Machinery | Large-part 3D measurement, wear analysis, and automated welding inspection |
+| Metal 3D Printing | Melting pool monitoring, adaptive laser control, and defect detection |
 
 ## Get Started with VCANUS Intelligent Manufacturing
 Transform your production with smart, data-driven solutions:
