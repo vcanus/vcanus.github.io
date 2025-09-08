@@ -1,10 +1,10 @@
 ---
 layout: basic
-title: "About Us"
+title: "About VCANUS"
 date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/about/"
-description: "Business plan hackathon handshake responsive web design."
+description: "Turning Data into Intelligent Solutions"
 image: "/assets/images/gen/content/content-5.webp"
 
 hero:
