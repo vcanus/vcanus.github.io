@@ -5,7 +5,7 @@ date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/career/"
 description: "Build the Future with Data & AI"
-image: "/assets/images/gen/content/content-3.webp"
+image: "/assets/images/gen/content/content-3-thumbnail.webp"
 
 hero:
   enabled: false
