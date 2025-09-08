@@ -95,12 +95,12 @@ outro:
   enabled: true
   align: center
   image: false
-  heading: Transform your challenges with our expertise.
-  sub_heading: "Let us turn your vision into reality"
+  heading: Solve complex challenges with our data-driven expertise.
+  sub_heading: "We transform your vision into intelligent solutions—from concept to reality."
   features:
     enabled: false
     list:
-      - text: "Let us turn your vision into reality"
+      - text: "Using real-time analytics and AI, we turn challenges into opportunities."
         fa_icon: "fas fa-envelope-open-text"
   buttons:
     enabled: true
