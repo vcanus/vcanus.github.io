@@ -30,7 +30,7 @@ hero:
 
 ## Our Vision
 
-###"Data into Intelligence, Intelligence into Action"
+>   **Data into Intelligence, Intelligence into Action**
 
 We transform raw data into practical solutions, helping **people and industries** make smarter, data-driven decisions.
 
