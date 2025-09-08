@@ -130,4 +130,3 @@ Transform your manufacturing processes with data-driven intelligence. Contact us
 - Schedule a demo of our EdgeAI platform.
 - Explore custom solution development for your unique challenges.
 
-📩 [contact us](mailto:info@vcanus.com)
