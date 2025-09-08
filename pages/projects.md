@@ -62,7 +62,7 @@ outro:
   align: left
   image: false
   heading: "Solve complex challenges with our data-driven expertise."
-  sub_heading: "We transform your vision into intelligent solutions—from concept to reality."
+  sub_heading: "We turn your vision into intelligent solutions—from concept to deployment."
   buttons:
     enabled: true
     list:
