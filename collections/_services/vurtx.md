@@ -101,7 +101,7 @@ With VURT-X, users can:
 - Error compensation (setup error: coordinate compensation; position error: 3D table-based compensation).
 - Error table management (registration, updates).
 
-### Centralized Control of Robot Systems (Option)
+### Centralized Control of Robot Systems (Enterprise Edition)
 - Integration of multi-brand robots via a common interface and user-friendly GUI.
 - Real-time sequence control for multiple robots, eliminating the need for individual pendants.
 - Integrated monitoring of the entire shop floor with 3D visualization.
