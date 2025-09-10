@@ -9,8 +9,38 @@ thumbnail: "/assets/images/gen/blog/blog-1-thumbnail.webp"
 image: "/assets/images/gen/blog/blog-1-large.webp"
 ---
 
+## History of Certifications and Designations
+
+| Date          | Achievement                                                                                     |
+|---------------|-------------------------------------------------------------------------------------------------|
+| May 10, 2025  | Renewal of **Inno-Biz** certification                                |
+| Apr 09, 2025  | Renewal of **Venture Company** designation                                                       |
+| Dec 13, 2024  | Certified as a **Performance-Sharing Company** (Performance-Based Incentive, Ministry of SMEs and Startups) |
+| Dec 11, 2023  | Signed **industry-academic cooperation agreement** with Seoul National University of Science and Technology |
+| Oct 01, 2023  | Designated as a **Talent-Nurturing SME** (Ministry of SMEs and Startups)                         |
+| Oct 21, 2022  | Certified as a **Performance-Sharing Company** (Performance Bonus Payment, Ministry of SMEs and Startups) |
+| May 10, 2022  | Designated as **Inno-Biz**                                            |
+| Jan 08, 2022  | Joined **Tomorrow's Hope Savings** program                                                       |
+| Oct 06, 2021  | Certified as a **Performance-Sharing Company** (Performance Bonus Payment, Ministry of SMEs and Startups) |
+| Jun 15, 2021  | Registered as a **supplier of AI-based manufacturing data analysis solutions**                  |
+| Jun 03, 2021  | Registered as a **Startup Company** (Ministry of SMEs and Startups)                             |
+| Mar 30, 2021  | Registered as a **Smart Factory Solution Provider**                                             |
+| Dec 11, 2020  | Issued **Direct Production Certificate**                                                        |
+| Nov 25, 2020  | Registered as a **Software Business**                                                           |
+| Sep 29, 2020  | Participated in **Youth Digital Job Program**                                                    |
+| Apr 20, 2020  | Designated as a **Venture Company**                                                             |
+| Mar 31, 2020  | Certified as a **Performance-Sharing Company** (Performance Bonus Payment/Incentive Program, Ministry of SMEs and Startups) |
+| Mar 30, 2020  | Certified as a **Future Performance-Sharing Company** (Ministry of SMEs and Startups)           |
+| Mar 30, 2020  | Relocated to **Korea Institute for Robot Industry Advancement** (Gyeongsang Region)             |
+| Feb 10, 2020  | Joined **Youth Tomorrow Savings** program                                                        |
+| Sep 23, 2019  | Established **Corporate Research Institute**                                                     |
+| Jun 14, 2019  | Registered for **Public Procurement Service (PPS) Bidding Qualification**                       |
+| May 01, 2019  | Established **Dedicated Research Department**                                                    |
+| Dec 03, 2018  | **VCANUS Co., Ltd.** opened                                                                      |
+| Nov 19, 2018  | **VCANUS Co., Ltd.** incorporated (corporate registration)                                       |
+
+
 ## 비카누스 인증 및 등록 내용
-2018년 설립 이래 인증 및 등록 내용입니다.
 
 | 날짜        | 내용                                                                                     |
 |-------------|------------------------------------------------------------------------------------------|
@@ -21,7 +51,6 @@ image: "/assets/images/gen/blog/blog-1-large.webp"
 | 2023.10.01  | 인재육성형 중소기업 지정 (중소벤처기업부)                                               |
 | 2022.10.21  | 성과공유도입기업 인증 (성과급지급, 중소벤처기업부)                                       |
 | 2022.05.10  | 기술혁신형 중소기업 지정 (Inno-Biz)                                                     |
-| 2022.03.28  | 성과공유도입기업 인증 (성과급지급/성과보상공제사업의 가입, 중소벤처기업부)                 |
 | 2022.01.08  | 내일채움공제 가입                                                                       |
 | 2021.10.06  | 성과공유도입기업 인증 (성과급지급, 중소벤처기업부)                                       |
 | 2021.06.15  | AI기반 제조데이터 분석솔루션 공급기업 등록                                              |
