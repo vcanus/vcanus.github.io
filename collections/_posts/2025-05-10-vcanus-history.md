@@ -5,7 +5,7 @@ date: 2025-05-10T00:00:00Z
 authors: ["SG Lee"]
 categories: ["News"]
 description: "History of Certifications and Designations"
-thumbnail: "/assets/images/gen/blog/blog-1-thumbnail-thumbnail.webp"
+thumbnail: "/assets/images/gen/blog/blog-1-thumbnail.webp"
 image: "/assets/images/gen/blog/blog-1-large.webp"
 ---
 

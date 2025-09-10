@@ -59,6 +59,8 @@ With VURT-X, users can:
 - Create, simulate, and execute sequences—including point-to-point motion and custom tasks (e.g., pick-and-place, inspection, packaging, labeling).
 - Program and utilize an embedded PLC for advanced automation logic.
 
+<img src="/assets/images/gen/services/vurt-x.png" alt="How it works" width="900"/>
+
 ## Key Features
 
 ### Robot Compatibility
