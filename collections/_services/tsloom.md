@@ -35,63 +35,87 @@ hero:
 
 ## Real-Time Data & AI Platform for Industries and Beyond
  
-TSLoom is a high-performance data processing and MLOps platform designed to enable real-time analytics and machine learning on streaming data. By leveraging distributed control, containerization, and automated workflows, TSLoom simplifies the deployment, management, and integration of ML models—empowering industries and innovators to transform raw data into actionable insights.
+**TSLoom** is a high-performance **data processing and MLOps platform** designed to enable **real-time analytics and machine learning on streaming data**. By leveraging **distributed control, containerization, and automated workflows**, TSLoom simplifies the deployment, management, and integration of ML models—empowering industries and innovators to **transform raw data into actionable insights**.
+
+---
 
 ## What is MLOps?
 
-MLOps (Machine Learning Operations) is a set of practices that combines machine learning, data engineering, and IT operations to automate and optimize the entire ML lifecycle—from data collection and model training to deployment and continuous monitoring. It accelerates model development, ensures operational reliability, and enables scalable, seamless deployment in both industrial and general applications. 
-TSLoom provides comprehensive end-to-end MLOps capabilities, making it easier to operationalize and scale ML solutions—whether for factories, smart cities, or custom applications.
+**MLOps (Machine Learning Operations)** combines **machine learning, data engineering, and IT operations** to automate and optimize the **entire ML lifecycle**—from data collection and model training to deployment and continuous monitoring. It accelerates model development, ensures operational reliability, and enables scalable, seamless deployment in both **industrial and general applications**.
 
-<img src="/assets/images/gen/services/mlops.webp" alt="MLOps" width="260"/> [Wikipedia](https://en.wikipedia.org/wiki/MLOps)
+TSLoom provides **comprehensive end-to-end MLOps capabilities**, making it easier to operationalize and scale ML solutions—whether for **factories, smart cities, or custom applications**.
 
-<!--{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}-->
+![MLOps](/assets/images/gen/services/mlops.webp)
+*[Learn more about MLOps on Wikipedia](https://en.wikipedia.org/wiki/MLOps)*
+
+---
 
 ## What You Can Do with TSLoom
 
 With TSLoom, users can:
-- Deploy pre-built ML models (for prediction, classification, clustering, and anomaly detection) or custom models tailored to unique needs.
-- Design and automate data preprocessing and postprocessing workflows using a user-friendly visual programming interface.
-- Connect to industrial PLCs, IoT devices, databases, and enterprise systems in real time, enabling instant data analysis and decision-making.   
+
+### 📊 Data Pipeline Construction
+- **Real-time data collection** from industrial PLCs, IoT devices, databases, and enterprise systems
+- **Fast and seamless data transfer** from source to sink
+- **Automated data processing** for instant analysis and decision-making
+- **Workflow design and automation** using a visual programming interface
+- **Data loading** to databases
+- **Data visualization** with interactive dashboards
+
+### 🤖 ML-Based Data Analysis
+- **Rule-based modeling** for simple or specialized cases
+- **Pre-built ML models** for prediction, classification, and anomaly detection
+- **Custom ML model development** tailored to unique business needs
+
+### ⚙️ Model & Workflow Management
+- **ML model training and testing**
+- **Model deployment and lifecycle management**
+- **Real-time workflow monitoring and execution**
 
 |<img src="/assets/images/gen/services/tsloom1.webp" width="200">|<img src="/assets/images/gen/services/tsloom2.webp" width="200">|<img src="/assets/images/gen/services/tsloom3.webp" width="200">|<img src="/assets/images/gen/services/tsloom4.webp" width="200">|
-|---|---|---|---|
+ |:---:|:---:|:---:|:---:|
 |||||
 
-## Key Features
+   ![TSLoom Feature 1](/assets/images/gen/services/tsloom1.webp) | ![TSLoom Feature 2](/assets/images/gen/services/tsloom2.webp) | ![TSLoom Feature 3](/assets/images/gen/services/tsloom3.webp) | ![TSLoom Feature 4](/assets/images/gen/services/tsloom4.webp) |
+ |:---:|:---:|:---:|:---:|
+ | *Data Pipeline* | *ML Analysis* | *Workflow Management* | *Real-Time Monitoring* |
+ 
 
-### Extensive Device & System Connectivity
+---
+
+## 🔑 Key Features
+
+### 🔌 Extensive Device & System Connectivity
 - Field Bus: EtherCAT, OPC-UA, Mitsubishi CC-Link IE, ProfiNet, etc.
-- CNC Controller: Fanuc, Siemens
-- Data Aquisition (DAQ): Adlink, NI, Advantech
-- General Protocols: MQTT, TCP/IP
-- Databases: PostgreSQL, MySQL, Oracle, MongoDB, Redis, etc.
+- CNC Controllers: Fanuc, Siemens
+- Data Acquisition (DAQ): Adlink, NI, Advantech
+- Protocol Support: MQTT, TCP/IP
+- Database Compatibility: PostgreSQL, MySQL, Oracle, MongoDB, Redis, etc.
 - Custom Solutions: 📩 [contact us](mailto:info@vcanus.com)
 
-### High Performance Real-Time & ML Platform
+### ⚡ High-Performance Real-Time & ML Platform
 - Proprietary real-time data processing (collection, preparation, analysis, monitoring)
 - Ultra-low latency data transfer
 - Real-time ML model deployment and lifecycle management
 
-### Advanced Real-Time Visualization
+### 📈 Advanced Real-Time Visualization
 - Drag-and-drop dashboard configuration
 - Ultra-fast real-time charting
 - High-speed database search and visualization
 
-### User-Friendly ML Model Integration
+### 🛠️ User-Friendly ML Integration
 - No-code/low-code visual workflow composition
 - Real-time monitoring and diagnostics of workflow nodes
 - Support for both pre-built and custom ML models
 
-### Seamless Scalability & Integration
+### ☁️ Seamless Scalability & Integration
 - Scalable on-premise and cloud infrastructure
 - Effortless cloud migration and expansion
 - Native integration with MES, ERP, and enterprise systems
 
-### Marketplace
+### 🛒 Marketplace
 - One-click installation of nodes and workflows
 - (Additional features in development)
 
-
-<!--{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}-->
 
 
