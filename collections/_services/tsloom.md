@@ -69,7 +69,7 @@ With TSLoom, users can:
 
 ### ⚙️ Model & Workflow Management
 - **ML model training and testing**
-- **Model deployment and lifecycle management**
+- **Workflow deployment and lifecycle management**
 - **Real-time workflow monitoring and execution**
 
 |<img src="/assets/images/gen/services/tsloom1.webp" width="200">|<img src="/assets/images/gen/services/tsloom2.webp" width="200">|<img src="/assets/images/gen/services/tsloom3.webp" width="200">|<img src="/assets/images/gen/services/tsloom4.webp" width="200">|
