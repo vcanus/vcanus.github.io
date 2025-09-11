@@ -2,9 +2,9 @@
 layout: home
 permalink: "/"
 title: "VCANUS"
-description: "Turning Data into Intelligence. AI-Powered Solutions for Smarter Decisions."
+description: "Data Innovator"
 header_transparent: true
-meta_title: "Turning Data into Intelligence. AI-Powered Solutions for Smarter Decisions."
+meta_title: "Data Innovator"
 
 hero:
   enabled: true
