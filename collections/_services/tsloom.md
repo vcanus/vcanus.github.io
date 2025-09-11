@@ -45,7 +45,7 @@ hero:
 
 TSLoom provides **comprehensive end-to-end MLOps capabilities**, making it easier to operationalize and scale ML solutions—whether for **factories, smart cities, or custom applications**.
 
-![MLOps](/assets/images/gen/services/mlops.webp)
+<img src="/assets/images/gen/services/mlops.webp" width="350">
 *[Learn more about MLOps on Wikipedia](https://en.wikipedia.org/wiki/MLOps)*
 
 ---
@@ -75,11 +75,6 @@ With TSLoom, users can:
 |<img src="/assets/images/gen/services/tsloom1.webp" width="200">|<img src="/assets/images/gen/services/tsloom2.webp" width="200">|<img src="/assets/images/gen/services/tsloom3.webp" width="200">|<img src="/assets/images/gen/services/tsloom4.webp" width="200">|
  |:---:|:---:|:---:|:---:|
 |||||
-
-   ![TSLoom Feature 1](/assets/images/gen/services/tsloom1.webp) | ![TSLoom Feature 2](/assets/images/gen/services/tsloom2.webp) | ![TSLoom Feature 3](/assets/images/gen/services/tsloom3.webp) | ![TSLoom Feature 4](/assets/images/gen/services/tsloom4.webp) |
- |:---:|:---:|:---:|:---:|
- | *Data Pipeline* | *ML Analysis* | *Workflow Management* | *Real-Time Monitoring* |
- 
 
 ---
 
