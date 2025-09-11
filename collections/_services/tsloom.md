@@ -52,6 +52,8 @@ TSLoom provides **comprehensive end-to-end MLOps capabilities**, making it easie
 
 ## What You Can Do with TSLoom
 
+<img src="/assets/images/gen/services/tsloom-flow.webp" width="800">
+
 With TSLoom, users can:
 
 ### 📊 Data Pipeline Construction
