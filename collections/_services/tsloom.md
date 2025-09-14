@@ -56,7 +56,7 @@ TSLoom provides **comprehensive end-to-end MLOps capabilities**, making it easie
 
 With TSLoom, users can:
 
-### 📊 Data Pipeline Construction
+### Data Pipeline Construction
 - **Real-time data collection** from industrial PLCs, IoT devices, databases, and enterprise systems
 - **Fast and seamless data transfer** from source to sink
 - **Automated data processing** for instant analysis and decision-making
@@ -64,12 +64,12 @@ With TSLoom, users can:
 - **Data loading** to databases
 - **Data visualization** with interactive dashboards
 
-### 🤖 ML-Based Data Analysis
+### ML-Based Data Analysis
 - **Rule-based modeling** for simple or specialized cases
 - **Pre-built ML models** for prediction, classification, and anomaly detection
 - **Custom ML model development** tailored to unique business needs
 
-### ⚙️ Model & Workflow Management
+### Model & Workflow Management
 - **ML model training and testing**
 - **Workflow deployment and lifecycle management**
 - **Real-time workflow monitoring and execution**
@@ -80,37 +80,37 @@ With TSLoom, users can:
 
 ---
 
-## 🔑 Key Features
+## Key Features
 
-### 🔌 Extensive Device & System Connectivity
+### Extensive Device & System Connectivity
 - Field Bus: EtherCAT, OPC-UA, Mitsubishi CC-Link IE, ProfiNet, etc.
 - CNC Controllers: Fanuc, Siemens
 - Data Acquisition (DAQ): Adlink, NI, Advantech
 - Protocol Support: MQTT, TCP/IP
 - Database Compatibility: PostgreSQL, MySQL, Oracle, MongoDB, Redis, etc.
-- Custom Solutions: 📩 [contact us](mailto:info@vcanus.com)
+- Custom Solutions: [contact us](mailto:info@vcanus.com)
 
-### ⚡ High-Performance Real-Time & ML Platform
+### High-Performance Real-Time & ML Platform
 - Proprietary real-time data processing (collection, preparation, analysis, monitoring)
 - Ultra-low latency data transfer
 - Real-time ML model deployment and lifecycle management
 
-### 📈 Advanced Real-Time Visualization
+### Advanced Real-Time Visualization
 - Drag-and-drop dashboard configuration
 - Ultra-fast real-time charting
 - High-speed database search and visualization
 
-### 🛠️ User-Friendly ML Integration
+### User-Friendly ML Integration
 - No-code/low-code visual workflow composition
 - Real-time monitoring and diagnostics of workflow nodes
 - Support for both pre-built and custom ML models
 
-### ☁️ Seamless Scalability & Integration
+### Seamless Scalability & Integration
 - Scalable on-premise and cloud infrastructure
 - Effortless cloud migration and expansion
 - Native integration with MES, ERP, and enterprise systems
 
-### 🛒 Marketplace
+### Marketplace
 - One-click installation of nodes and workflows
 - (Additional features in development)
 
