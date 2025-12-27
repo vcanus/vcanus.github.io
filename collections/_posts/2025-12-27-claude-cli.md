@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AutoEncode 기반 시계열데이터 이상 진단"
+title: "Claude CLI 설치 및 MCP 서버 설정"
 date: 2025-12-27T00:00:00Z
 authors: ["SG Lee"]
 categories: ["Development"]
