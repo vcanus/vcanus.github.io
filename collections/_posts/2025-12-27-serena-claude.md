@@ -367,6 +367,91 @@ claude
 
 ## 8. 트러블슈팅
 
+### 프로젝트에서 Serena가 인식되지 않음
+
+**증상:** `claude mcp list`에서 serena가 보이지만, 특정 프로젝트에서 Serena 도구가 작동하지 않음
+
+**원인:** `~/.claude.json`에 프로젝트별 `mcpServers` 설정이 있으면, 해당 프로젝트에서는 **프로젝트 설정이 우선**되어 전역 `mcpServers`가 무시됩니다.
+
+**문제가 되는 구조:**
+
+```json
+{
+  "mcpServers": {
+    "serena": { ... }  // ← 전역 설정 (무시됨)
+  },
+  "projects": {
+    "/Users/사용자명/workspace/my-project": {
+      "mcpServers": {
+        // ← 비어있거나 serena가 없으면 해당 프로젝트에서 serena 사용 불가
+      }
+    }
+  }
+}
+```
+
+**해결 방법 1: 프로젝트별 mcpServers 섹션 제거 (권장)**
+
+프로젝트마다 다른 MCP 서버가 필요 없다면, `projects` 내의 `mcpServers`를 삭제:
+
+```json
+{
+  "mcpServers": {
+    "jetbrains": {
+      "command": "npx",
+      "args": ["-y", "@jetbrains/mcp-proxy"]
+    },
+    "serena": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "git+https://github.com/oraios/serena",
+        "serena",
+        "start-mcp-server",
+        "--context=claude-code",
+        "--project-from-cwd"
+      ]
+    }
+  },
+  "projects": {
+    "/Users/사용자명/workspace/my-project": {
+      // mcpServers 섹션 제거 → 전역 설정 사용
+    }
+  }
+}
+```
+
+**해결 방법 2: 각 프로젝트에 serena 추가**
+
+프로젝트별 설정을 유지해야 한다면, 각 프로젝트에 serena를 수동으로 추가:
+
+```json
+{
+  "mcpServers": {
+    "serena": { ... }
+  },
+  "projects": {
+    "/Users/사용자명/workspace/my-project": {
+      "mcpServers": {
+        "serena": {
+          "command": "uvx",
+          "args": [
+            "--from",
+            "git+https://github.com/oraios/serena",
+            "serena",
+            "start-mcp-server",
+            "--context=claude-code",
+            "--project-from-cwd"
+          ]
+        }
+      }
+    }
+  }
+}
+```
+
+> **참고:** `--scope user`로 MCP를 추가해도 기존 프로젝트별 설정에는 자동으로 추가되지 않습니다. 새 프로젝트를 생성해도 마찬가지입니다.
+
 ### MCP 서버 연결 실패
 
 **확인 사항:**
