@@ -110,7 +110,7 @@ hero:
 
 | Comparison | AutoML Platform | Vision Specialist Tool | **DeepVi** |
 |---|:---:|:---:|:---:|
-| Coding Required | ⚠️ Partially | ❌ Not required | **Fully No-Code** (labeling, training, deployment integrated) |
+| Coding Required | ⚠️ Partially | ❌ Not required | **Fully No-Code**<Br> (labeling, training, deployment integrated) |
 | Training Speed | Fast | ⚠️ Moderate | **Resolved within the cycle** |
 | Cloud Dependency | ❌ Fully dependent | ⚠️ Partially dependent | **Supports both On-Premise & Cloud** |
 | Data Security | ❌ External transfer | ❌ External transfer | **Internal server processing** (no external transfer) |
