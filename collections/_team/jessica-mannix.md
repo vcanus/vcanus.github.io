@@ -3,8 +3,8 @@ title: "SG Lee"
 date: 2025-12-10T00:00:00+90:00
 weight: 1
 description: "Jessica founded the agency in 2015 and runs day to day operations of the studio."
-<!--thumbnail: "/assets/images/team/jessica-mannix-thumbnail.jpg"-->
-<!--image: "/assets/images/team/jessica-mannix.jpg"-->
+# thumbnail: "/assets/images/team/jessica-mannix-thumbnail.jpg"
+# image: "/assets/images/team/jessica-mannix.jpg"
 jobtitle: "Founder/Director"
 links:
   - url: "https://www.linkedin.com"
