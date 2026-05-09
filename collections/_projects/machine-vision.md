@@ -152,62 +152,7 @@ High-performance edge computer with CoaXPress-12 interfaces and 10GigE option.
 
 Gidel products are deployed across industries where deterministic real-time performance and multi-camera synchronization are critical.
 
-### 🏭 Industrial Vision & Image Processing
-> Frame loss on high-speed lines / CPU bottleneck → **Zero Frame Loss · real-time FPGA compression**
-
-- HawkEye PCIe frame grabbers + FPGA compression IP
-- Real-time large-image processing and storage
-- 100% inspection on high-speed production lines
-
-### 🚁 UAV / Drone Vision Systems
-> Limited transmission bandwidth / vibration & shock → **FPGA compression · ruggedized design**
-
-- FantoVision deployed for drone environments
-- Compact and low-power design
-- Harsh environment options (I / R)
-
-### 🛡️ Defense / Aerospace Vision Systems
-> Multi-camera sync precision / military-grade certification → **InfiniVision sync · ruggedized military options**
-
-- HawkEye / FantoVision deterministic FPGA processing
-- ROI extraction + FPGA compression to reduce transmission bandwidth
-- Modular design supporting long lifecycle systems
-
-### 🏥 Medical Imaging Systems
-> High dynamic range imaging / multi-angle endoscopy → **HDR IP core · compact integrated edge AI**
-
-- FantoVision (Jetson AI inference + FPGA acquisition)
-- HDR IP core handling complex lighting
-- Compact form factor for direct integration into medical devices
-
-### 🔬 Optical Sorting Systems
-> Multi-channel concurrent capture / custom inspection algorithms → **HawkEye multi-channel + ProcVision Suite**
-
-- HawkEye multi-channel concurrent acquisition
-- FPGA compression IP for real-time processing
-- Custom algorithms via ProcVision Suite
-
-### 🎬 Volumetric Video & Augmented Reality (AR)
-> 100+ camera synchronization / high-quality volumetric video → **InfiniVision 100+ cameras · HDR + GIL Recording**
-
-- InfiniVision synchronization across 100+ cameras
-- High-quality volumetric video with HDR + GIL Recording
-- Intel FreeD / TrueView protocol support
-- Proven in NFL, Olympics, and other global sports AR
-
-### 🤖 Embedded Vision Systems
-> SWaP constraints / deterministic real-time performance → **Compact FPGA modules · OEM/ODM support**
-
-- FDB FPGA modules / FantoVision
-- Compact, low-power, OEM/ODM friendly
-- Custom FPGA logic optimized for specific applications
-
-### 🔬 Automated Test Equipment (ATE)
-> Long-duration continuous operation / diverse device types → **HawkEye + FantoVision Mini · ProcVision Suite**
-
-- High-bandwidth reliable acquisition
-- Real-time on-board compression for multi-camera operation
-- Modular design supporting diverse device types
+<img src="/assets/images/gen/projects/machine-vision-applications.svg" alt="Gidel application areas — 8 industries" style="display:block; width:100%; height:auto; max-width:1100px; margin:0 auto;">
 
 ---
 
@@ -215,26 +160,4 @@ Gidel products are deployed across industries where deterministic real-time perf
 
 Beyond simply distributing Gidel products, VCANUS combines them with our own **data platform (TSLoom)** and **AI vision platform (DeepVi)** to deliver **end-to-end industrial vision solutions**.
 
-**Scenario 1 — High-speed, large-image distributed processing**
-
-`High-speed camera → Gidel FantoVision (high-speed ingest · buffering) → VCANUS Flowbroker (intelligent task distribution) → Distributed processing nodes 1–N → Aggregated analysis results`
-
-- Lossless high-speed ingestion
-- Automatic load distribution
-- Linear scale-out by adding processing nodes
-
-**Scenario 2 — Stage-synchronized precision capture and image stitching**
-
-`Encoder → FPGA HawkEye (position analysis · trigger generation) → Camera + lighting (concurrent trigger) → DMA buffer (Zero Copy) → Stitched image`
-
-- Position-based precision triggering
-- Camera and lighting synchronization
-- Real-time image stitching
-
-**Scenario 3 — Ultra-low-latency web monitoring + real-time AI analysis**
-
-`Camera → On-site AI processing (FantoVision) → Intelligent analysis → Ultra-low-latency streaming → Web dashboard`
-
-- On-site close-coupled AI processing
-- Ultra-low-latency web monitoring
-- 24/7 unmanned automated monitoring
+<img src="/assets/images/gen/projects/machine-vision-solutions.svg" alt="VCANUS + Gidel integrated solution scenarios" style="display:block; width:100%; height:auto; max-width:1100px; margin:0 auto;">

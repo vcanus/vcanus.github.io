@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 580" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <defs>
+    <marker id="solArr" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#475569"/>
+    </marker>
+  </defs>
+  <rect width="1100" height="580" fill="#ffffff"/>
+  <text x="550" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Integrated Solutions with VCANUS</text>
+  <text x="550" y="62" text-anchor="middle" font-size="13" fill="#475569">Gidel hardware + VCANUS platforms (TSLoom · DeepVi) — End-to-End industrial vision solutions</text>
+
+  <!-- Scenario 1: Distributed Processing -->
+  <rect x="40" y="90" width="1020" height="145" rx="12" fill="#eff6ff" stroke="#1e40af" stroke-width="2"/>
+  <circle cx="65" cy="115" r="14" fill="#1e40af"/>
+  <text x="65" y="120" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">①</text>
+  <text x="90" y="120" font-size="14" font-weight="700" fill="#1e3a8a">High-speed, large-image distributed processing</text>
+
+  <rect x="55" y="140" width="155" height="50" rx="8" fill="#1e40af"/>
+  <text x="132" y="160" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">High-speed Camera</text>
+  <text x="132" y="178" text-anchor="middle" font-size="10" fill="#bfdbfe">Large-data ingest</text>
+
+  <line x1="215" y1="165" x2="240" y2="165" stroke="#475569" stroke-width="2" marker-end="url(#solArr)"/>
+
+  <rect x="245" y="140" width="180" height="50" rx="8" fill="#0d9488"/>
+  <text x="335" y="160" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">Gidel FantoVision</text>
+  <text x="335" y="178" text-anchor="middle" font-size="10" fill="#ccfbf1">High-speed ingest · buffering</text>
+
+  <line x1="430" y1="165" x2="455" y2="165" stroke="#475569" stroke-width="2" marker-end="url(#solArr)"/>
+
+  <rect x="460" y="140" width="180" height="50" rx="8" fill="#7c3aed"/>
+  <text x="550" y="160" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">VCANUS Flowbroker</text>
+  <text x="550" y="178" text-anchor="middle" font-size="10" fill="#e9d5ff">Intelligent task distribution</text>
+
+  <line x1="645" y1="165" x2="670" y2="165" stroke="#475569" stroke-width="2" marker-end="url(#solArr)"/>
+
+  <rect x="675" y="140" width="180" height="50" rx="8" fill="#16a34a"/>
+  <text x="765" y="160" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">Processing Nodes 1~N</text>
+  <text x="765" y="178" text-anchor="middle" font-size="10" fill="#bbf7d0">Horizontal scale-out</text>
+
+  <line x1="860" y1="165" x2="885" y2="165" stroke="#475569" stroke-width="2" marker-end="url(#solArr)"/>
+
+  <rect x="890" y="140" width="155" height="50" rx="8" fill="#0f172a"/>
+  <text x="967" y="160" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">Aggregated Result</text>
+  <text x="967" y="178" text-anchor="middle" font-size="10" fill="#94a3b8">Central aggregation</text>
+
+  <text x="55" y="212" font-size="11" fill="#1e3a8a">✓ Lossless high-speed ingestion</text>
+  <text x="320" y="212" font-size="11" fill="#1e3a8a">✓ Automatic load distribution</text>
+  <text x="595" y="212" font-size="11" fill="#1e3a8a">✓ Linear scale-out by adding nodes</text>
+  <text x="55" y="228" font-size="10" fill="#475569" font-style="italic">※ Safe to operate even when capture rate &gt; processing rate</text>
+
+  <!-- Scenario 2: Stage-synchronized -->
+  <rect x="40" y="245" width="1020" height="145" rx="12" fill="#fffbeb" stroke="#d97706" stroke-width="2"/>
+  <circle cx="65" cy="270" r="14" fill="#d97706"/>
+  <text x="65" y="275" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">②</text>
+  <text x="90" y="275" font-size="14" font-weight="700" fill="#92400e">Stage-synchronized precision capture and image stitching</text>
+
+  <rect x="55" y="295" width="160" height="50" rx="8" fill="#92400e"/>
+  <text x="135" y="315" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">Encoder</text>
+  <text x="135" y="333" text-anchor="middle" font-size="10" fill="#fef3c7">Position signal (RS422)</text>
+
+  <line x1="220" y1="320" x2="245" y2="320" stroke="#475569" stroke-width="2" marker-end="url(#solArr)"/>
+
+  <rect x="250" y="295" width="180" height="50" rx="8" fill="#1e40af"/>
+  <text x="340" y="315" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">FPGA HawkEye</text>
+  <text x="340" y="333" text-anchor="middle" font-size="10" fill="#bfdbfe">Position analysis · trigger gen</text>
+
+  <line x1="435" y1="320" x2="460" y2="320" stroke="#475569" stroke-width="2" marker-end="url(#solArr)"/>
+
+  <rect x="465" y="295" width="170" height="50" rx="8" fill="#dc2626"/>
+  <text x="550" y="315" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">Camera + Lighting</text>
+  <text x="550" y="333" text-anchor="middle" font-size="10" fill="#fecaca">Concurrent trigger</text>
+
+  <line x1="640" y1="320" x2="665" y2="320" stroke="#475569" stroke-width="2" marker-end="url(#solArr)"/>
+
+  <rect x="670" y="295" width="170" height="50" rx="8" fill="#7c3aed"/>
+  <text x="755" y="315" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">DMA Buffer</text>
+  <text x="755" y="333" text-anchor="middle" font-size="10" fill="#e9d5ff">Zero Copy transfer</text>
+
+  <line x1="845" y1="320" x2="870" y2="320" stroke="#475569" stroke-width="2" marker-end="url(#solArr)"/>
+
+  <rect x="875" y="295" width="170" height="50" rx="8" fill="#16a34a"/>
+  <text x="960" y="315" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">Stitched Image</text>
+  <text x="960" y="333" text-anchor="middle" font-size="10" fill="#bbf7d0">High-resolution output</text>
+
+  <text x="55" y="367" font-size="11" fill="#92400e">✓ Position-based precision trigger (sub-μs)</text>
+  <text x="370" y="367" font-size="11" fill="#92400e">✓ Camera · lighting synchronization</text>
+  <text x="660" y="367" font-size="11" fill="#92400e">✓ Real-time image stitching</text>
+  <text x="55" y="383" font-size="10" fill="#475569" font-style="italic">※ FPGA same-clock sync — Zero Delay, no separate delay line needed</text>
+
+  <!-- Scenario 3: Low-latency Web Monitoring -->
+  <rect x="40" y="400" width="1020" height="145" rx="12" fill="#faf5ff" stroke="#7c3aed" stroke-width="2"/>
+  <circle cx="65" cy="425" r="14" fill="#7c3aed"/>
+  <text x="65" y="430" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">③</text>
+  <text x="90" y="430" font-size="14" font-weight="700" fill="#6b21a8">Ultra-low-latency web monitoring + real-time AI analysis</text>
+
+  <rect x="55" y="450" width="155" height="50" rx="8" fill="#dc2626"/>
+  <text x="132" y="470" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">Camera</text>
+  <text x="132" y="488" text-anchor="middle" font-size="10" fill="#fecaca">On-site image</text>
+
+  <line x1="215" y1="475" x2="240" y2="475" stroke="#475569" stroke-width="2" marker-end="url(#solArr)"/>
+
+  <rect x="245" y="450" width="180" height="50" rx="8" fill="#0d9488"/>
+  <text x="335" y="470" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">FantoVision (Edge)</text>
+  <text x="335" y="488" text-anchor="middle" font-size="10" fill="#ccfbf1">On-site AI processing</text>
+
+  <line x1="430" y1="475" x2="455" y2="475" stroke="#475569" stroke-width="2" marker-end="url(#solArr)"/>
+
+  <rect x="460" y="450" width="180" height="50" rx="8" fill="#7c3aed"/>
+  <text x="550" y="470" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">Intelligent Analysis</text>
+  <text x="550" y="488" text-anchor="middle" font-size="10" fill="#e9d5ff">Real-time results</text>
+
+  <line x1="645" y1="475" x2="670" y2="475" stroke="#475569" stroke-width="2" marker-end="url(#solArr)"/>
+
+  <rect x="675" y="450" width="180" height="50" rx="8" fill="#1e40af"/>
+  <text x="765" y="470" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">Low-Latency Stream</text>
+  <text x="765" y="488" text-anchor="middle" font-size="10" fill="#bfdbfe">&lt; 100ms streaming</text>
+
+  <line x1="860" y1="475" x2="885" y2="475" stroke="#475569" stroke-width="2" marker-end="url(#solArr)"/>
+
+  <rect x="890" y="450" width="155" height="50" rx="8" fill="#16a34a"/>
+  <text x="967" y="470" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">Web Dashboard</text>
+  <text x="967" y="488" text-anchor="middle" font-size="10" fill="#bbf7d0">Unified monitoring</text>
+
+  <text x="55" y="522" font-size="11" fill="#6b21a8">✓ On-site close-coupled AI</text>
+  <text x="320" y="522" font-size="11" fill="#6b21a8">✓ Ultra-low-latency web monitoring</text>
+  <text x="595" y="522" font-size="11" fill="#6b21a8">✓ 24/7 unmanned automated monitoring</text>
+  <text x="55" y="538" font-size="10" fill="#475569" font-style="italic">※ Edge processing — no separate server, minimal network dependency</text>
+</svg>
