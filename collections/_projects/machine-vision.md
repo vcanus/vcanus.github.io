@@ -4,10 +4,8 @@ description: "FPGA-based machine vision solutions from Gidel — Official Korean
 date: 2019-10-03
 weight: 2
 header_transparent: false
-fa_icon: false
-icon: "assets/images/icons/icons8-merge-git-100.png"
 thumbnail: "/assets/images/gen/projects/machine-vision-thumbnail.webp"
-image: "/assets/images/gen/projects/machine-vision.webp"
+image: "/assets/images/gen/projects/machine-vision-large.webp"
 
 hero:
   enabled: true
@@ -15,9 +13,9 @@ hero:
   sub_heading: "FPGA-based machine vision solutions from Gidel"
   text_color: "#ffffff"
   background_color: ""
-  background_gradient: true
-  background_image_blend_mode: false # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/projects/machine-vision.webp"
+  background_gradient: false
+  background_image: "/assets/images/gen/projects/machine-vision-large.webp"
+  background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
@@ -29,7 +27,7 @@ hero:
         external: true
         fa_icon: false
         size: large
-        outline: false
+        outline: true
         style: "primary"
 ---
 

@@ -20,7 +20,7 @@ main:
     child:
       - name: "3D Measurement"
         url: /projects/3d-measurement/
-      - name: "Machine Vision (Frame Grabber)"
+      - name: "Machine Vision"
         url: /projects/machine-vision/
       - name: "Intelligent Manufacturing"
         url: /projects/intelligent-manufacturing/
