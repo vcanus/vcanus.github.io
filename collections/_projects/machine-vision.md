@@ -1,6 +1,6 @@
 ---
-title: "Machine Vision Solution"
-description: "FPGA-based machine vision solutions from Gidel — VCANUS official Korean distributor"
+title: "Machine Vision Solutions"
+description: "FPGA-based machine vision solutions from Gidel — Official Korean distributor"
 date: 2019-10-03
 weight: 2
 header_transparent: false
@@ -11,8 +11,8 @@ image: "/assets/images/gen/projects/machine-vision.webp"
 
 hero:
   enabled: true
-  heading: "Machine Vision Solution"
-  sub_heading: "FPGA-based machine vision solutions from Gidel · Official Korean distributor VCANUS"
+  heading: "Machine Vision Solutions"
+  sub_heading: "FPGA-based machine vision solutions from Gidel"
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
