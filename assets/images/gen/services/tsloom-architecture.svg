@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 380" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <defs>
+    <linearGradient id="boxGrad1" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#eef2ff"/><stop offset="1" stop-color="#dbeafe"/>
+    </linearGradient>
+    <linearGradient id="boxGrad2" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#1e40af"/><stop offset="1" stop-color="#1e3a8a"/>
+    </linearGradient>
+    <linearGradient id="boxGrad3" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#fef3c7"/><stop offset="1" stop-color="#fde68a"/>
+    </linearGradient>
+    <linearGradient id="boxGrad4" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#ccfbf1"/><stop offset="1" stop-color="#99f6e4"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#475569"/>
+    </marker>
+  </defs>
+  <rect width="1100" height="380" fill="#f8fafc"/>
+  <text x="550" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Architecture Overview</text>
+  <text x="550" y="65" text-anchor="middle" font-size="13" fill="#475569">Workflow Engine connects ingestion → processing → inference → visualization in a single pipeline</text>
+
+  <rect x="40" y="110" width="200" height="180" rx="12" fill="url(#boxGrad1)" stroke="#3b82f6" stroke-width="2"/>
+  <text x="140" y="140" text-anchor="middle" font-size="15" font-weight="700" fill="#1e3a8a">Data Sources</text>
+  <text x="140" y="170" text-anchor="middle" font-size="12" fill="#1e3a8a">Fieldbus · CNC</text>
+  <text x="140" y="195" text-anchor="middle" font-size="12" fill="#1e3a8a">DAQ · IoT</text>
+  <text x="140" y="220" text-anchor="middle" font-size="12" fill="#1e3a8a">DB · Cloud</text>
+  <text x="140" y="245" text-anchor="middle" font-size="12" fill="#1e3a8a">MES · ERP</text>
+  <text x="140" y="275" text-anchor="middle" font-size="11" fill="#64748b">EtherCAT, OPC-UA, MQTT...</text>
+
+  <rect x="290" y="110" width="240" height="180" rx="12" fill="url(#boxGrad2)" stroke="#1e3a8a" stroke-width="2"/>
+  <text x="410" y="145" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">Workflow Engine</text>
+  <text x="410" y="178" text-anchor="middle" font-size="13" fill="#dbeafe">Visual Workflow</text>
+  <text x="410" y="205" text-anchor="middle" font-size="13" fill="#dbeafe">Distributed Orchestrator</text>
+  <text x="410" y="232" text-anchor="middle" font-size="13" fill="#dbeafe">Scale-Out · HA</text>
+  <text x="410" y="265" text-anchor="middle" font-size="11" fill="#bfdbfe">Auto Failover · Rolling Update</text>
+
+  <rect x="580" y="110" width="200" height="180" rx="12" fill="url(#boxGrad3)" stroke="#d97706" stroke-width="2"/>
+  <text x="680" y="140" text-anchor="middle" font-size="15" font-weight="700" fill="#92400e">Processing</text>
+  <text x="680" y="170" text-anchor="middle" font-size="12" fill="#92400e">Filter · Aggregate</text>
+  <text x="680" y="195" text-anchor="middle" font-size="12" fill="#92400e">Transform · Window</text>
+  <text x="680" y="220" text-anchor="middle" font-size="12" fill="#92400e">Routing · Trigger</text>
+  <text x="680" y="245" text-anchor="middle" font-size="12" fill="#92400e">TS Sync · Quality</text>
+  <text x="680" y="275" text-anchor="middle" font-size="11" fill="#a16207">&lt; 5ms / 1M msg/sec</text>
+
+  <rect x="830" y="110" width="230" height="180" rx="12" fill="url(#boxGrad4)" stroke="#0d9488" stroke-width="2"/>
+  <text x="945" y="140" text-anchor="middle" font-size="15" font-weight="700" fill="#0f766e">Visualization / AI</text>
+  <text x="945" y="170" text-anchor="middle" font-size="12" fill="#0f766e">Real-time Dashboard</text>
+  <text x="945" y="195" text-anchor="middle" font-size="12" fill="#0f766e">GPU-Accelerated Charts</text>
+  <text x="945" y="220" text-anchor="middle" font-size="12" fill="#0f766e">ML Inference</text>
+  <text x="945" y="245" text-anchor="middle" font-size="12" fill="#0f766e">Tiered Edge AI</text>
+  <text x="945" y="275" text-anchor="middle" font-size="11" fill="#0f766e">Model Registry · MLOps</text>
+
+  <line x1="245" y1="200" x2="285" y2="200" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="535" y1="200" x2="575" y2="200" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="785" y1="200" x2="825" y2="200" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <g font-size="11" font-weight="600">
+    <rect x="40" y="320" width="160" height="32" rx="16" fill="#eef2ff" stroke="#6366f1"/>
+    <text x="120" y="340" text-anchor="middle" fill="#4338ca">Multi-Source &amp; Extensibility</text>
+    <rect x="210" y="320" width="170" height="32" rx="16" fill="#fee2e2" stroke="#ef4444"/>
+    <text x="295" y="340" text-anchor="middle" fill="#b91c1c">Low-Latency / High Throughput</text>
+    <rect x="390" y="320" width="170" height="32" rx="16" fill="#dcfce7" stroke="#22c55e"/>
+    <text x="475" y="340" text-anchor="middle" fill="#15803d">Visualization &amp; Analytics</text>
+    <rect x="570" y="320" width="160" height="32" rx="16" fill="#f3e8ff" stroke="#a855f7"/>
+    <text x="650" y="340" text-anchor="middle" fill="#7e22ce">Edge AI &amp; MLOps</text>
+    <rect x="740" y="320" width="160" height="32" rx="16" fill="#cffafe" stroke="#06b6d4"/>
+    <text x="820" y="340" text-anchor="middle" fill="#0e7490">Visual Workflow / Auto</text>
+    <rect x="910" y="320" width="150" height="32" rx="16" fill="#fef3c7" stroke="#f59e0b"/>
+    <text x="985" y="340" text-anchor="middle" fill="#a16207">Security &amp; Compliance</text>
+  </g>
+</svg>

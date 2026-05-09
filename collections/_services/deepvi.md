@@ -108,6 +108,8 @@ hero:
 
 > Key differentiators of DeepVi vs. AutoML and vision tools
 
+<div style="overflow-x:auto;">
+
 | Comparison | AutoML Platform | Vision Specialist Tool | **DeepVi** |
 |---|:---:|:---:|:---:|
 | Coding Required | ⚠️ Partially | ❌ Not required | **Fully No-Code**<Br> (labeling, training, deployment integrated) |
@@ -118,12 +120,14 @@ hero:
 | Customization | ⚠️ Limited | ⚠️ Limited | **Fully customizable per industry** |
 | Pricing Model | ❌ Pay-as-you-go | ❌ API pay-per-use | **Flat-rate license** (no usage-based billing) |
 
+</div>
+
 ---
 
 ## Key Features
 
-<div style="display:flex; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
-<div style="flex:1;" markdown="1">
+<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="flex:1 1 280px; min-width:280px;" markdown="1">
 
 ### Storage (Data Management)
 - Bulk image upload via **Web** or **FTP**
@@ -134,13 +138,13 @@ hero:
 - **Storage footprint stays constant** when adding new datasets
 
 </div>
-<div style="flex-shrink:0;">
-<img src="/assets/images/gen/services/deepvi_storage.webp" width="320">
+<div style="flex:1 1 280px; max-width:320px; min-width:0;">
+<img src="/assets/images/gen/services/deepvi_storage.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
 </div>
 </div>
 
-<div style="display:flex; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
-<div style="flex:1;" markdown="1">
+<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="flex:1 1 280px; min-width:280px;" markdown="1">
 
 ### Dataset (Labeling)
 - **Unified labeling environment** for all 3 types: Classification · Detection · Segmentation
@@ -150,13 +154,13 @@ hero:
 - Flexible training setups via **dataset splitting and merging**
 
 </div>
-<div style="flex-shrink:0;">
-<img src="/assets/images/gen/services/deepvi_dataset.webp" width="320">
+<div style="flex:1 1 280px; max-width:320px; min-width:0;">
+<img src="/assets/images/gen/services/deepvi_dataset.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
 </div>
 </div>
 
-<div style="display:flex; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
-<div style="flex:1;" markdown="1">
+<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="flex:1 1 280px; min-width:280px;" markdown="1">
 
 ### Inline Processing (Real-Time Image Processing)
 - **Pre-inference processing**: image quality enhancement, Template Matching, and more
@@ -165,13 +169,13 @@ hero:
 - **Automatic calculation** of translation and rotation offsets
 
 </div>
-<div style="flex-shrink:0;">
-<img src="/assets/images/gen/services/deepvi_review2.webp" width="320">
+<div style="flex:1 1 280px; max-width:320px; min-width:0;">
+<img src="/assets/images/gen/services/deepvi_review2.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
 </div>
 </div>
 
-<div style="display:flex; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
-<div style="flex:1;" markdown="1">
+<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="flex:1 1 280px; min-width:280px;" markdown="1">
 
 ### Model (Training & Validation)
 - Supports both **pre-trained and custom models**
@@ -181,13 +185,13 @@ hero:
 - **Best weights auto-saved** with checkpoint download support
 
 </div>
-<div style="flex-shrink:0;">
-<img src="/assets/images/gen/services/deepvi_model1.webp" width="320">
+<div style="flex:1 1 280px; max-width:320px; min-width:0;">
+<img src="/assets/images/gen/services/deepvi_model1.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
 </div>
 </div>
 
-<div style="display:flex; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
-<div style="flex:1;" markdown="1">
+<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="flex:1 1 280px; min-width:280px;" markdown="1">
 
 ### Inference (Real-Time Inference)
 - Live inference from **camera streams or image files**
@@ -198,13 +202,13 @@ hero:
 - **Workflow-based interface** for fast algorithm configuration
 
 </div>
-<div style="flex-shrink:0;">
-<img src="/assets/images/gen/services/deepvi_inference.webp" width="320">
+<div style="flex:1 1 280px; max-width:320px; min-width:0;">
+<img src="/assets/images/gen/services/deepvi_inference.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
 </div>
 </div>
 
-<div style="display:flex; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
-<div style="flex:1;" markdown="1">
+<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="flex:1 1 280px; min-width:280px;" markdown="1">
 
 ### Review (Model Improvement)
 - Build up training data through **false-positive review, re-labeling, and comments**
@@ -215,8 +219,8 @@ hero:
 - Automatic **data degradation detection** and self-recovery
 
 </div>
-<div style="flex-shrink:0;">
-<img src="/assets/images/gen/services/deepvi_review.webp" width="320">
+<div style="flex:1 1 280px; max-width:320px; min-width:0;">
+<img src="/assets/images/gen/services/deepvi_review.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
 </div>
 </div>
 
@@ -225,8 +229,8 @@ hero:
 
 > Core features across the 4 stages: Dataset → Training → Inference → Review
 
-<div style="display:flex; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
-<div style="flex:1;" markdown="1">
+<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="flex:1 1 280px; min-width:280px;" markdown="1">
 
 ### Step 1 — Dataset · Labeling
 - **Web-based UI** allows even non-experts to start labeling immediately
@@ -235,13 +239,13 @@ hero:
 - Label data **version control and history tracking**
 
 </div>
-<div style="flex-shrink:0;">
-<img src="/assets/images/gen/services/deepvi_dataset1.webp" width="320">
+<div style="flex:1 1 280px; max-width:320px; min-width:0;">
+<img src="/assets/images/gen/services/deepvi_dataset1.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
 </div>
 </div>
 
-<div style="display:flex; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
-<div style="flex:1;" markdown="1">
+<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="flex:1 1 280px; min-width:280px;" markdown="1">
 
 ### Step 2 — Model · Training View
 - **Real-time chart monitoring** of mAP and Loss per epoch
@@ -250,13 +254,13 @@ hero:
 - **Model comparison and automatic best model selection**
 
 </div>
-<div style="flex-shrink:0;">
-<img src="/assets/images/gen/services/service-7.webp" width="320">
+<div style="flex:1 1 280px; max-width:320px; min-width:0;">
+<img src="/assets/images/gen/services/service-7.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
 </div>
 </div>
 
-<div style="display:flex; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
-<div style="flex:1;" markdown="1">
+<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="flex:1 1 280px; min-width:280px;" markdown="1">
 
 ### Step 3 — Inference · Real-Time Detection (Camera-Connected Inference)
 - **Immediately connect camera and start real-time inference** after training completes
@@ -265,13 +269,13 @@ hero:
 - **Multi-camera simultaneous monitoring**
 
 </div>
-<div style="flex-shrink:0;">
-<img src="/assets/images/gen/services/service-7.webp" width="320">
+<div style="flex:1 1 280px; max-width:320px; min-width:0;">
+<img src="/assets/images/gen/services/service-7.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
 </div>
 </div>
 
-<div style="display:flex; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
-<div style="flex:1;" markdown="1">
+<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="flex:1 1 280px; min-width:280px;" markdown="1">
 
 ### Step 4 — Review · Retraining Loop (False Positive Correction · Retrain)
 - **Automatic retraining** after merging with existing dataset
@@ -280,8 +284,8 @@ hero:
 - Automation via **continuous improvement loop**
 
 </div>
-<div style="flex-shrink:0;">
-<img src="/assets/images/gen/services/deepvi_review1.webp" width="320">
+<div style="flex:1 1 280px; max-width:320px; min-width:0;">
+<img src="/assets/images/gen/services/deepvi_review1.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
 </div>
 </div>
 
