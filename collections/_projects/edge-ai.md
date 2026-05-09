@@ -2,7 +2,7 @@
 title: "Edge AI"
 description: "Predict. Optimize. Transform."
 date: 2018-12-20
-weight: 1
+weight: 4
 header_transparent: false
 thumbnail: "/assets/images/gen/projects/ai-edge-thumbnail.webp"
 image: "/assets/images/gen/projects/ai-edge-large.webp"

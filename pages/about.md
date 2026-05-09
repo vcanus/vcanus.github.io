@@ -71,5 +71,5 @@ Our data processing and AI capabilities are also applied in:
 
 Let’s build intelligent solutions together—from concept to reality.
 <br>
-📧 info@vcanus.com | 🌐 http://www.vcanus.com
+📧 info@vcanus.com
 
