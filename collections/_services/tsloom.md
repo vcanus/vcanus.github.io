@@ -149,13 +149,6 @@ The **Workflow Engine** stitches ingestion, processing, inference, and visualiza
 - Zoom · pan · range select interactive exploration
 - DB history lookup and CSV / Excel export
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(180px, 1fr)); gap:12px; margin: 1rem 0;">
-  <img src="/assets/images/gen/services/tsloom1.webp" alt="TSLoom screen 1" style="width:100%; height:auto; border-radius:6px;">
-  <img src="/assets/images/gen/services/tsloom2.webp" alt="TSLoom screen 2" style="width:100%; height:auto; border-radius:6px;">
-  <img src="/assets/images/gen/services/tsloom3.webp" alt="TSLoom screen 3" style="width:100%; height:auto; border-radius:6px;">
-  <img src="/assets/images/gen/services/tsloom4.webp" alt="TSLoom screen 4" style="width:100%; height:auto; border-radius:6px;">
-</div>
-
 ---
 
 ## Capability 4 — Collaborative Edge AI & MLOps
@@ -183,10 +176,6 @@ The **Workflow Engine** stitches ingestion, processing, inference, and visualiza
 - Auto monitoring (accuracy · drift)
 - Automatic retraining and gradual rollout (**A/B testing**)
 - One-click model **rollback**
-
-> **MLOps (Machine Learning Operations)** combines machine learning, data engineering, and IT operations to automate the entire ML lifecycle—from data collection and model training to deployment and continuous monitoring. TSLoom delivers **comprehensive end-to-end MLOps capabilities**, making it easy to operationalize and scale ML solutions across **factories, smart cities, and custom applications**.
->
-> <img src="/assets/images/gen/services/mlops.webp" alt="MLOps" style="max-width:240px; width:100%; height:auto;"> *[Learn more about MLOps on Wikipedia](https://en.wikipedia.org/wiki/MLOps)*
 
 ---
 
@@ -245,31 +234,6 @@ The **Workflow Engine** stitches ingestion, processing, inference, and visualiza
 - User activity tracing
 - Security event alerts and reports
 - **Backup and Disaster Recovery (DR)** support
-
----
-
-## Workflow Summary — From Data to Action
-
-<img src="/assets/images/gen/services/tsloom-flow.webp" alt="TSLoom data flow" style="display:block; width:100%; max-width:800px; height:auto; margin:0 auto;">
-
-With TSLoom, users can:
-
-**Data Pipeline Construction**
-- **Real-time data collection** from industrial PLCs, IoT devices, databases, and enterprise systems
-- **Fast and seamless data transfer** from source to sink
-- **Automated data processing** for instant analysis and decision-making
-- **Workflow design and automation** through a visual programming interface
-- **Data loading** to databases / **Data visualization** with interactive dashboards
-
-**ML-Based Data Analysis**
-- **Rule-based modeling** for simple or specialized cases
-- **Pre-built ML models** for prediction, classification, and anomaly detection
-- **Custom ML model development** tailored to unique business needs
-
-**Model & Workflow Management**
-- ML model training and testing
-- Workflow deployment and lifecycle management
-- Real-time workflow monitoring and execution
 
 ---
 
