@@ -1,6 +1,6 @@
 ---
 title: "TSLoom"
-description: "Distributed Industrial Time-Series Data Platform Powered by a Workflow Engine"
+description: "Distributed Industrial Time-Series Data Platform"
 date: 2023-12-15
 weight: 1
 header_transparent: false
@@ -12,7 +12,7 @@ image: "/assets/images/gen/services/service-1.webp"
 hero:
   enabled: true
   heading: "TSLoom"
-  sub_heading: "Distributed Industrial Time-Series Data Platform Powered by a Workflow Engine"
+  sub_heading: "Distributed Industrial Time-Series Data Platform"
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
@@ -33,204 +33,182 @@ hero:
         style: "primary"
 ---
 
-## TSLoom — Distributed Industrial Time-Series Data Platform Powered by a Workflow Engine
+## TSLoom — Distributed Industrial Time-Series Data Platform
 
-**TSLoom** is a **distributed data & AI platform** that unifies the ingestion, processing, analysis, and visualization of high-velocity **industrial time-series data** into a single pipeline running on top of a **Workflow Engine**. It combines multi-source connectivity, ultra-low-latency processing, GPU-accelerated visualization, collaborative edge AI/MLOps, visual workflow automation, and enterprise-grade security in one platform—accelerating digital transformation across **semiconductor, battery, and smart-factory** industries.
+**TSLoom** is an integrated platform that **collects, processes, analyzes, and visualizes** diverse industrial data in real time. Built on a distributed **Workflow Engine**, it connects the journey from data to decision in a single pipeline — supporting digital transformation across **semiconductor, battery, and smart-factory** industries.
 
 **Six Core Pillars**
 
-- **Multi-Source & Extensibility** — Multi-source data collection and flexible expansion
-- **Low-Latency & High Throughput** — Ultra-low-latency, high-throughput real-time processing
-- **High-Performance Visualization & Analytics** — GPU-accelerated visualization and real-time analytics
-- **Collaborative Edge AI & MLOps** — Collaborative edge-based AI development & operations
-- **Visual Workflow & Auto-Operations** — Visual workflow orchestration and operational automation
-- **Security & Compliance** — Enterprise-grade security and regulatory compliance
+- **Diverse Data Connectivity** — Unified integration of heterogeneous industrial equipment and IT systems
+- **Real-Time Data Processing** — Stable real-time processing tailored to industrial environments
+- **High-Performance Visualization & Analytics** — Intuitive visualization of large-scale data
+- **Edge · AI · MLOps Integration** — Simplified AI model development and operations
+- **Visual Workflow** — No-code / low-code based operational automation
+- **Enterprise Security** — Security framework aligned with industrial and regulatory environments
 
 ---
 
-## Business Value — From Field Pain Points to Measurable Outcomes
+## Business Value — Turning Field Challenges into Outcomes
 
-TSLoom translates persistent shop-floor problems—painful data integration, heavy analytics setup, and operational efficiency limits—into quantifiable improvements through six core capabilities.
+TSLoom addresses persistent industrial challenges — difficult data integration, heavy analytics setup, and operational efficiency limits — through one unified platform.
 
-<img src="/assets/images/gen/services/tsloom-business-value.svg" alt="TSLoom business value & outcomes" style="display:block; width:100%; height:auto; max-width:1100px; margin:0 auto;">
+<img src="/assets/images/gen/services/tsloom-business-value.svg" alt="TSLoom business value overview" style="display:block; width:100%; height:auto; max-width:1100px; margin:0 auto;">
 
 **Industry Applications**
 
-- **Semiconductor** — Virtual Metrology, defect classification accuracy 95%+, sampling cost –30%
-- **Battery** — Charge/discharge analytics, lifespan prediction, quality accuracy +15%
-- **Smart Factory** — Predictive equipment maintenance, OEE optimization, major reduction in unplanned downtime
+- **Semiconductor** — Process monitoring, virtual metrology, defect classification, and other quality management areas
+- **Battery** — Charge/discharge analytics, lifespan prediction, and operational optimization
+- **Smart Factory** — Predictive maintenance and equipment efficiency improvement
 
-> McKinsey reports that roughly 68% of manufacturing data goes unused. TSLoom narrows that gap with measurable wins: **–90% pipeline build time**, **7× faster ML deployment**, and **–80% detection latency**.
+> Industrial data is still significantly underutilized. TSLoom shortens the path from data collection to decision-making, turning data into operational value.
 
 ---
 
 ## Architecture Overview
 
-The **Workflow Engine** stitches ingestion, processing, inference, and visualization into one canvas. A distributed orchestrator dynamically places nodes, while Auto Failover and zero-downtime rolling updates keep the platform highly available.
+The **Workflow Engine** connects data ingestion, processing, inference, and visualization into a single pipeline. Designed to scale flexibly on top of distributed infrastructure tailored to operational environments.
 
 <img src="/assets/images/gen/services/tsloom-architecture.svg" alt="TSLoom architecture overview" style="display:block; width:100%; height:auto; max-width:1100px; margin:0 auto;">
 
 ---
 
-## Capability 1 — Multi-Source & Extensibility
+## Capability 1 — Diverse Data Connectivity
 
-**Multi-source data collection and flexible expansion.** TSLoom unifies heterogeneous industrial equipment and IT systems into a single platform and adds new connectors at runtime via a **plugin-based ecosystem**.
+Unifies heterogeneous industrial equipment, IT systems, and cloud services in one platform. New connectors can be added at runtime via a **plugin-based architecture**.
 
-<img src="/assets/images/gen/services/tsloom-multisource.svg" alt="Multi-Source & Extensibility" style="display:block; width:100%; height:auto; max-width:1100px; margin:0 auto;">
+<img src="/assets/images/gen/services/tsloom-multisource.svg" alt="Diverse Data Connectivity" style="display:block; width:100%; height:auto; max-width:1100px; margin:0 auto;">
 
-**Industrial Protocol Support**
-- Concurrent industrial fieldbus connections: **EtherCAT, OPC-UA, Profinet, CC-Link IE**
-- Direct CNC interface integration: **Siemens, Fanuc**
-- Built-in DAQ device drivers: **Adlink, NI**
+**Industrial Equipment Integration**
+- Industrial fieldbus protocol support
+- Major CNC controller integration
+- Industrial DAQ device connectivity
 
 **Data Infrastructure Integration**
-- **Multi-infra connectivity** across RDBMS · NoSQL · TSDB
-- Dynamic SQL execution across multiple databases
-- User-defined derived data storage and lookup
+- Wide range of database integration (relational · non-relational · time-series)
+- Cloud environment support
 
-**External System Integration & Expansion**
-- Message subscribe / publish (MQTT, Kafka)
-- REST API ingestion from external systems
-- AWS · Azure cloud support
+**External System Integration**
+- Message-based communication and standard API integration
 - Native integration with MES · ERP and other enterprise systems
-- **Plugin-based hot-add of new connectors** — extend the ecosystem without downtime
-
-> **10+ Protocols / Multi-Infra** support reduces new equipment onboarding from *weeks to hours*.
+- Plugin-based extensible ecosystem
 
 ---
 
-## Capability 2 — Low-Latency & High Throughput
+## Capability 2 — Real-Time Data Processing
 
-**Ultra-low-latency, high-throughput real-time data processing.** Patented message routing and inline processing yield **2× lower latency** and **2.5× higher throughput** versus general-purpose solutions.
+Processes large-scale time-series data with the responsiveness and reliability that industrial environments require.
 
-<img src="/assets/images/gen/services/tsloom-latency.svg" alt="Low-Latency & High Throughput" style="display:block; width:100%; height:auto; max-width:1100px; margin:0 auto;">
+<img src="/assets/images/gen/services/tsloom-latency.svg" alt="Real-Time Data Processing" style="display:block; width:100%; height:auto; max-width:1100px; margin:0 auto;">
 
 **Processing Performance**
-- Guaranteed delivery latency **< 5ms**
-- Throughput of **1M msg/sec or higher**
-- **10K × 32-channel** simultaneous real-time processing
+- Low-latency, high-throughput data processing tailored to industrial environments
+- Simultaneous real-time processing of multiple channels
 
 **Multi-Stream Integrated Processing**
-- Patented message routing
-- Inline filtering, aggregation, transformation
-- Event-based triggers and conditional routing
-- Sliding · tumbling window analytics
+- Inline data transformation and aggregation
+- Event-based triggers and routing
+- Window-based statistical processing
 - Hierarchical multi-source orchestration
-- Automatic chunk split & reassemble for large messages
 
-**Time Sync & Data Reliability**
-- Multi-stream timeline alignment with timestamp accuracy
-- Real-time outlier / missing-value detection and correction
-- Order-preserving + **lossless data ingestion**
+**Data Reliability**
+- Multi-stream timeline alignment
+- Real-time outlier and missing-value detection and correction
+- Lossless message ingestion
 
 ---
 
 ## Capability 3 — High-Performance Visualization & Analytics
 
-**GPU-accelerated visualization and real-time analytics.** Render millions of time-series points in real time and let operators react instantly with interactive exploration and threshold-based alerts.
+Visualizes large-scale data quickly and provides an interactive environment so operators can analyze and respond immediately.
 
 <img src="/assets/images/gen/services/tsloom-visualization.svg" alt="High-Performance Visualization & Analytics" style="display:block; width:100%; height:auto; max-width:1100px; margin:0 auto;">
 
-**High-Performance Engine**
-- GPU-accelerated chart rendering
-- Millions of time-series points in real time
-- Scientific charts: time-series · spectrum · heatmap
-- 3D model-based equipment status visualization
-- Real-time video stream overlay rendering
+**Visualization Engine**
+- Accelerated high-performance chart rendering
+- Real-time rendering of large-scale time-series data
+- Diverse scientific charts (time-series · spectrum · heatmap, and more)
+- Equipment status visualization and video stream integration
 
-**Dashboards**
-- Drag & Drop widgets and customizable layouts
-- Concurrent display & linkage of multiple data sources
-- Dual-channel video streams (monitoring · analysis)
-- Save, share, and govern dashboards with permissions
+**Dashboard Operations**
+- User-defined widget placement and customizable layouts
+- Concurrent display of multiple data sources
+- Dashboard saving · sharing · permission management
 
-**Interactive Exploration & Alerts**
-- Threshold-based alarm visualization and event log
-- Zoom · pan · range select interactive exploration
-- DB history lookup and CSV / Excel export
+**Interactive Analytics**
+- Threshold-based alarms and event log
+- Time-series exploration (zoom · pan · range select)
+- Data history lookup and export to common formats
 
 ---
 
-## Capability 4 — Collaborative Edge AI & MLOps
+## Capability 4 — Edge · AI · MLOps Integration
 
-**Collaborative edge-based AI development and operations.** A **tiered inference** architecture runs lightweight first-pass diagnostics at the near edge while routing deeper analysis to on-premise / cloud nodes.
+Provides an AI operations architecture that combines edge and central environments. Model development, deployment, operations, and retraining are all handled within an integrated environment.
 
-<img src="/assets/images/gen/services/tsloom-edgeai.svg" alt="Collaborative Edge AI & MLOps" style="display:block; width:100%; height:auto; max-width:1100px; margin:0 auto;">
+<img src="/assets/images/gen/services/tsloom-edgeai.svg" alt="Edge · AI · MLOps Integration" style="display:block; width:100%; height:auto; max-width:1100px; margin:0 auto;">
 
-**Model Development & Runtime Support**
-- Supported models: Data IO · Transform · Feature Extraction · Analytics · AI Service · Workflow · Trigger
-- Custom algorithms in **Python**
-- Plugin support in **C#, C++**
-- Multimodal inputs: **Raw · Text · DataFrame · Image**
+**AI Model Development Environment**
+- Standard data processing · analytics · trigger nodes
+- Algorithm support across multiple programming languages
+- Multimodal data inputs
 - Experiment tracking and version control
 
-**Collaborative Edge-Based Tiered Inference**
-- **Near Edge** — fast first-pass diagnosis (low-latency, lightweight models)
-- **On-Premise / Cloud** — deep analysis (composite, high-accuracy models)
-- Automatic data routing across tiers (Tiered Inference)
+**Edge–Central Tiered Inference**
+- Combines fast first-pass diagnosis at the edge with deep analysis in central environments
+- Automatic data routing aligned with the operating environment
 - Real-time monitoring of model performance metrics
 
-**Model Management & MLOps Automation**
-- Train → evaluate → deploy automated pipeline
-- Model versioning & catalog (**Model Registry**)
-- Auto monitoring (accuracy · drift)
-- Automatic retraining and gradual rollout (**A/B testing**)
-- One-click model **rollback**
+**MLOps Automation**
+- Automated pipeline from training to deployment
+- Model versioning and catalog (Model Registry)
+- Automated model performance monitoring
+- Gradual rollout and rollback support
 
 ---
 
-## Capability 5 — Visual Workflow & Auto-Operations
+## Capability 5 — Visual Workflow & Operational Automation
 
-**Visual workflow orchestration and operational automation.** Design ingestion, processing, inference, and visualization on one no-code/low-code canvas while distributed nodes are placed and scaled automatically.
+Design data flows on a no-code / low-code canvas and run them reliably on distributed infrastructure.
 
-<img src="/assets/images/gen/services/tsloom-workflow.svg" alt="Visual Workflow & Auto-Operations" style="display:block; width:100%; height:auto; max-width:1100px; margin:0 auto;">
+<img src="/assets/images/gen/services/tsloom-workflow.svg" alt="Visual Workflow & Operational Automation" style="display:block; width:100%; height:auto; max-width:1100px; margin:0 auto;">
 
-**Workflow Design & Operations**
-- Drag & Drop **low-code editor**
-- Single canvas for ingest → process → infer → visualize
-- **No-code environment** accessible to non-developers
-- Reusable workflow **template library**
-- Versioning · rollback · **one-click deployment**
-- **Real-time monitoring** of in-flight pipelines
+**Workflow Design**
+- Drag-and-drop editor
+- Single-canvas authoring: ingest → process → infer → visualize
+- No-code environment accessible to non-developers
+- Reusable workflow templates
 
 **High-Availability Distributed Infrastructure**
-- Orchestrator-driven dynamic node placement
-- Resource-aware placement (GPU · CPU · network)
-- Load-based **Auto Scale-Out / In**
-- Hot-swap onboarding for new nodes
+- Dynamic node placement aligned with the operating environment
+- Load-based automatic scaling
+- Hot-swap node operations
 
-**Failure Response & Operational Automation**
-- **SPOF-free** architecture
-- **Auto Failover** for uninterrupted service
-- Faulty node isolation with automatic workflow resumption
-- Zero-downtime **rolling updates** and scaling
-- Failure history and recovery audit logs
-- Real-time workflow telemetry (node outputs · status · logs)
+**Operational Automation**
+- Automatic failure response and continuous service operation
+- Zero-downtime deployment and operational history management
+- Real-time workflow status monitoring
 
 ---
 
-## Capability 6 — Security & Compliance
+## Capability 6 — Enterprise Security & Regulatory Compliance
 
-**Enterprise-grade security and regulatory compliance.** RBAC, encryption, audit logging, and air-gapped deployment options enable confident adoption across industrial, financial, and public-sector environments.
+Designed to satisfy security policies and regulatory requirements expected in industrial, financial, and public-sector environments.
 
-<img src="/assets/images/gen/services/tsloom-security.svg" alt="Security & Compliance" style="display:block; width:100%; height:auto; max-width:1100px; margin:0 auto;">
+<img src="/assets/images/gen/services/tsloom-security.svg" alt="Enterprise Security & Regulatory Compliance" style="display:block; width:100%; height:auto; max-width:1100px; margin:0 auto;">
 
 **Access Control**
-- **RBAC** (role-based access control)
-- **SSO / LDAP / Active Directory** integration
-- API key issuance and lifecycle management
-- **MFA** (multi-factor authentication)
+- Role-based access control (RBAC)
+- Enterprise authentication system integration
+- Multi-factor authentication and API access management
 
-**Data Security & Governance**
-- **TLS 1.2+** in-transit encryption
-- **AES-256** at-rest encryption
-- Sensitive data **masking and anonymization**
-- Fully **air-gapped on-premise** deployment option
-- Time-series **retention policy** management
-- **Data Lineage** tracking
+**Data Security**
+- Standard encryption for data in transit and at rest
+- Sensitive data masking and anonymization
+- Air-gapped on-premise deployment option
+- Data retention policies and lineage management
 
 **Audit & Compliance**
-- Full system **Audit Log**
+- System audit logs
 - User activity tracing
-- Security event alerts and reports
-- **Backup and Disaster Recovery (DR)** support
+- Security event alerts
+- Backup and Disaster Recovery (DR) support

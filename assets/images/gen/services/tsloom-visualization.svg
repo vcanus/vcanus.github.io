@@ -1,8 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 360" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
   <rect width="1100" height="360" fill="#f0fdf4"/>
   <text x="550" y="38" text-anchor="middle" font-size="20" font-weight="700" fill="#166534">High-Performance Visualization &amp; Analytics</text>
-  <text x="550" y="60" text-anchor="middle" font-size="13" fill="#15803d">GPU-accelerated visualization &amp; real-time analytics — Real-Time Charts / Interactive Analytics</text>
+  <text x="550" y="60" text-anchor="middle" font-size="13" fill="#15803d">Real-time visualization of large-scale data · interactive exploration and alerts</text>
 
+  <!-- mock dashboard -->
   <rect x="40" y="90" width="640" height="240" rx="10" fill="#0f172a"/>
   <rect x="55" y="105" width="200" height="105" rx="6" fill="#064e3b"/>
   <polyline points="65,190 90,170 115,180 140,150 165,165 190,140 215,155 240,130" fill="none" stroke="#34d399" stroke-width="2"/>
@@ -20,7 +21,7 @@
     <rect x="420" y="150" width="15" height="50" fill="#60a5fa"/>
     <rect x="440" y="170" width="15" height="30" fill="#60a5fa"/>
   </g>
-  <text x="275" y="125" font-size="10" fill="#bfdbfe">Spectrum / Histogram</text>
+  <text x="275" y="125" font-size="10" fill="#bfdbfe">Spectrum · Histogram</text>
 
   <rect x="475" y="105" width="190" height="105" rx="6" fill="#581c87"/>
   <g>
@@ -46,22 +47,23 @@
   <text x="485" y="120" font-size="10" fill="#e9d5ff">Heatmap</text>
 
   <rect x="55" y="220" width="610" height="100" rx="6" fill="#1f2937"/>
-  <text x="70" y="240" font-size="11" fill="#fca5a5" font-weight="700">[WARN] Temperature threshold exceeded — Line A · 14:32</text>
-  <text x="70" y="260" font-size="11" fill="#fca5a5" font-weight="700">[ERR]  Pressure anomaly detected — Pump #3 · 14:28</text>
-  <text x="70" y="280" font-size="11" fill="#86efac">[INFO] Model v2.1 deployed · 14:32</text>
-  <text x="70" y="300" font-size="11" fill="#cbd5e1">CSV Export · Excel Export · DB History Lookup</text>
+  <text x="70" y="240" font-size="11" fill="#fca5a5" font-weight="700">[WARN] Threshold exceeded — real-time alert</text>
+  <text x="70" y="260" font-size="11" fill="#fca5a5" font-weight="700">[ERR]  Anomalous signal detected</text>
+  <text x="70" y="280" font-size="11" fill="#86efac">[INFO] Model deployed</text>
+  <text x="70" y="300" font-size="11" fill="#cbd5e1">CSV · Excel export · data history lookup</text>
 
+  <!-- features panel -->
   <rect x="700" y="90" width="360" height="240" rx="10" fill="#ffffff" stroke="#86efac"/>
-  <text x="715" y="115" font-size="14" font-weight="700" fill="#15803d">High-Performance Engine</text>
-  <text x="715" y="135" font-size="11" fill="#166534">• GPU-accelerated chart rendering</text>
-  <text x="715" y="153" font-size="11" fill="#166534">• Millions of points in real time</text>
-  <text x="715" y="171" font-size="11" fill="#166534">• Time-series · spectrum · heatmap charts</text>
-  <text x="715" y="189" font-size="11" fill="#166534">• 3D model-based equipment status</text>
-  <text x="715" y="207" font-size="11" fill="#166534">• Real-time video stream overlay</text>
+  <text x="715" y="115" font-size="14" font-weight="700" fill="#15803d">Visualization Engine</text>
+  <text x="715" y="135" font-size="11" fill="#166534">• Accelerated high-performance chart rendering</text>
+  <text x="715" y="153" font-size="11" fill="#166534">• Real-time rendering of large-scale time-series</text>
+  <text x="715" y="171" font-size="11" fill="#166534">• Diverse scientific charts (time-series · spectrum · heatmap)</text>
+  <text x="715" y="189" font-size="11" fill="#166534">• Equipment status visualization</text>
+  <text x="715" y="207" font-size="11" fill="#166534">• Video stream integration</text>
 
   <text x="715" y="235" font-size="14" font-weight="700" fill="#15803d">Dashboards · Interactive Analytics</text>
-  <text x="715" y="255" font-size="11" fill="#166534">• Drag &amp; Drop widgets · custom layouts</text>
+  <text x="715" y="255" font-size="11" fill="#166534">• User-defined widgets · customizable layouts</text>
   <text x="715" y="273" font-size="11" fill="#166534">• Threshold alarms · event log</text>
   <text x="715" y="291" font-size="11" fill="#166534">• Zoom · pan · range select</text>
-  <text x="715" y="309" font-size="11" fill="#166534">• DB history lookup · CSV/Excel export</text>
+  <text x="715" y="309" font-size="11" fill="#166534">• Data history lookup · external format export</text>
 </svg>
