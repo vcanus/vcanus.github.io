@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 540" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <rect width="1100" height="540" fill="#f8fafc"/>
+  <text x="550" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Application Areas</text>
+  <text x="550" y="65" text-anchor="middle" font-size="13" fill="#475569">Same pipeline across industries — just change class names &amp; data and apply immediately</text>
+
+  <!-- Card 1: Manufacturing -->
+  <rect x="40" y="100" width="500" height="190" rx="14" fill="#ffffff" stroke="#1e40af" stroke-width="2"/>
+  <text x="60" y="135" font-size="32">🏭</text>
+  <text x="105" y="130" font-size="17" font-weight="700" fill="#1e3a8a">Manufacturing — Quality Inspection</text>
+  <text x="105" y="150" font-size="11" fill="#64748b">Inspector fatigue / night gaps → 24/7 automated detection</text>
+
+  <rect x="60" y="170" width="195" height="100" rx="6" fill="#fef2f2" stroke="#fecaca"/>
+  <text x="70" y="190" font-size="11" font-weight="700" fill="#991b1b">❌ Before</text>
+  <text x="70" y="210" font-size="11" fill="#7f1d1d">• Manual visual inspection fatigue</text>
+  <text x="70" y="228" font-size="11" fill="#7f1d1d">• Skilled workforce required</text>
+  <text x="70" y="246" font-size="11" fill="#7f1d1d">• Night/weekend inspection gaps</text>
+  <text x="70" y="264" font-size="11" fill="#7f1d1d">• Manual defect logging</text>
+
+  <rect x="265" y="170" width="265" height="100" rx="6" fill="#f0fdf4" stroke="#86efac"/>
+  <text x="275" y="190" font-size="11" font-weight="700" fill="#15803d">✅ After DeepVi</text>
+  <text x="275" y="210" font-size="11" fill="#166534">• 24/7 real-time camera detection</text>
+  <text x="275" y="228" font-size="11" fill="#166534">• Defect-type Detection auto-classification</text>
+  <text x="275" y="246" font-size="11" fill="#166534">• Unmanned inspection enables continuous ops</text>
+  <text x="275" y="264" font-size="11" fill="#166534">• Auto-saved inference results → data-driven gains</text>
+
+  <!-- Card 2: Smart Farm -->
+  <rect x="560" y="100" width="500" height="190" rx="14" fill="#ffffff" stroke="#16a34a" stroke-width="2"/>
+  <text x="580" y="135" font-size="32">🌱</text>
+  <text x="625" y="130" font-size="17" font-weight="700" fill="#15803d">Smart Farm</text>
+  <text x="625" y="150" font-size="11" fill="#64748b">Pest spread before detection → early auto-detection</text>
+
+  <rect x="580" y="170" width="195" height="100" rx="6" fill="#fef2f2" stroke="#fecaca"/>
+  <text x="590" y="190" font-size="11" font-weight="700" fill="#991b1b">❌ Before</text>
+  <text x="590" y="210" font-size="11" fill="#7f1d1d">• Pests already spread before discovery</text>
+  <text x="590" y="228" font-size="11" fill="#7f1d1d">• Insufficient staff for wide-area monitoring</text>
+  <text x="590" y="246" font-size="11" fill="#7f1d1d">• Manual growth-stage records</text>
+  <text x="590" y="264" font-size="11" fill="#7f1d1d">• Harvest timing relies on experience</text>
+
+  <rect x="785" y="170" width="265" height="100" rx="6" fill="#f0fdf4" stroke="#86efac"/>
+  <text x="795" y="190" font-size="11" font-weight="700" fill="#15803d">✅ After DeepVi</text>
+  <text x="795" y="210" font-size="11" fill="#166534">• Camera-based early auto-detection</text>
+  <text x="795" y="228" font-size="11" fill="#166534">• Wide-area real-time monitoring</text>
+  <text x="795" y="246" font-size="11" fill="#166534">• Growth-stage Segmentation analysis</text>
+  <text x="795" y="264" font-size="11" fill="#166534">• Data-driven harvest-timing prediction</text>
+
+  <!-- Card 3: Logistics -->
+  <rect x="40" y="310" width="500" height="190" rx="14" fill="#ffffff" stroke="#d97706" stroke-width="2"/>
+  <text x="60" y="345" font-size="32">🚚</text>
+  <text x="105" y="340" font-size="17" font-weight="700" fill="#92400e">Logistics</text>
+  <text x="105" y="360" font-size="11" fill="#64748b">Manual sorting/inspection → automated conveyor processing</text>
+
+  <rect x="60" y="380" width="195" height="100" rx="6" fill="#fef2f2" stroke="#fecaca"/>
+  <text x="70" y="400" font-size="11" font-weight="700" fill="#991b1b">❌ Before</text>
+  <text x="70" y="420" font-size="11" fill="#7f1d1d">• Large workforce for sorting/inspection</text>
+  <text x="70" y="438" font-size="11" fill="#7f1d1d">• Manual fallback for damaged barcodes</text>
+  <text x="70" y="456" font-size="11" fill="#7f1d1d">• Inventory accuracy drops</text>
+  <text x="70" y="474" font-size="11" fill="#7f1d1d">• Manual expiration-date checks</text>
+
+  <rect x="265" y="380" width="265" height="100" rx="6" fill="#f0fdf4" stroke="#86efac"/>
+  <text x="275" y="400" font-size="11" font-weight="700" fill="#15803d">✅ After DeepVi</text>
+  <text x="275" y="420" font-size="11" fill="#166534">• Automated real-time conveyor classification</text>
+  <text x="275" y="438" font-size="11" fill="#166534">• Auto-detection of label/barcode defects</text>
+  <text x="275" y="456" font-size="11" fill="#166534">• Real-time inventory vision monitoring</text>
+  <text x="275" y="474" font-size="11" fill="#166534">• Auto-detection &amp; logging of expiration anomalies</text>
+
+  <!-- Card 4: Security -->
+  <rect x="560" y="310" width="500" height="190" rx="14" fill="#ffffff" stroke="#7c3aed" stroke-width="2"/>
+  <text x="580" y="345" font-size="32">🔒</text>
+  <text x="625" y="340" font-size="17" font-weight="700" fill="#6b21a8">Security &amp; Monitoring</text>
+  <text x="625" y="360" font-size="11" fill="#64748b">Dedicated CCTV staff → unmanned 24/7 auto analysis</text>
+
+  <rect x="580" y="380" width="195" height="100" rx="6" fill="#fef2f2" stroke="#fecaca"/>
+  <text x="590" y="400" font-size="11" font-weight="700" fill="#991b1b">❌ Before</text>
+  <text x="590" y="420" font-size="11" fill="#7f1d1d">• Constant CCTV staffing required</text>
+  <text x="590" y="438" font-size="11" fill="#7f1d1d">• Time-consuming post-incident search</text>
+  <text x="590" y="456" font-size="11" fill="#7f1d1d">• Real-time anomaly detection not feasible</text>
+  <text x="590" y="474" font-size="11" fill="#7f1d1d">• Manual access-control verification</text>
+
+  <rect x="785" y="380" width="265" height="100" rx="6" fill="#f0fdf4" stroke="#86efac"/>
+  <text x="795" y="400" font-size="11" font-weight="700" fill="#15803d">✅ After DeepVi</text>
+  <text x="795" y="420" font-size="11" fill="#166534">• Real-time anomaly &amp; object auto-detection</text>
+  <text x="795" y="438" font-size="11" fill="#166534">• Unmanned 24/7 CCTV event auto-classification</text>
+  <text x="795" y="456" font-size="11" fill="#166534">• Auto-classification of access objects</text>
+  <text x="795" y="474" font-size="11" fill="#166534">• Auto-logging of detection coords &amp; timestamps</text>
+
+  <rect x="40" y="510" width="1020" height="22" rx="11" fill="#0f172a"/>
+  <text x="550" y="526" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">Manufacturing · Medical · Healthcare · Optical Sorting · Embedded Vision · ATE — and more</text>
+</svg>

@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 580" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <rect width="1100" height="580" fill="#ffffff"/>
+  <text x="550" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Competitive Advantages</text>
+  <text x="550" y="62" text-anchor="middle" font-size="13" fill="#475569">Key differentiators of DeepVi vs. general AutoML and vision specialist tools</text>
+
+  <!-- Header row -->
+  <rect x="40" y="90" width="380" height="46" rx="6" fill="#f1f5f9"/>
+  <text x="60" y="118" font-size="13" font-weight="700" fill="#0f172a">Comparison</text>
+
+  <rect x="425" y="90" width="195" height="46" rx="6" fill="#f1f5f9"/>
+  <text x="522" y="111" text-anchor="middle" font-size="12" font-weight="700" fill="#475569">General AutoML</text>
+  <text x="522" y="128" text-anchor="middle" font-size="10" fill="#94a3b8">Vertex AI · SageMaker</text>
+
+  <rect x="625" y="90" width="195" height="46" rx="6" fill="#f1f5f9"/>
+  <text x="722" y="111" text-anchor="middle" font-size="12" font-weight="700" fill="#475569">Vision Specialist</text>
+  <text x="722" y="128" text-anchor="middle" font-size="10" fill="#94a3b8">Roboflow · Label Studio</text>
+
+  <rect x="825" y="90" width="235" height="46" rx="6" fill="#1e40af"/>
+  <text x="942" y="111" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">DeepVi ★</text>
+  <text x="942" y="128" text-anchor="middle" font-size="10" fill="#bfdbfe">VCANUS</text>
+
+  <!-- Row 1: Coding Required -->
+  <text x="60" y="159" font-size="12" font-weight="600" fill="#0f172a">Coding Required</text>
+  <text x="522" y="159" text-anchor="middle" font-size="13" fill="#d97706">⚠️ Partial</text>
+  <text x="722" y="159" text-anchor="middle" font-size="13" fill="#16a34a">✅ Not required</text>
+  <rect x="825" y="143" width="235" height="28" rx="4" fill="#dbeafe"/>
+  <text x="942" y="161" text-anchor="middle" font-size="12" font-weight="600" fill="#1e3a8a">✅ Fully No-Code</text>
+
+  <!-- Row 2: 3-Label Type Support -->
+  <text x="60" y="194" font-size="12" font-weight="600" fill="#0f172a">3-Label Type Support</text>
+  <text x="60" y="208" font-size="9" fill="#64748b">Cls · Det · Seg</text>
+  <text x="522" y="194" text-anchor="middle" font-size="13" fill="#d97706">⚠️ Platform-dep.</text>
+  <text x="722" y="194" text-anchor="middle" font-size="13" fill="#16a34a">✅ Strong on labeling</text>
+  <rect x="825" y="178" width="235" height="28" rx="4" fill="#dbeafe"/>
+  <text x="942" y="196" text-anchor="middle" font-size="12" font-weight="600" fill="#1e3a8a">✅ Built-in unified</text>
+
+  <!-- Row 3: Real-Time Camera Inference -->
+  <text x="60" y="229" font-size="12" font-weight="600" fill="#0f172a">Real-Time Camera Inference</text>
+  <text x="522" y="229" text-anchor="middle" font-size="13" fill="#dc2626">❌ Custom dev needed</text>
+  <text x="722" y="229" text-anchor="middle" font-size="13" fill="#dc2626">❌ Not supported</text>
+  <rect x="825" y="213" width="235" height="28" rx="4" fill="#dbeafe"/>
+  <text x="942" y="231" text-anchor="middle" font-size="12" font-weight="600" fill="#1e3a8a">✅ Immediate integration</text>
+
+  <!-- Row 4: Training Speed -->
+  <text x="60" y="264" font-size="12" font-weight="600" fill="#0f172a">Training Speed</text>
+  <text x="522" y="264" text-anchor="middle" font-size="13" fill="#16a34a">✅ Fast</text>
+  <text x="722" y="264" text-anchor="middle" font-size="13" fill="#d97706">⚠️ Moderate</text>
+  <rect x="825" y="248" width="235" height="28" rx="4" fill="#dbeafe"/>
+  <text x="942" y="266" text-anchor="middle" font-size="12" font-weight="600" fill="#1e3a8a">✅ Completes within days</text>
+
+  <!-- Row 5: Auto-Retraining Loop -->
+  <text x="60" y="299" font-size="12" font-weight="600" fill="#0f172a">Auto-Retraining Loop</text>
+  <text x="60" y="313" font-size="9" fill="#64748b">FP → Retrain</text>
+  <text x="522" y="299" text-anchor="middle" font-size="13" fill="#dc2626">❌ Not supported</text>
+  <text x="722" y="299" text-anchor="middle" font-size="13" fill="#d97706">⚠️ Separate workflow</text>
+  <rect x="825" y="283" width="235" height="28" rx="4" fill="#dbeafe"/>
+  <text x="942" y="301" text-anchor="middle" font-size="12" font-weight="600" fill="#1e3a8a">✅ Inference Review</text>
+
+  <!-- Row 6: Cloud Dependency -->
+  <text x="60" y="334" font-size="12" font-weight="600" fill="#0f172a">Cloud Dependency</text>
+  <text x="522" y="334" text-anchor="middle" font-size="13" fill="#dc2626">❌ Fully dependent</text>
+  <text x="722" y="334" text-anchor="middle" font-size="13" fill="#d97706">⚠️ Partial</text>
+  <rect x="825" y="318" width="235" height="28" rx="4" fill="#dbeafe"/>
+  <text x="942" y="336" text-anchor="middle" font-size="12" font-weight="600" fill="#1e3a8a">✅ On-Premise capable</text>
+
+  <!-- Row 7: Data Security -->
+  <text x="60" y="369" font-size="12" font-weight="600" fill="#0f172a">Data Security</text>
+  <text x="522" y="369" text-anchor="middle" font-size="13" fill="#dc2626">❌ External transfer</text>
+  <text x="722" y="369" text-anchor="middle" font-size="13" fill="#dc2626">❌ External transfer</text>
+  <rect x="825" y="353" width="235" height="28" rx="4" fill="#dbeafe"/>
+  <text x="942" y="371" text-anchor="middle" font-size="12" font-weight="600" fill="#1e3a8a">✅ Internal processing</text>
+
+  <!-- Row 8: Domain Customization -->
+  <text x="60" y="404" font-size="12" font-weight="600" fill="#0f172a">Domain Customization</text>
+  <text x="522" y="404" text-anchor="middle" font-size="13" fill="#d97706">⚠️ Limited</text>
+  <text x="722" y="404" text-anchor="middle" font-size="13" fill="#d97706">⚠️ Limited</text>
+  <rect x="825" y="388" width="235" height="28" rx="4" fill="#dbeafe"/>
+  <text x="942" y="406" text-anchor="middle" font-size="12" font-weight="600" fill="#1e3a8a">✅ Per-industry tailored</text>
+
+  <!-- Row 9: Non-Expert Operation -->
+  <text x="60" y="439" font-size="12" font-weight="600" fill="#0f172a">Non-Expert Operation</text>
+  <text x="522" y="439" text-anchor="middle" font-size="13" fill="#d97706">⚠️ Cloud expertise</text>
+  <text x="722" y="439" text-anchor="middle" font-size="13" fill="#d97706">⚠️ Tool-dependent</text>
+  <rect x="825" y="423" width="235" height="28" rx="4" fill="#dbeafe"/>
+  <text x="942" y="441" text-anchor="middle" font-size="12" font-weight="600" fill="#1e3a8a">✅ Field operators run</text>
+
+  <!-- Row 10: Pricing Model -->
+  <text x="60" y="474" font-size="12" font-weight="600" fill="#0f172a">Pricing Model</text>
+  <text x="522" y="474" text-anchor="middle" font-size="13" fill="#dc2626">❌ Pay-as-you-go</text>
+  <text x="722" y="474" text-anchor="middle" font-size="13" fill="#dc2626">❌ API pay-per-use</text>
+  <rect x="825" y="458" width="235" height="28" rx="4" fill="#dbeafe"/>
+  <text x="942" y="476" text-anchor="middle" font-size="12" font-weight="600" fill="#1e3a8a">✅ Flat-rate license</text>
+
+  <!-- Horizontal divider lines -->
+  <g stroke="#e2e8f0" stroke-width="1">
+    <line x1="40" y1="170" x2="1060" y2="170"/>
+    <line x1="40" y1="205" x2="1060" y2="205"/>
+    <line x1="40" y1="240" x2="1060" y2="240"/>
+    <line x1="40" y1="275" x2="1060" y2="275"/>
+    <line x1="40" y1="310" x2="1060" y2="310"/>
+    <line x1="40" y1="345" x2="1060" y2="345"/>
+    <line x1="40" y1="380" x2="1060" y2="380"/>
+    <line x1="40" y1="415" x2="1060" y2="415"/>
+    <line x1="40" y1="450" x2="1060" y2="450"/>
+  </g>
+
+  <!-- Bottom summary -->
+  <rect x="40" y="510" width="1020" height="55" rx="10" fill="#0f172a"/>
+  <text x="550" y="535" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">DeepVi's decisive differentiators — End-to-End No-Code · Real-Time Camera Inference · Auto-Retrain Loop</text>
+  <text x="550" y="555" text-anchor="middle" font-size="12" fill="#94a3b8">An AI vision platform field operators run themselves · No external data transfer, fully internal processing</text>
+</svg>

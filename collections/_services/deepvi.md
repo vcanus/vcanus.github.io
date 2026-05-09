@@ -37,70 +37,21 @@ hero:
 
 **DeepVi** is a **No-Code, End-to-End AI Vision Platform** that handles everything from **data collection to model deployment and automated retraining** — all within a single platform. **No dedicated development team required**: field operators can run the full labeling, training, inference, and review cycle themselves. It supports both **on-premises and cloud** deployments and provides a universal pipeline **ready for immediate use across industries** — including manufacturing, smart farming, logistics, and security.
 
+<img src="/assets/images/gen/services/deepvi-overview.svg" alt="DeepVi end-to-end pipeline overview" style="display:block; width:100%; height:auto; max-width:1100px; margin:1.5rem auto;">
+
 ---
 
 ## What You Can Do with DeepVi
 
-### Build a 24/7 Real-Time AI Inspection Line
-- **Unmanned automated inspection** — no gaps at night or on weekends
-- **Instant end-to-end processing**: from real-time image preprocessing to inference
-- **Real-time on-screen display** of defect location, type, and confidence score
-- Inspection results automatically logged with **conditional search and retrieval**
-
-### Label, Train, and Run Inference Yourself — No Coding Needed
-- **Intuitive web-based UI** — non-experts can start labeling right away
-- **All 3 labeling types supported**: Classification · Detection · Segmentation
-- **One-click training** after setting hyperparameters and data distribution
-- **Same pipeline across all industries** — deploy to the field immediately
-
-### Eliminate Repetitive Delays with an Automated MLOps Cycle
-- **End-to-end automation**: from dataset management to model deployment
-- After false-positive review and re-labeling, new models are **auto-generated and compared before deployment**
-- **MLOps-based automated retraining** and deployment pipeline
-- **Sustained model performance** through data anomaly detection and recovery
-
-### Cut Costs and Strengthen Security — On-Premise or Cloud
-- **Flat-rate license** — no cloud usage-based billing
-- On-premises mode keeps all processing on internal servers — **no external data transfer**
-- **No separate maintenance needed**: automated retraining loop continuously improves performance
-- **Scale out on-premises** by simply adding servers
+<img src="/assets/images/gen/services/deepvi-capabilities.svg" alt="DeepVi four core values" style="display:block; width:100%; height:auto; max-width:1100px; margin:0 auto;">
 
 ---
 
 ## Application Areas
 
-### 🏭 Manufacturing (Quality Inspection)
-> ❌ Inspector fatigue & misjudgment · Skilled workforce required<br>→ ✅ **24h real-time camera detection** · **Precise defect location & type classification**
+<img src="/assets/images/gen/services/deepvi-applications.svg" alt="DeepVi application areas — 4 industries before/after" style="display:block; width:100%; height:auto; max-width:1100px; margin:0 auto;">
 
-- **Precise automated quality inspection** — no visual fatigue
-- **Unmanned 24h inspection line** operation
-- **Defect type classification**: scratches, scales, pores, and more
-- Automated dimensional measurement
-- Automatic DB logging and retrieval of inspection results
-
-### 🌱 Smart Farm
-> ❌ Pest spread before it's caught · Insufficient staff for large-area monitoring<br>→ ✅ **Early automated pest detection** · **Wide-area real-time monitoring**
-
-- **Early pest detection** with automatic location and type identification
-- **Segmentation analysis** by plant growth stage
-- **Wide-area real-time camera monitoring**
-- Data-driven **regular prediction of growth index and yield**
-
-### 🚚 Logistics
-> ❌ Large sorting & inspection workforce · Manual fallback for damaged barcodes<br>→ ✅ **Real-time automated conveyor sorting** · **Automatic label & barcode defect detection**
-
-- **Automated product sorting** — real-time conveyor camera integration
-- **Barcode and label defect detection** with automatic DB logging
-- **Real-time detection and alerts** for expiration date anomalies
-- **Conditional search** of defect history by equipment
-
-### 🔒 Security & Monitoring
-> ❌ Dedicated CCTV staff on duty at all times · Real-time anomaly detection not feasible<br>→ ✅ **Automatic anomaly & object detection** · **Unmanned 24h CCTV auto-classification**
-
-- **Real-time abnormal behavior detection** with confidence score filtering
-- **Unmanned 24h CCTV analysis** and automatic event type classification
-- **Automatic object classification**: people, vehicles, animals, and more
-- **Accurate automatic logging** of detection coordinates and timestamps
+The same pipeline works across industries — **just change the class names and data**, and DeepVi extends immediately beyond manufacturing, smart farming, logistics, and security to medical & healthcare, optical sorting, embedded vision, automated test equipment (ATE), and more.
 
 ---
 
@@ -108,22 +59,7 @@ hero:
 
 > Key differentiators of DeepVi vs. general-purpose AutoML platforms (Vertex AI · SageMaker · Azure Custom Vision) and vision specialist tools (Roboflow · Label Studio · Labelbox)
 
-<div style="overflow-x:auto;" markdown="1">
-
-| Comparison | General AutoML | Vision Specialist Tool | **DeepVi ★** |
-|:---|:---:|:---:|:---|
-| **Coding Required** | ⚠️ Partial | ✅ Not required | ✅ **Fully No-Code** — labeling · training · deployment integrated |
-| **3-Label Type Support** (Classification · Detection · Segmentation) | ⚠️ Platform-dependent | ✅ Strong on labeling | ✅ **Built-in single environment** |
-| **Real-Time Camera Inference** | ❌ Custom development required | ❌ Not supported | ✅ **Immediate integration** (right after training) |
-| **Training Speed** | ✅ Fast | ⚠️ Moderate | ✅ **Completes within days** |
-| **Auto-Retraining Loop** (Mispredictions → Retrain) | ❌ Not supported | ⚠️ Separate workflow | ✅ **Inference Review** — auto accumulation · retrain · deploy |
-| **Cloud Dependency** | ❌ Fully dependent | ⚠️ Partial | ✅ **On-Premise capable** (cloud not required) |
-| **Data Security** | ❌ External transfer | ❌ External transfer | ✅ **Fully internal processing** (no external transfer) |
-| **Domain Customization** | ⚠️ Limited | ⚠️ Limited | ✅ **Fully customizable per industry** |
-| **Non-Expert Operation** | ⚠️ Cloud expertise needed | ⚠️ Tool-dependent | ✅ **Field operators run it directly** |
-| **Pricing Model** | ❌ Pay-as-you-go | ❌ API pay-per-use | ✅ **Flat-rate license** (no usage-based billing) |
-
-</div>
+<img src="/assets/images/gen/services/deepvi-comparison.svg" alt="DeepVi competitive advantages comparison matrix" style="display:block; width:100%; height:auto; max-width:1100px; margin:0 auto;">
 
 ---
 

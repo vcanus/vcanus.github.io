@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 380" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <defs>
+    <linearGradient id="ovGrad" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#1e40af"/><stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+    <marker id="ovArr" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#1e40af"/>
+    </marker>
+    <marker id="ovArrLoop" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#16a34a"/>
+    </marker>
+  </defs>
+  <rect width="1100" height="380" fill="#f8fafc"/>
+  <text x="550" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">DeepVi — End-to-End AI Vision Pipeline</text>
+  <text x="550" y="65" text-anchor="middle" font-size="13" fill="#475569">From data collection to model improvement in one platform · No-Code · On-Premise / Cloud</text>
+
+  <g>
+    <rect x="40" y="110" width="155" height="120" rx="10" fill="url(#ovGrad)"/>
+    <text x="117" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">①  Storage</text>
+    <text x="117" y="158" text-anchor="middle" font-size="11" fill="#dbeafe">Data Management</text>
+    <text x="117" y="183" text-anchor="middle" font-size="10" fill="#ffffff">Bulk image upload</text>
+    <text x="117" y="198" text-anchor="middle" font-size="10" fill="#ffffff">Permanent storage</text>
+    <text x="117" y="218" text-anchor="middle" font-size="10" fill="#bfdbfe">NAS · File Server</text>
+
+    <rect x="210" y="110" width="155" height="120" rx="10" fill="url(#ovGrad)"/>
+    <text x="287" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">②  Dataset</text>
+    <text x="287" y="158" text-anchor="middle" font-size="11" fill="#dbeafe">Labeling</text>
+    <text x="287" y="183" text-anchor="middle" font-size="10" fill="#ffffff">Classification</text>
+    <text x="287" y="198" text-anchor="middle" font-size="10" fill="#ffffff">Detection · Segmentation</text>
+    <text x="287" y="218" text-anchor="middle" font-size="10" fill="#bfdbfe">Unified labeling</text>
+
+    <rect x="380" y="110" width="155" height="120" rx="10" fill="url(#ovGrad)"/>
+    <text x="457" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">③  Inline Processing</text>
+    <text x="457" y="158" text-anchor="middle" font-size="11" fill="#dbeafe">Real-Time Image Proc.</text>
+    <text x="457" y="183" text-anchor="middle" font-size="10" fill="#ffffff">Quality enhance · Align</text>
+    <text x="457" y="198" text-anchor="middle" font-size="10" fill="#ffffff">Template Matching</text>
+    <text x="457" y="218" text-anchor="middle" font-size="10" fill="#bfdbfe">Reference image</text>
+
+    <rect x="550" y="110" width="155" height="120" rx="10" fill="url(#ovGrad)"/>
+    <text x="627" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">④  Model</text>
+    <text x="627" y="158" text-anchor="middle" font-size="11" fill="#dbeafe">Training · Validation</text>
+    <text x="627" y="183" text-anchor="middle" font-size="10" fill="#ffffff">Pre-trained / Custom</text>
+    <text x="627" y="198" text-anchor="middle" font-size="10" fill="#ffffff">One-click training</text>
+    <text x="627" y="218" text-anchor="middle" font-size="10" fill="#bfdbfe">mAP · Loss monitoring</text>
+
+    <rect x="720" y="110" width="155" height="120" rx="10" fill="url(#ovGrad)"/>
+    <text x="797" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">⑤  Inference</text>
+    <text x="797" y="158" text-anchor="middle" font-size="11" fill="#dbeafe">Real-Time Inference</text>
+    <text x="797" y="183" text-anchor="middle" font-size="10" fill="#ffffff">Camera · file input</text>
+    <text x="797" y="198" text-anchor="middle" font-size="10" fill="#ffffff">Defect coords · time</text>
+    <text x="797" y="218" text-anchor="middle" font-size="10" fill="#bfdbfe">Auto DB save</text>
+
+    <rect x="890" y="110" width="170" height="120" rx="10" fill="url(#ovGrad)"/>
+    <text x="975" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">⑥  Review</text>
+    <text x="975" y="158" text-anchor="middle" font-size="11" fill="#dbeafe">Model Improvement</text>
+    <text x="975" y="183" text-anchor="middle" font-size="10" fill="#ffffff">FP review · re-label</text>
+    <text x="975" y="198" text-anchor="middle" font-size="10" fill="#ffffff">Auto retraining</text>
+    <text x="975" y="218" text-anchor="middle" font-size="10" fill="#bfdbfe">MLOps Loop</text>
+  </g>
+
+  <line x1="197" y1="170" x2="207" y2="170" stroke="#1e40af" stroke-width="2" marker-end="url(#ovArr)"/>
+  <line x1="367" y1="170" x2="377" y2="170" stroke="#1e40af" stroke-width="2" marker-end="url(#ovArr)"/>
+  <line x1="537" y1="170" x2="547" y2="170" stroke="#1e40af" stroke-width="2" marker-end="url(#ovArr)"/>
+  <line x1="707" y1="170" x2="717" y2="170" stroke="#1e40af" stroke-width="2" marker-end="url(#ovArr)"/>
+  <line x1="877" y1="170" x2="887" y2="170" stroke="#1e40af" stroke-width="2" marker-end="url(#ovArr)"/>
+
+  <path d="M 975 230 Q 975 290 760 290 Q 287 290 287 240" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-dasharray="6,4" marker-end="url(#ovArrLoop)"/>
+  <rect x="500" y="275" width="220" height="28" rx="14" fill="#16a34a"/>
+  <text x="610" y="294" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">Continuous Improvement Loop</text>
+
+  <rect x="40" y="330" width="1020" height="32" rx="16" fill="#0f172a"/>
+  <text x="550" y="351" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">No-Code  ·  End-to-End  ·  On-Premise / Cloud  ·  Same pipeline across industries — just change class names &amp; data</text>
+</svg>
