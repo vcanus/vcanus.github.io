@@ -106,19 +106,22 @@ hero:
 
 ## Competitive Advantages
 
-> Key differentiators of DeepVi vs. AutoML and vision tools
+> Key differentiators of DeepVi vs. general-purpose AutoML platforms (Vertex AI · SageMaker · Azure Custom Vision) and vision specialist tools (Roboflow · Label Studio · Labelbox)
 
-<div style="overflow-x:auto;">
+<div style="overflow-x:auto;" markdown="1">
 
-| Comparison | AutoML Platform | Vision Specialist Tool | **DeepVi** |
-|---|:---:|:---:|:---:|
-| Coding Required | ⚠️ Partially | ❌ Not required | **Fully No-Code**<Br> (labeling, training, deployment integrated) |
-| Training Speed | Fast | ⚠️ Moderate | **Resolved within the cycle** |
-| Cloud Dependency | ❌ Fully dependent | ⚠️ Partially dependent | **Supports both On-Premise & Cloud** |
-| Data Security | ❌ External transfer | ❌ External transfer | **Internal server processing** (no external transfer) |
-| Auto Retraining | ❌ Not supported | ⚠️ Partial | **Automatic operational data accumulation with periodic retraining deployment** |
-| Customization | ⚠️ Limited | ⚠️ Limited | **Fully customizable per industry** |
-| Pricing Model | ❌ Pay-as-you-go | ❌ API pay-per-use | **Flat-rate license** (no usage-based billing) |
+| Comparison | General AutoML | Vision Specialist Tool | **DeepVi ★** |
+|:---|:---:|:---:|:---|
+| **Coding Required** | ⚠️ Partial | ✅ Not required | ✅ **Fully No-Code** — labeling · training · deployment integrated |
+| **3-Label Type Support** (Classification · Detection · Segmentation) | ⚠️ Platform-dependent | ✅ Strong on labeling | ✅ **Built-in single environment** |
+| **Real-Time Camera Inference** | ❌ Custom development required | ❌ Not supported | ✅ **Immediate integration** (right after training) |
+| **Training Speed** | ✅ Fast | ⚠️ Moderate | ✅ **Completes within days** |
+| **Auto-Retraining Loop** (Mispredictions → Retrain) | ❌ Not supported | ⚠️ Separate workflow | ✅ **Inference Review** — auto accumulation · retrain · deploy |
+| **Cloud Dependency** | ❌ Fully dependent | ⚠️ Partial | ✅ **On-Premise capable** (cloud not required) |
+| **Data Security** | ❌ External transfer | ❌ External transfer | ✅ **Fully internal processing** (no external transfer) |
+| **Domain Customization** | ⚠️ Limited | ⚠️ Limited | ✅ **Fully customizable per industry** |
+| **Non-Expert Operation** | ⚠️ Cloud expertise needed | ⚠️ Tool-dependent | ✅ **Field operators run it directly** |
+| **Pricing Model** | ❌ Pay-as-you-go | ❌ API pay-per-use | ✅ **Flat-rate license** (no usage-based billing) |
 
 </div>
 
@@ -223,6 +226,14 @@ hero:
 <img src="/assets/images/gen/services/deepvi_review.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
 </div>
 </div>
+
+---
+
+## DeepVi in One Line
+
+> **No coding required, all in one platform — DeepVi removes every barrier to AI adoption.**
+
+DeepVi handles the **complete End-to-End AI vision pipeline** in a single platform: data collection (Storage) → labeling (Dataset) → real-time image processing (Inline Processing) → training & validation (Model) → real-time inference (Inference) → model improvement (Review). The same pipeline works across industries — **just change the class names and the data**, and it adapts immediately to manufacturing, smart farming, logistics, security, medical imaging, and more.
 
 <!--
 ## Key Screen Flow
