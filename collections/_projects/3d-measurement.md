@@ -1,5 +1,5 @@
 ---
-title: "3D Measurement with Zeiss"
+title: "3D Measurement"
 description: "Smart Factory 3D Scanning: Zeiss ATOS Powered by VURT-X"
 date: 2018-12-20
 weight: 1

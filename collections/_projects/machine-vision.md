@@ -1,5 +1,5 @@
 ---
-title: "Machine Vision Solutions"
+title: "Machine Vision"
 description: "FPGA-based machine vision solutions from Gidel — Official Korean distributor"
 date: 2019-10-03
 weight: 2
