@@ -27,16 +27,15 @@ hero:
 
 ## Contact
 
- - Phone : +82-31-719-8816
- - Fax : +82-31-719-8817
- - Email : info@vcanus.co.kr
+ - Phone : +82-31-888-5293
+ - Email : sales@vcanus.co.kr
 
 
 ## Address 
 
 ### HQ, R&D
-RoadlandEZ #603, Sungnamdaero 69, Bundang-gu, Sungnam, Gyeonggi-do 13636, Republic of Korea
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3172.0018328930432!2d127.1081274!3d37.34246529999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b5962e5208497%3A0x18cfc7f7dbde09ad!2sVCANUS!5e0!3m2!1sko!2skr!4v1757478236369!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+Gyeonggi R&DB Center #528, Gwanggyo-ro 105, Yeongtong-gu, Suwon, Gyeonggi-do 16229, Korea
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3174.149749649561!2d127.04208377671411!3d37.29158457211108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b59ea40c8d5ab%3A0xe5e4a5fe781cf52e!2z7KO87Iud7ZqM7IKsIOu5hOy5tOuIhOyKpA!5e0!3m2!1sko!2skr!4v1778295377683!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### Suwon Factory
 Gwanggyo The First Knowledge Industry Center #402, Maeyeong-ro 159-19, Yeongtong-gu, Suwon, Gyeonggi-do 16521, Republic of Korea
