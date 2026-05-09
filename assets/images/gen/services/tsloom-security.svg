@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 360" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <rect width="1100" height="360" fill="#fffbeb"/>
+  <text x="550" y="38" text-anchor="middle" font-size="20" font-weight="700" fill="#92400e">Security &amp; Compliance</text>
+  <text x="550" y="60" text-anchor="middle" font-size="13" fill="#a16207">Enterprise-grade security &amp; regulatory compliance — Enterprise / Security Ready</text>
+
+  <rect x="40" y="90" width="430" height="240" rx="10" fill="#ffffff" stroke="#f59e0b"/>
+  <text x="55" y="115" font-size="14" font-weight="700" fill="#92400e">Role-Based Access Control</text>
+  <g font-size="12" font-weight="600">
+    <rect x="55" y="130" width="100" height="32" fill="#fef3c7"/>
+    <text x="105" y="150" text-anchor="middle" fill="#78350f">Role</text>
+    <rect x="155" y="130" width="80" height="32" fill="#fef3c7"/>
+    <text x="195" y="150" text-anchor="middle" fill="#78350f">Read</text>
+    <rect x="235" y="130" width="80" height="32" fill="#fef3c7"/>
+    <text x="275" y="150" text-anchor="middle" fill="#78350f">Write</text>
+    <rect x="315" y="130" width="100" height="32" fill="#fef3c7"/>
+    <text x="365" y="150" text-anchor="middle" fill="#78350f">Deploy</text>
+
+    <rect x="55" y="162" width="100" height="32" fill="#ffffff" stroke="#fde68a"/>
+    <text x="105" y="182" text-anchor="middle" fill="#78350f">Admin</text>
+    <text x="195" y="182" text-anchor="middle" fill="#16a34a" font-size="14">●</text>
+    <text x="275" y="182" text-anchor="middle" fill="#16a34a" font-size="14">●</text>
+    <text x="365" y="182" text-anchor="middle" fill="#16a34a" font-size="14">●</text>
+
+    <rect x="55" y="194" width="100" height="32" fill="#ffffff" stroke="#fde68a"/>
+    <text x="105" y="214" text-anchor="middle" fill="#78350f">Engineer</text>
+    <text x="195" y="214" text-anchor="middle" fill="#16a34a" font-size="14">●</text>
+    <text x="275" y="214" text-anchor="middle" fill="#16a34a" font-size="14">●</text>
+    <text x="365" y="214" text-anchor="middle" fill="#9ca3af" font-size="14">○</text>
+
+    <rect x="55" y="226" width="100" height="32" fill="#ffffff" stroke="#fde68a"/>
+    <text x="105" y="246" text-anchor="middle" fill="#78350f">Viewer</text>
+    <text x="195" y="246" text-anchor="middle" fill="#16a34a" font-size="14">●</text>
+    <text x="275" y="246" text-anchor="middle" fill="#9ca3af" font-size="14">○</text>
+    <text x="365" y="246" text-anchor="middle" fill="#9ca3af" font-size="14">○</text>
+  </g>
+
+  <text x="55" y="285" font-size="11" fill="#a16207">• SSO / LDAP / Active Directory integration</text>
+  <text x="55" y="303" font-size="11" fill="#a16207">• MFA · API key lifecycle management</text>
+
+  <rect x="490" y="90" width="290" height="240" rx="10" fill="#0f172a"/>
+  <text x="505" y="115" font-size="13" font-weight="700" fill="#fde68a">Audit Log</text>
+  <rect x="505" y="125" width="260" height="30" rx="4" fill="#1e293b"/>
+  <text x="515" y="145" font-size="11" fill="#86efac">[INFO] SSO login successful</text>
+  <rect x="505" y="160" width="260" height="30" rx="4" fill="#1e293b"/>
+  <text x="515" y="180" font-size="11" fill="#fde68a">[WARN] Unauthorized access attempt</text>
+  <rect x="505" y="195" width="260" height="30" rx="4" fill="#1e293b"/>
+  <text x="515" y="215" font-size="11" fill="#fca5a5">[ALERT] Anomalous API call detected</text>
+  <rect x="505" y="230" width="260" height="30" rx="4" fill="#1e293b"/>
+  <text x="515" y="250" font-size="11" fill="#cbd5e1">[INFO] Model v2.1 deployed</text>
+  <text x="505" y="285" font-size="11" fill="#cbd5e1">• Full system audit log</text>
+  <text x="505" y="303" font-size="11" fill="#cbd5e1">• User activity tracing</text>
+  <text x="505" y="320" font-size="11" fill="#cbd5e1">• Security event alerts &amp; reports</text>
+
+  <rect x="800" y="90" width="260" height="240" rx="10" fill="#ffffff" stroke="#f59e0b"/>
+  <text x="815" y="115" font-size="14" font-weight="700" fill="#92400e">Data Security · Governance</text>
+  <g font-size="11" font-weight="600">
+    <rect x="815" y="130" width="80" height="28" rx="14" fill="#dc2626"/><text x="855" y="149" text-anchor="middle" fill="#ffffff">Encrypt</text>
+    <rect x="900" y="130" width="80" height="28" rx="14" fill="#dc2626"/><text x="940" y="149" text-anchor="middle" fill="#ffffff">Isolate</text>
+    <rect x="985" y="130" width="80" height="28" rx="14" fill="#dc2626"/><text x="1025" y="149" text-anchor="middle" fill="#ffffff">Govern</text>
+  </g>
+  <text x="815" y="180" font-size="11" fill="#a16207">• In-transit TLS 1.2+ encryption</text>
+  <text x="815" y="200" font-size="11" fill="#a16207">• At-rest AES-256 encryption</text>
+  <text x="815" y="220" font-size="11" fill="#a16207">• Sensitive data masking · anonymization</text>
+  <text x="815" y="240" font-size="11" fill="#a16207">• Fully air-gapped on-premise option</text>
+  <text x="815" y="260" font-size="11" fill="#a16207">• Data Lineage</text>
+  <text x="815" y="280" font-size="11" fill="#a16207">• Retention policy management</text>
+  <text x="815" y="300" font-size="11" fill="#a16207">• Backup · Disaster Recovery (DR)</text>
+  <text x="815" y="320" font-size="11" fill="#a16207">• Security event alerting</text>
+</svg>
