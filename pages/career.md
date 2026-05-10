@@ -85,11 +85,9 @@ We support our team with a great work environment and benefits, including:
 
 ## Contact Us
 <br>
-📞 Phone: +82-31-719-8816
+📞 Phone: +82-31-888-5293
 <br>
-📠 Fax: +82-31-719-8817
-<br>
-📧 Email: info@vcanus.com
+📧 Email: sales@vcanus.com
 
 **Ready to turn data into action?**
 <br>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+  <!-- eye outline (almond shape) -->
+  <path d="M10 50 Q50 18 90 50 Q50 82 10 50 Z" stroke-width="4.5"/>
+  <!-- iris -->
+  <circle cx="50" cy="50" r="16"/>
+  <!-- pixel/AI vision grid inside pupil -->
+  <rect x="44" y="44" width="4" height="4" fill="currentColor" stroke="none"/>
+  <rect x="50" y="44" width="4" height="4" fill="currentColor" stroke="none"/>
+  <rect x="56" y="44" width="4" height="4" fill="currentColor" stroke="none" opacity="0.4"/>
+  <rect x="44" y="50" width="4" height="4" fill="currentColor" stroke="none" opacity="0.4"/>
+  <rect x="50" y="50" width="4" height="4" fill="currentColor" stroke="none"/>
+  <rect x="56" y="50" width="4" height="4" fill="currentColor" stroke="none"/>
+  <rect x="44" y="56" width="4" height="4" fill="currentColor" stroke="none"/>
+  <rect x="50" y="56" width="4" height="4" fill="currentColor" stroke="none" opacity="0.4"/>
+  <rect x="56" y="56" width="4" height="4" fill="currentColor" stroke="none"/>
+</svg>
