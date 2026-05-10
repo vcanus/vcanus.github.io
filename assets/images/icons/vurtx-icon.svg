@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+  <!-- robot arm base -->
+  <rect x="22" y="80" width="26" height="10" rx="2"/>
+  <!-- robot arm: shoulder → elbow → wrist -->
+  <line x1="35" y1="80" x2="22" y2="55" stroke-width="6"/>
+  <line x1="22" y1="55" x2="48" y2="38" stroke-width="6"/>
+  <!-- joints -->
+  <circle cx="35" cy="80" r="3.5" fill="currentColor" stroke="none"/>
+  <circle cx="22" cy="55" r="3.5" fill="currentColor" stroke="none"/>
+  <circle cx="48" cy="38" r="3.5" fill="currentColor" stroke="none"/>
+  <!-- end-effector / gripper -->
+  <line x1="48" y1="38" x2="42" y2="30" stroke-width="3"/>
+  <line x1="48" y1="38" x2="54" y2="30" stroke-width="3"/>
+  <!-- transformation arrow swirl on right (X / transform symbol) -->
+  <path d="M70 30 Q88 30 88 50 Q88 70 70 70" stroke-width="3.5"/>
+  <polyline points="64,24 70,30 64,36" stroke-width="3.5"/>
+  <polyline points="76,76 70,70 76,64" stroke-width="3.5"/>
+  <!-- bold X letter at center-right -->
+  <line x1="74" y1="44" x2="84" y2="56" stroke-width="3.5"/>
+  <line x1="84" y1="44" x2="74" y2="56" stroke-width="3.5"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+  <!-- robot arm base -->
+  <rect x="14" y="78" width="22" height="10" rx="2"/>
+  <!-- arm segments -->
+  <line x1="25" y1="78" x2="25" y2="50" stroke-width="6"/>
+  <line x1="25" y1="50" x2="55" y2="32" stroke-width="6"/>
+  <!-- joints -->
+  <circle cx="25" cy="78" r="3.5" fill="currentColor" stroke="none"/>
+  <circle cx="25" cy="50" r="3.5" fill="currentColor" stroke="none"/>
+  <circle cx="55" cy="32" r="3.5" fill="currentColor" stroke="none"/>
+  <!-- milling/CAM tool tip pointing down -->
+  <line x1="55" y1="32" x2="62" y2="42" stroke-width="5"/>
+  <polygon points="60,40 65,45 58,46" fill="currentColor" stroke="none"/>
+  <!-- workpiece (block being machined) -->
+  <rect x="48" y="68" width="40" height="12" rx="1" stroke-width="3.5"/>
+  <!-- CAM tool path (dashed curve over workpiece) -->
+  <path d="M50 64 Q68 56 86 64" stroke-width="2.5" stroke-dasharray="3,3" opacity="0.7"/>
+  <!-- machining sparks/contact dot -->
+  <circle cx="68" cy="68" r="2.5" fill="currentColor" stroke="none"/>
+</svg>

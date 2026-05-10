@@ -5,7 +5,7 @@ date: 2019-10-03
 weight: 2
 header_transparent: false
 fa_icon: false
-icon: "assets/images/icons/icons8-design-100.png"
+icon: "assets/images/icons/deepvi-icon.svg"
 thumbnail: "/assets/images/gen/services/service-7-thumbnail.webp"
 image: "/assets/images/gen/services/service-7.webp"
 

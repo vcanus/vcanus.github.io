@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+  <!-- baseline / time axis -->
+  <line x1="12" y1="82" x2="88" y2="82" stroke-width="2.5" opacity="0.45"/>
+  <!-- time-series waveform -->
+  <polyline points="14,70 28,52 42,62 56,38 70,48 86,28"/>
+  <!-- distributed data nodes on waveform -->
+  <circle cx="14" cy="70" r="5" fill="currentColor" stroke="none"/>
+  <circle cx="42" cy="62" r="5" fill="currentColor" stroke="none"/>
+  <circle cx="70" cy="48" r="5" fill="currentColor" stroke="none"/>
+  <circle cx="86" cy="28" r="5" fill="currentColor" stroke="none"/>
+  <!-- distributed mesh: subtle connecting lines between nodes -->
+  <line x1="14" y1="70" x2="70" y2="48" stroke-width="1.5" stroke-dasharray="2.5,3" opacity="0.5"/>
+  <line x1="42" y1="62" x2="86" y2="28" stroke-width="1.5" stroke-dasharray="2.5,3" opacity="0.5"/>
+</svg>

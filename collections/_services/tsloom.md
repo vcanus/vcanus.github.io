@@ -5,7 +5,7 @@ date: 2023-12-15
 weight: 1
 header_transparent: false
 fa_icon: false
-icon: "assets/images/icons/icons8-stacked-organizational-chart-100.png"
+icon: "assets/images/icons/tsloom-icon.svg"
 thumbnail: "/assets/images/gen/services/service-1-thumbnail.webp"
 image: "/assets/images/gen/services/service-1.webp"
 
