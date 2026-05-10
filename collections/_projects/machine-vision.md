@@ -63,19 +63,19 @@ hero:
 
 Multi-channel concurrent ingestion of industrial GigE Vision cameras on a single card.
 
-<img src="/assets/images/gen/projects/gidel-hawkeye-gige.png" alt="HawkEye GigE Vision Frame Grabber" style="display:block; width:100%; max-width:810px; height:auto; margin:0 auto;">
+<img src="/assets/images/gen/projects/gidel-hawkeye-gige.png" alt="HawkEye GigE Vision Frame Grabber" style="display:block; width:100%; max-width:900px; height:auto; margin:0 auto;">
 
 ### CoaXPress Models
 
 High-bandwidth industrial camera connectivity with CoaXPress-12.
 
-<img src="/assets/images/gen/projects/gidel-hawkeye-cxp.png" alt="HawkEye CoaXPress Frame Grabber" style="display:block; width:100%; max-width:810px; height:auto; margin:0 auto;">
+<img src="/assets/images/gen/projects/gidel-hawkeye-cxp.png" alt="HawkEye CoaXPress Frame Grabber" style="display:block; width:100%; max-width:900px; height:auto; margin:0 auto;">
 
 ### Camera Link Models
 
 Camera Link Deca / Full / Medium / Base interface support.
 
-<img src="/assets/images/gen/projects/gidel-hawkeye-cl.png" alt="HawkEye Camera Link Frame Grabber" style="display:block; width:100%; max-width:810px; height:auto; margin:0 auto;">
+<img src="/assets/images/gen/projects/gidel-hawkeye-cl.png" alt="HawkEye Camera Link Frame Grabber" style="display:block; width:100%; max-width:900px; height:auto; margin:0 auto;">
 
 ---
 
@@ -95,13 +95,13 @@ Camera Link Deca / Full / Medium / Base interface support.
 
 Compact edge computer based on GigE Vision · Camera Link interfaces.
 
-<img src="/assets/images/gen/projects/gidel-fantovision20.png" alt="FantoVision 20 Series" style="display:block; width:100%; max-width:810px; height:auto; margin:0 auto;">
+<img src="/assets/images/gen/projects/gidel-fantovision20.png" alt="FantoVision 20 Series" style="display:block; width:100%; max-width:900px; height:auto; margin:0 auto;">
 
 ### FantoVision 40 Series
 
 High-performance edge computer with CoaXPress-12 interfaces and 10GigE option.
 
-<img src="/assets/images/gen/projects/gidel-fantovision40.png" alt="FantoVision 40 Series" style="display:block; width:100%; max-width:810px; height:auto; margin:0 auto;">
+<img src="/assets/images/gen/projects/gidel-fantovision40.png" alt="FantoVision 40 Series" style="display:block; width:100%; max-width:900px; height:auto; margin:0 auto;">
 
 ---
 
@@ -119,9 +119,9 @@ High-performance edge computer with CoaXPress-12 interfaces and 10GigE option.
 - Deterministic testing for root-cause isolation
 - Pre-hardware development and testing
 
-<img src="/assets/images/gen/projects/gidel-camsim.png" alt="CamSim Camera Simulator" style="display:block; width:100%; max-width:810px; height:auto; margin:0 auto;">
+<img src="/assets/images/gen/projects/gidel-camsim.png" alt="CamSim Camera Simulator" style="display:block; width:100%; max-width:900px; height:auto; margin:0 auto;">
 
-<img src="/assets/images/gen/projects/gidel-camsim-diagram.png" alt="CamSim System Diagram" style="display:block; width:100%; max-width:630px; height:auto; margin:1rem auto;">
+<img src="/assets/images/gen/projects/gidel-camsim-diagram.png" alt="CamSim System Diagram" style="display:block; width:100%; max-width:700px; height:auto; margin:1rem auto;">
 
 ---
 
