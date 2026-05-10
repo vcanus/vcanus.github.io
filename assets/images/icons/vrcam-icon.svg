@@ -1,20 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
-  <!-- robot arm base -->
-  <rect x="14" y="78" width="22" height="10" rx="2"/>
-  <!-- arm segments -->
-  <line x1="25" y1="78" x2="25" y2="50" stroke-width="6"/>
-  <line x1="25" y1="50" x2="55" y2="32" stroke-width="6"/>
-  <!-- joints -->
-  <circle cx="25" cy="78" r="3.5" fill="currentColor" stroke="none"/>
-  <circle cx="25" cy="50" r="3.5" fill="currentColor" stroke="none"/>
-  <circle cx="55" cy="32" r="3.5" fill="currentColor" stroke="none"/>
-  <!-- milling/CAM tool tip pointing down -->
-  <line x1="55" y1="32" x2="62" y2="42" stroke-width="5"/>
-  <polygon points="60,40 65,45 58,46" fill="currentColor" stroke="none"/>
-  <!-- workpiece (block being machined) -->
-  <rect x="48" y="68" width="40" height="12" rx="1" stroke-width="3.5"/>
-  <!-- CAM tool path (dashed curve over workpiece) -->
-  <path d="M50 64 Q68 56 86 64" stroke-width="2.5" stroke-dasharray="3,3" opacity="0.7"/>
-  <!-- machining sparks/contact dot -->
-  <circle cx="68" cy="68" r="2.5" fill="currentColor" stroke="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <!-- workpiece (machined block) -->
+  <rect x="12" y="40" width="76" height="48" rx="2" stroke-width="4"/>
+  <!-- inner workspace area / pocket outline -->
+  <rect x="20" y="48" width="60" height="32" rx="1" stroke-width="1.5" stroke-dasharray="2,2" opacity="0.5"/>
+  <!-- toolpath — zigzag/serpentine machining pattern (the focus) -->
+  <polyline points="22,52 78,52 78,58 22,58 22,64 78,64 78,70 22,70 22,76 78,76"
+            stroke-width="3" fill="none"/>
+  <!-- toolpath start marker (green = start) -->
+  <circle cx="22" cy="52" r="3.5" fill="currentColor" stroke="none"/>
+  <!-- toolpath end marker (with crosshair pattern) -->
+  <circle cx="78" cy="76" r="4" stroke-width="2.5" fill="none"/>
+  <line x1="74" y1="76" x2="82" y2="76" stroke-width="2"/>
+  <line x1="78" y1="72" x2="78" y2="80" stroke-width="2"/>
+  <!-- cutting tool / endmill descending from top -->
+  <line x1="50" y1="14" x2="50" y2="32" stroke-width="5"/>
+  <polygon points="46,32 54,32 50,38" fill="currentColor" stroke="none"/>
+  <!-- subtle motion lines indicating tool descent -->
+  <line x1="44" y1="20" x2="40" y2="20" stroke-width="1.5" opacity="0.5"/>
+  <line x1="56" y1="20" x2="60" y2="20" stroke-width="1.5" opacity="0.5"/>
 </svg>

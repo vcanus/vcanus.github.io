@@ -1,16 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
-  <!-- eye outline (almond shape) -->
-  <path d="M10 50 Q50 18 90 50 Q50 82 10 50 Z" stroke-width="4.5"/>
-  <!-- iris -->
-  <circle cx="50" cy="50" r="16"/>
-  <!-- pixel/AI vision grid inside pupil -->
-  <rect x="44" y="44" width="4" height="4" fill="currentColor" stroke="none"/>
-  <rect x="50" y="44" width="4" height="4" fill="currentColor" stroke="none"/>
-  <rect x="56" y="44" width="4" height="4" fill="currentColor" stroke="none" opacity="0.4"/>
-  <rect x="44" y="50" width="4" height="4" fill="currentColor" stroke="none" opacity="0.4"/>
-  <rect x="50" y="50" width="4" height="4" fill="currentColor" stroke="none"/>
-  <rect x="56" y="50" width="4" height="4" fill="currentColor" stroke="none"/>
-  <rect x="44" y="56" width="4" height="4" fill="currentColor" stroke="none"/>
-  <rect x="50" y="56" width="4" height="4" fill="currentColor" stroke="none" opacity="0.4"/>
-  <rect x="56" y="56" width="4" height="4" fill="currentColor" stroke="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <!-- image frame (camera-captured image) -->
+  <rect x="14" y="20" width="72" height="60" rx="4" stroke-width="4"/>
+  <!-- corner crop marks -->
+  <g stroke-width="3.5">
+    <path d="M14 28 L14 20 L22 20"/>
+    <path d="M86 28 L86 20 L78 20"/>
+    <path d="M14 72 L14 80 L22 80"/>
+    <path d="M86 72 L86 80 L78 80"/>
+  </g>
+  <!-- detected objects: bounding boxes (AI inference output) -->
+  <!-- box 1 (larger, top-left area) -->
+  <rect x="22" y="32" width="22" height="20" rx="1.5" stroke-width="2.5"/>
+  <!-- box 2 (smaller, middle-right) -->
+  <rect x="52" y="46" width="18" height="22" rx="1.5" stroke-width="2.5" stroke-dasharray="2.5,2"/>
+  <!-- confidence dots (label markers) -->
+  <circle cx="22" cy="32" r="2" fill="currentColor" stroke="none"/>
+  <circle cx="52" cy="46" r="2" fill="currentColor" stroke="none"/>
+  <!-- inference scan line / data flow arrow at bottom -->
+  <line x1="32" y1="92" x2="68" y2="92" stroke-width="2.5"/>
+  <polyline points="62,88 68,92 62,96" stroke-width="2.5"/>
 </svg>
