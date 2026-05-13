@@ -12,15 +12,9 @@
      data-alt-code="{{ site.alt_lang.code }}"
      aria-label="Switch language to {{ site.alt_lang.label }}"
      title="{{ site.alt_lang.label }}">
-    <img class="flag flag-current"
-         src="{{ '/assets/images/icons/flag-' | append: site.lang | append: '.svg' | relative_url }}"
-         alt="{{ site.lang | upcase }}"
-         width="22" height="22" />
-    <span class="lang-divider" aria-hidden="true">›</span>
-    <img class="flag flag-alt"
-         src="{{ '/assets/images/icons/flag-' | append: site.alt_lang.code | append: '.svg' | relative_url }}"
-         alt="{{ site.alt_lang.code | upcase }}"
-         width="22" height="22" />
+    <span class="lang-code lang-current" aria-current="true">{{ site.lang | upcase }}</span>
+    <span class="lang-divider" aria-hidden="true">|</span>
+    <span class="lang-code lang-alt">{{ site.alt_lang.code | upcase }}</span>
   </a>
 </div>
 

@@ -72,13 +72,14 @@
   z-index: 10;
 }
 
-// Language toggle (EN/KO sister site)
+// Language toggle (EN/KO sister site) — text-based, theme-aware
 .lang-switcher {
   display: inline-flex;
   align-items: center;
   margin-left: 1.75rem;
   padding-left: 1.25rem;
-  border-left: 1px solid rgba(0, 0, 0, 0.1);
+  // Themed left separator (was rgba(0,0,0,0.1) — invisible in dark mode)
+  border-left: 1px solid var(--color-base-bg-3);
 
   .lang-toggle {
     display: inline-flex;
@@ -86,42 +87,56 @@
     text-decoration: none !important;
     line-height: 1;
     cursor: pointer;
+    font-family: inherit;
   }
 
-  .flag {
-    width: 22px;
-    height: 22px;
-    border-radius: 50%;
-    object-fit: cover;
-    transition: opacity 0.2s ease, transform 0.2s ease, filter 0.2s ease;
+  .lang-code {
     display: inline-block;
-    vertical-align: middle;
+    font-size: 0.85rem;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    transition: color 0.2s ease, opacity 0.2s ease;
+    padding: 0.15rem 0.1rem;
   }
 
-  // Current (active) language — full color + accent ring
-  .flag-current {
-    opacity: 1 !important;
-    filter: none !important;
-    box-shadow: 0 0 0 2px var(--color-primary-bg, #1f6feb);
+  // Current (active) language — high-contrast header text in both modes
+  .lang-current {
+    font-weight: 700;
+    color: var(--color-header-text);
+    opacity: 1;
   }
 
-  // Alternate language — dimmed + grayscale, hint that it's a switch target
-  .flag-alt {
-    opacity: 0.5 !important;
-    filter: grayscale(70%) !important;
+  // Alternate language — secondary text, dimmed as switch target hint
+  .lang-alt {
+    color: var(--color-base-text-2);
+    opacity: 0.85;
   }
 
   .lang-divider {
-    margin: 0 0.55rem;
-    color: #bbb;
-    font-size: 0.9rem;
+    margin: 0 0.45rem;
+    color: var(--color-base-text-2);
+    opacity: 0.4;
+    font-size: 0.85rem;
     line-height: 1;
+    user-select: none;
   }
 
-  .lang-toggle:hover .flag-alt {
-    opacity: 1 !important;
-    filter: grayscale(0%) !important;
-    transform: scale(1.08);
+  // On hover, the alt language brightens to header-text — signals it's about
+  // to become active. Underline accent uses the brand color for a subtle pop.
+  .lang-toggle:hover .lang-alt {
+    color: var(--color-header-text);
+    opacity: 1;
+    text-decoration: underline;
+    text-decoration-color: var(--color-primary-bg);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+  }
+
+  // Keyboard focus visibility (anchor is focusable)
+  .lang-toggle:focus-visible {
+    outline: 2px solid var(--color-primary-bg);
+    outline-offset: 3px;
+    border-radius: 2px;
   }
 }
 
@@ -131,12 +146,11 @@
     margin-left: 0.75rem;
     padding-left: 0.75rem;
 
-    .flag {
-      width: 18px;
-      height: 18px;
+    .lang-code {
+      font-size: 0.8rem;
     }
     .lang-divider {
-      margin: 0 0.35rem;
+      margin: 0 0.3rem;
     }
   }
 }
@@ -148,12 +162,12 @@
   border-left: 0;
   justify-content: center;
 
-  .flag {
-    width: 26px;
-    height: 26px;
+  .lang-code {
+    font-size: 1rem;
   }
   .lang-divider {
-    font-size: 1.1rem;
+    margin: 0 0.6rem;
+    font-size: 1rem;
   }
 }
 
