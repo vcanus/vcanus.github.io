@@ -73,6 +73,11 @@
 }
 
 // Language toggle (EN/KO sister site) — text-based, theme-aware
+//
+// Adapts to all three header states:
+//   .header               → default solid header (light/dark via CSS vars)
+//   .header-scrolled      → solid header after scrolling past hero (same as default)
+//   .header-transparent   → over hero image (before scroll) — forces white text
 .lang-switcher {
   display: inline-flex;
   align-items: center;
@@ -80,6 +85,7 @@
   padding-left: 1.25rem;
   // Themed left separator (was rgba(0,0,0,0.1) — invisible in dark mode)
   border-left: 1px solid var(--color-base-bg-3);
+  transition: border-left-color 0.2s ease;
 
   .lang-toggle {
     display: inline-flex;
@@ -139,6 +145,37 @@
     border-radius: 2px;
   }
 }
+
+// Transparent header (over hero image, before scroll): force white-ish tones
+// to mirror `.header-transparent a { color: white }` convention. The hero
+// image is typically dark, so theme variables would be invisible here.
+.header-transparent .lang-switcher {
+  border-left-color: rgba(255, 255, 255, 0.25);
+
+  .lang-current {
+    color: #ffffff;
+  }
+  .lang-alt {
+    color: rgba(255, 255, 255, 0.7);
+    opacity: 1;
+  }
+  .lang-divider {
+    color: rgba(255, 255, 255, 0.5);
+    opacity: 1;
+  }
+  .lang-toggle:hover .lang-alt {
+    color: #ffffff;
+    text-decoration-color: #ffffff;
+  }
+  .lang-toggle:focus-visible {
+    outline-color: #ffffff;
+  }
+}
+
+// Scrolled header is identical to the default solid state — the base
+// `.lang-switcher` rules above already use theme variables, so no override
+// needed. Listed here explicitly so future-you knows it was considered.
+// .header-scrolled .lang-switcher { /* inherits from .lang-switcher */ }
 
 // Compact spacing on smaller screens
 @media (max-width: 991px) {
