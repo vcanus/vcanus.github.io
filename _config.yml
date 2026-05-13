@@ -7,6 +7,15 @@ permalink: pretty
 markdown: kramdown
 highlighter: rouge
 
+# -------------------
+# Language settings (for EN/KO toggle)
+# --------------------
+lang: en
+alt_lang:
+  code: ko
+  label: "KOR"
+  url: "https://www.vcanus.co.kr"
+
 
 # Plugins
 plugins:

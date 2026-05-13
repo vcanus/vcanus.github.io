@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" aria-label="South Korea flag">
+  <defs>
+    <clipPath id="flag-ko-circ"><circle cx="30" cy="30" r="30"/></clipPath>
+  </defs>
+  <g clip-path="url(#flag-ko-circ)">
+    <!-- White background -->
+    <rect width="60" height="60" fill="#ffffff"/>
+    <!-- Taegeuk (yin-yang) — red top, blue bottom with S-curve -->
+    <g transform="translate(30 30) rotate(-33.69)">
+      <!-- Blue base (full circle) -->
+      <circle r="13" fill="#0047A0"/>
+      <!-- Red top with S-curve dividing line -->
+      <path d="M -13,0 A 13,13 0 0 1 13,0 A 6.5,6.5 0 0 1 0,0 A 6.5,6.5 0 0 0 -13,0 Z" fill="#CD2E3A"/>
+    </g>
+    <!-- Trigrams (4 corners) — simplified bars -->
+    <g fill="#000000">
+      <!-- Top-left: 건 ☰ (3 solid bars), rotated to point inward -->
+      <g transform="translate(10 10) rotate(33.69)">
+        <rect x="-7" y="-3.6" width="14" height="1.8"/>
+        <rect x="-7" y="-0.9" width="14" height="1.8"/>
+        <rect x="-7" y="1.8"  width="14" height="1.8"/>
+      </g>
+      <!-- Top-right: 감 ☵ (broken-solid-broken) -->
+      <g transform="translate(50 10) rotate(-33.69)">
+        <rect x="-7" y="-3.6" width="6"  height="1.8"/><rect x="1" y="-3.6" width="6" height="1.8"/>
+        <rect x="-7" y="-0.9" width="14" height="1.8"/>
+        <rect x="-7" y="1.8"  width="6"  height="1.8"/><rect x="1" y="1.8"  width="6" height="1.8"/>
+      </g>
+      <!-- Bottom-left: 리 ☲ (solid-broken-solid) -->
+      <g transform="translate(10 50) rotate(-33.69)">
+        <rect x="-7" y="-3.6" width="14" height="1.8"/>
+        <rect x="-7" y="-0.9" width="6"  height="1.8"/><rect x="1" y="-0.9" width="6" height="1.8"/>
+        <rect x="-7" y="1.8"  width="14" height="1.8"/>
+      </g>
+      <!-- Bottom-right: 곤 ☷ (3 broken bars) -->
+      <g transform="translate(50 50) rotate(33.69)">
+        <rect x="-7" y="-3.6" width="6"  height="1.8"/><rect x="1" y="-3.6" width="6" height="1.8"/>
+        <rect x="-7" y="-0.9" width="6"  height="1.8"/><rect x="1" y="-0.9" width="6" height="1.8"/>
+        <rect x="-7" y="1.8"  width="6"  height="1.8"/><rect x="1" y="1.8"  width="6" height="1.8"/>
+      </g>
+    </g>
+  </g>
+</svg>
