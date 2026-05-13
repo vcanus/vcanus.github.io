@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" aria-label="United Kingdom flag">
+  <defs>
+    <clipPath id="flag-en-circ"><circle cx="30" cy="30" r="30"/></clipPath>
+    <clipPath id="flag-en-quad"><path d="M30,30 L60,30 L60,0 Z M30,30 L60,30 L60,60 Z M30,30 L0,30 L0,60 Z M30,30 L0,30 L0,0 Z"/></clipPath>
+  </defs>
+  <g clip-path="url(#flag-en-circ)">
+    <rect width="60" height="60" fill="#012169"/>
+    <!-- White diagonals (St Andrew) -->
+    <path d="M0,0 L60,60 M60,0 L0,60" stroke="#ffffff" stroke-width="10"/>
+    <!-- Red diagonals (St Patrick) - offset via quad clip -->
+    <path d="M0,0 L60,60 M60,0 L0,60" stroke="#C8102E" stroke-width="4" clip-path="url(#flag-en-quad)"/>
+    <!-- White cross (St George border) -->
+    <path d="M30,0 V60 M0,30 H60" stroke="#ffffff" stroke-width="14"/>
+    <!-- Red cross (St George) -->
+    <path d="M30,0 V60 M0,30 H60" stroke="#C8102E" stroke-width="8"/>
+  </g>
+</svg>

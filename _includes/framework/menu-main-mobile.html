@@ -48,6 +48,7 @@
   </div>
 
   <div class="menu-main-mobile-bottom">
+    {% include framework/lang-switcher.html %}
     {% if site.menu.show_social_media_in_mobile_menu %}
       {% include framework/social.html limit=3%}
     {% endif %}

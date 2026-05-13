@@ -1,0 +1,48 @@
+{%- comment -%}
+  Language toggle — switches between EN/KO sister sites.
+  Configured via site.lang and site.alt_lang in _config.yml.
+  Preserves the current page path when navigating across domains.
+  Uses class selectors so it can be safely included in both
+  the desktop header and the mobile menu without ID conflicts.
+{%- endcomment -%}
+<div class="lang-switcher">
+  <a href="#"
+     class="lang-toggle"
+     data-alt-url="{{ site.alt_lang.url }}"
+     data-alt-code="{{ site.alt_lang.code }}"
+     aria-label="Switch language to {{ site.alt_lang.label }}"
+     title="{{ site.alt_lang.label }}">
+    <img class="flag flag-current"
+         src="{{ '/assets/images/icons/flag-' | append: site.lang | append: '.svg' | relative_url }}"
+         alt="{{ site.lang | upcase }}"
+         width="22" height="22" />
+    <span class="lang-divider" aria-hidden="true">›</span>
+    <img class="flag flag-alt"
+         src="{{ '/assets/images/icons/flag-' | append: site.alt_lang.code | append: '.svg' | relative_url }}"
+         alt="{{ site.alt_lang.code | upcase }}"
+         width="22" height="22" />
+  </a>
+</div>
+
+{%- comment -%}
+  Define the click handler only once per page using a guard flag on window.
+{%- endcomment -%}
+<script>
+(function () {
+  if (window.__vcanusLangSwitcherInit) return;
+  window.__vcanusLangSwitcherInit = true;
+  document.addEventListener('DOMContentLoaded', function () {
+    var toggles = document.querySelectorAll('.lang-toggle');
+    toggles.forEach(function (t) {
+      t.addEventListener('click', function (e) {
+        e.preventDefault();
+        var base = (t.dataset.altUrl || '').replace(/\/$/, '');
+        if (!base) return;
+        var path = window.location.pathname + window.location.search + window.location.hash;
+        try { localStorage.setItem('vcanus_lang', t.dataset.altCode); } catch (_) {}
+        window.location.href = base + path;
+      });
+    });
+  });
+})();
+</script>
