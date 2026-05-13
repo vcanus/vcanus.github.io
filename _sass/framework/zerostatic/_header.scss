@@ -76,14 +76,14 @@
 .lang-switcher {
   display: inline-flex;
   align-items: center;
-  margin-left: 1rem;
-  padding-left: 1rem;
+  margin-left: 1.75rem;
+  padding-left: 1.25rem;
   border-left: 1px solid rgba(0, 0, 0, 0.1);
 
   .lang-toggle {
     display: inline-flex;
     align-items: center;
-    text-decoration: none;
+    text-decoration: none !important;
     line-height: 1;
     cursor: pointer;
   }
@@ -93,28 +93,34 @@
     height: 22px;
     border-radius: 50%;
     object-fit: cover;
-    transition: opacity 0.2s ease, transform 0.2s ease;
+    transition: opacity 0.2s ease, transform 0.2s ease, filter 0.2s ease;
     display: inline-block;
+    vertical-align: middle;
   }
 
+  // Current (active) language — full color + accent ring
   .flag-current {
-    opacity: 1;
-    box-shadow: 0 0 0 2px var(--color-primary, #1f6feb);
+    opacity: 1 !important;
+    filter: none !important;
+    box-shadow: 0 0 0 2px var(--color-primary-bg, #1f6feb);
   }
 
+  // Alternate language — dimmed + grayscale, hint that it's a switch target
   .flag-alt {
-    opacity: 0.55;
+    opacity: 0.5 !important;
+    filter: grayscale(70%) !important;
   }
 
   .lang-divider {
-    margin: 0 0.5rem;
+    margin: 0 0.55rem;
     color: #bbb;
     font-size: 0.9rem;
     line-height: 1;
   }
 
   .lang-toggle:hover .flag-alt {
-    opacity: 1;
+    opacity: 1 !important;
+    filter: grayscale(0%) !important;
     transform: scale(1.08);
   }
 }
@@ -122,8 +128,8 @@
 // Compact spacing on smaller screens
 @media (max-width: 991px) {
   .lang-switcher {
-    margin-left: 0.5rem;
-    padding-left: 0.5rem;
+    margin-left: 0.75rem;
+    padding-left: 0.75rem;
 
     .flag {
       width: 18px;
