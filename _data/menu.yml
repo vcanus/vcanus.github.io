@@ -14,6 +14,8 @@ main:
         url: /services/vurtx/
       - name: "VRCAM"
         url: /services/vrcam/
+      - name: "RoboScan250"
+        url: /services/roboscan250/
   - name: Solutions
     url: /projects/
     weight: 2
