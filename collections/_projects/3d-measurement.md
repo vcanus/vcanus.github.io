@@ -141,13 +141,25 @@ VCANUS provides advanced software tools to transform raw 3D data into actionable
 Applied across a wide range of industrial sites depending on the measurement modality.
 
 ### Optical Full-Field Scanning (ATOS5) Applications
+
+<img src="/assets/images/gen/projects/atos-application-domains.svg" alt="ATOS5 application domains — casting & forging, metal forming, plastics, additive manufacturing, automotive, aerospace" style="display:block; width:100%; height:auto; max-width:1100px; margin:1.5rem auto;">
+
 - **Casting & forging**: Shorter measurement and inspection times for sand casting, die casting, investment casting, and forged parts
 - **Metal forming**: Quality control from toolmaking and try-out to first article inspection (FAI), serial inspection, and assembly
 - **Plastics**: Shape optimization across all phases of injection molding, blow molding, and thermoforming
 - **Additive manufacturing (AM)**: High-resolution polygon meshes (STL) for 3D printing, milling, and dimensional inspection
 - **Reverse engineering**: 3D digitization of physical shapes and CAD reconstruction
 
+<img src="/assets/images/gen/projects/atos-applications.webp" alt="ATOS real-world applications — automotive body panel deviation inspection and aircraft structural inspection" style="display:block; width:100%; height:auto; max-width:1000px; margin:1.5rem auto;">
+
+*Real-world examples — automotive body panel deviation (gap & flush) inspection · aircraft structural inspection*
+
 ### Profile Displacement Sensor Applications (Inline 3D Inspection)
+
+<img src="/assets/images/gen/projects/measurement-applications.webp" alt="Profile displacement sensor 3D measurement results — casting housing, electronics/PCB, IC tray, surface deformation map" style="display:block; width:100%; height:auto; max-width:1100px; margin:1.5rem auto;">
+
+*Examples: 3D measurement & inspection results across parts — shape, height, and deformation quantified as color maps*
+
 - **Dimensional & shape inspection**: Height, depth, step, volume, width, thickness, flatness, angle, deformation
 - **Appearance inspection**: Detection of burrs, dents, foreign objects, cracks, and chipping
 - **Presence & assembly inspection**: Lift, flip, warp, gap, and count

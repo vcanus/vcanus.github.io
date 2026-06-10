@@ -1,0 +1,97 @@
+<svg viewBox="0 0 1100 360" xmlns="http://www.w3.org/2000/svg" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <style>
+      .card{fill:#f8fafc;stroke:#e2e8f0;stroke-width:1.5;}
+      .ico{fill:none;stroke:#1f6feb;stroke-width:3.2;stroke-linecap:round;stroke-linejoin:round;}
+      .icf{fill:#1f6feb;}
+      .lbl{fill:#0f172a;font-size:20px;font-weight:700;}
+      .sub{fill:#64748b;font-size:13px;}
+    </style>
+  </defs>
+
+  <!-- ===== Row 1 ===== -->
+  <!-- Casting & Forging -->
+  <g transform="translate(20,20)">
+    <rect class="card" width="340" height="150" rx="12"/>
+    <g transform="translate(40,40)">
+      <!-- crucible pouring into mold -->
+      <path class="ico" d="M8,6 L48,6 L41,38 L15,38 Z"/>
+      <path class="icf" d="M41,38 l5,22 l-11,0 z"/>
+      <path class="ico" d="M22,74 L46,74"/>
+    </g>
+    <text class="lbl" x="112" y="64">Casting &amp; Forging</text>
+    <text class="sub" x="112" y="88">Sand · die · investment casting,</text>
+    <text class="sub" x="112" y="106">and forging</text>
+  </g>
+
+  <!-- Metal Forming -->
+  <g transform="translate(380,20)">
+    <rect class="card" width="340" height="150" rx="12"/>
+    <g transform="translate(44,34)">
+      <!-- press: top block + arrows down + sheet -->
+      <rect class="icf" x="4" y="2" width="56" height="15" rx="2"/>
+      <path class="ico" d="M20,22 L20,38 M20,38 l-5,-6 M20,38 l5,-6"/>
+      <path class="ico" d="M44,22 L44,38 M44,38 l-5,-6 M44,38 l5,-6"/>
+      <path class="ico" d="M2,66 q30,-20 60,0"/>
+    </g>
+    <text class="lbl" x="112" y="64">Metal Forming</text>
+    <text class="sub" x="112" y="88">Tooling, try-out, FAI</text>
+    <text class="sub" x="112" y="106">and serial inspection</text>
+  </g>
+
+  <!-- Plastics -->
+  <g transform="translate(740,20)">
+    <rect class="card" width="340" height="150" rx="12"/>
+    <g transform="translate(46,30)">
+      <!-- droplet -->
+      <path class="icf" d="M30,4 C30,4 12,28 12,42 a18,18 0 0 0 36,0 C48,28 30,4 30,4 Z"/>
+      <path class="ico" d="M6,72 L54,72"/>
+    </g>
+    <text class="lbl" x="112" y="64">Plastics</text>
+    <text class="sub" x="112" y="88">Injection · blow molding</text>
+    <text class="sub" x="112" y="106">and thermoforming</text>
+  </g>
+
+  <!-- ===== Row 2 ===== -->
+  <!-- Additive Manufacturing -->
+  <g transform="translate(20,190)">
+    <rect class="card" width="340" height="150" rx="12"/>
+    <g transform="translate(44,30)">
+      <!-- nozzle + layers -->
+      <path class="ico" d="M30,2 L30,16"/>
+      <path class="icf" d="M21,16 l18,0 l-9,13 z"/>
+      <rect class="icf" x="8" y="44" width="48" height="7" rx="2"/>
+      <rect class="icf" x="8" y="55" width="48" height="7" rx="2" opacity="0.7"/>
+      <rect class="icf" x="8" y="66" width="48" height="7" rx="2" opacity="0.45"/>
+    </g>
+    <text class="lbl" x="112" y="64">Additive Mfg. (AM)</text>
+    <text class="sub" x="112" y="88">STL meshes, 3D printing</text>
+    <text class="sub" x="112" y="106">and dimensional inspection</text>
+  </g>
+
+  <!-- Automotive -->
+  <g transform="translate(380,190)">
+    <rect class="card" width="340" height="150" rx="12"/>
+    <g transform="translate(36,46)">
+      <!-- car -->
+      <path class="ico" d="M2,38 L8,22 q4,-8 14,-8 l22,0 q8,0 13,8 l6,16 q4,1 4,6 l0,2 l-66,0 l0,-2 q0,-5 4,-6 Z"/>
+      <circle class="icf" cx="20" cy="44" r="7"/>
+      <circle class="icf" cx="52" cy="44" r="7"/>
+    </g>
+    <text class="lbl" x="112" y="64">Automotive</text>
+    <text class="sub" x="112" y="88">Body panels, gap</text>
+    <text class="sub" x="112" y="106">and flush inspection</text>
+  </g>
+
+  <!-- Aerospace -->
+  <g transform="translate(740,190)">
+    <rect class="card" width="340" height="150" rx="12"/>
+    <g transform="translate(40,34)">
+      <!-- airplane -->
+      <path class="icf" d="M64,30 L36,34 L20,16 L12,16 L22,36 L8,40 L2,33 L0,37 L7,46 L0,55 L2,59 L8,52 L22,56 L12,76 L20,76 L36,58 L64,62 q8,-2 8,-16 q0,-14 -8,-16 Z"/>
+    </g>
+    <text class="lbl" x="112" y="64">Aerospace</text>
+    <text class="sub" x="112" y="88">Airfoils, structural parts</text>
+    <text class="sub" x="112" y="106">and tooling validation</text>
+  </g>
+</svg>
