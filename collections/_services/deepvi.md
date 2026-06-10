@@ -6,8 +6,8 @@ weight: 2
 header_transparent: false
 fa_icon: false
 icon: "assets/images/icons/deepvi-icon.svg"
-thumbnail: "/assets/images/gen/services/service-7-thumbnail.webp"
-image: "/assets/images/gen/services/service-7.webp"
+thumbnail: "/assets/images/gen/services/deepvi-thumb.webp"
+image: "/assets/images/gen/services/deepvi-hero.webp"
 
 hero:
   enabled: true
@@ -17,7 +17,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: false # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-7.webp"
+  background_image: "/assets/images/gen/services/deepvi-hero.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
@@ -202,7 +202,7 @@ DeepVi handles the **complete End-to-End AI vision pipeline** in a single platfo
 
 </div>
 <div style="flex:1 1 280px; max-width:320px; min-width:0;">
-<img src="/assets/images/gen/services/service-7.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
+<img src="/assets/images/gen/services/deepvi-hero.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
 </div>
 </div>
 
@@ -217,7 +217,7 @@ DeepVi handles the **complete End-to-End AI vision pipeline** in a single platfo
 
 </div>
 <div style="flex:1 1 280px; max-width:320px; min-width:0;">
-<img src="/assets/images/gen/services/service-7.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
+<img src="/assets/images/gen/services/deepvi-hero.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
 </div>
 </div>
 

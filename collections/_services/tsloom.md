@@ -6,8 +6,8 @@ weight: 1
 header_transparent: false
 fa_icon: false
 icon: "assets/images/icons/tsloom-icon.svg"
-thumbnail: "/assets/images/gen/services/service-1-thumbnail.webp"
-image: "/assets/images/gen/services/service-1.webp"
+thumbnail: "/assets/images/gen/services/tsloom-thumb.webp"
+image: "/assets/images/gen/services/tsloom-hero.webp"
 
 hero:
   enabled: true
@@ -17,7 +17,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: false
-  background_image: "/assets/images/gen/services/service-1.webp"
+  background_image: "/assets/images/gen/services/tsloom-hero.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px

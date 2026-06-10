@@ -6,8 +6,8 @@ weight: 5
 header_transparent: false
 fa_icon: false
 icon: "assets/images/icons/deepvi-icon.svg"
-thumbnail: "/assets/images/gen/services/service-11-thumbnail.webp"
-image: "/assets/images/gen/services/service-11.webp"
+thumbnail: "/assets/images/gen/services/roboscan250-thumb.webp"
+image: "/assets/images/gen/services/roboscan250-hero.webp"
 
 hero:
   enabled: true
@@ -17,7 +17,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: false # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-11.webp"
+  background_image: "/assets/images/gen/services/roboscan250-hero.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
