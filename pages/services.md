@@ -31,7 +31,7 @@ hero:
 grid:
   collection: "services"
   sort_by: "weight" # "date", "weight"
-  columns: 2
+  columns: 3
   prevent_click: false
 
 intro:
