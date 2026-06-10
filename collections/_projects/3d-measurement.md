@@ -82,10 +82,11 @@ Key advantages:
 
 ### 1. Robot-Mounted 3D Scanning
 
-1) Flexible Automation:
+**Flexible Automation**
 - Mount 3D measurement devices (optical scanners or profile sensors) on 6-axis robots or cobots for adaptive scanning of complex parts.
 - Custom fixturing ensures repeatable positioning and full coverage of part surfaces.
-2) VURT-X Integration:
+
+**VURT-X Integration**
 - Automated path planning for optimal scan coverage.
 - Collision avoidance and adaptive scanning for varying part geometries.
 > Use Cases:
@@ -97,16 +98,18 @@ Key advantages:
 
 VCANUS provides advanced software tools to transform raw 3D data into actionable insights:
 
-1) Tolerance-Based Classification:
+**Tolerance-Based Classification**
 - Apply production-specific tolerances to automatically classify parts as within/outside control limits.
 - Generate pass/fail reports based on positional tolerances (e.g., GD&T).
-2) Statistical Process Control (SPC):
+
+**Statistical Process Control (SPC)**
 - Track dimensional variations over time to detect trends, shifts, or drifts.
 - Correlate measurement data with process parameters (e.g., temperature, pressure) to identify root causes.
-3) AI-Powered Anomaly Detection:
+
+**AI-Powered Anomaly Detection**
 - Use machine learning models to detect unexpected patterns in measurement data.
 - Predict potential issues before they affect production quality.
-> Example Workflow (Automotive Mass Production):
+> Example Workflow (Automotive Parts Mass Production):
 >   - Scan: Robot-mounted ATOS captures 3D data of a car body panel.
 >   - Align: Software aligns scan data to CAD nominals.
 >   - Analyze:
@@ -126,7 +129,7 @@ VCANUS provides advanced software tools to transform raw 3D data into actionable
 
 ## Success Stories
 
-**Automotive Mass Production**:
+**Automotive Parts Mass Production**:
 <br>
 - 100% digital measurement of body panels in a high-volume production line.
 - Error classification using position-specific tolerances, reducing manual judgment errors.
@@ -150,7 +153,7 @@ Applied across a wide range of industrial sites depending on the measurement mod
 - **Additive manufacturing (AM)**: High-resolution polygon meshes (STL) for 3D printing, milling, and dimensional inspection
 - **Reverse engineering**: 3D digitization of physical shapes and CAD reconstruction
 
-<img src="/assets/images/gen/projects/atos-applications.webp" alt="ATOS real-world applications — automotive body panel deviation inspection and aircraft structural inspection" style="display:block; width:100%; height:auto; max-width:1000px; margin:1.5rem auto;">
+<img src="/assets/images/gen/projects/atos-applications.webp" alt="ATOS real-world applications — automotive body panel deviation inspection and aircraft structural inspection" style="display:block; width:100%; height:auto; max-width:1100px; margin:1.5rem auto;">
 
 *Real-world examples — automotive body panel deviation (gap & flush) inspection · aircraft structural inspection*
 
