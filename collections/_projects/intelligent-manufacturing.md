@@ -99,6 +99,22 @@ Innovate with VRCAM and VURT-X for precision material processing:
 - Laser Sintering Process: Create electronic circuit paths using laser sintering.
 - Defect Inspection: Detect circuit defects with machine vision and AI-based analysis.
 
+### 4. On-The-Fly Laser Processing
+Perform laser marking and processing with a scanner while the workpiece moves continuously on a conveyor—without ever stopping it—dramatically reducing tact time compared to the step-and-repeat (stop-process-move) indexing approach. An encoder detects the conveyor travel in real time and the scanner controller continuously corrects the marking coordinates, so the part keeps moving yet is processed with the same precision as a stationary target.
+
+**2D On-The-Fly**
+- Feed Synchronization: Detect conveyor travel with an encoder and offset the X·Y galvanometer marking coordinates accordingly.
+- Continuous-Line Application: Process flat workpieces at high speed without stopping on conveyor marking and cutting lines, with a fixed focal distance.
+
+**3D On-The-Fly — VCANUS Technology**
+- 3D Path Generation: Generate optimal processing paths that follow curved and stepped surfaces from the workpiece's 3D surface data (height map / CAD model).
+- Real-Time Dynamic Focus Control: Perform feed correction (X·Y) and surface-height tracking (Z) simultaneously, using a z-shifter (dynamic focusing module) to keep the focus on the surface even on curved, stepped, and cylindrical geometries.
+- Precise Synchronization: Align the encoder, scanner, and workpiece 3D coordinate systems and compensate for synchronization latency to maintain processing accuracy even at high feed speeds.
+
+|<img src="/assets/images/gen/projects/otf-2d.webp" width="430">|<img src="/assets/images/gen/projects/otf-3d.webp" width="430">|
+|---|---|
+| 2D On-The-Fly setup: 2-axis galvano scan head + encoder position feedback (flat targets) | 3D On-The-Fly setup: dynamic Z-focus module tracks the focus (Δz) along curved surfaces |
+
 ## Key Benefits of VCANUS Solutions
 
 | Solution Area | Key Benefits |
@@ -106,6 +122,7 @@ Innovate with VRCAM and VURT-X for precision material processing:
 | Machine Vision | Real-time monitoring, defect classification, and adaptive process control. |
 | Distance Displacement Sensors | High-speed inline inspection, 3D profiling, and automated quality control. |
 | Robotic Automation | Precision material processing, VRCAM path planning, and VURT-X real-time control. |
+| On-The-Fly Laser Processing | Non-stop continuous processing, 3D path generation, and surface-following real-time focus control. |
 | Edge AI & 3D Measurement | Predictive analytics, statistical process control, and closed-loop quality management. |
 
 ## Success Stories
