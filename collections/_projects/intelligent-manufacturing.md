@@ -60,6 +60,16 @@ Leverage TSLoom and Edge AI to transform visual data into actionable intelligenc
 - Coating Thickness Prediction: Apply AI models to predict coating thickness in real time.
 - Process Optimization: Dynamically adjust coating parameters to ensure uniformity.
 
+A side-mounted camera (axial view) observes the meniscus (coating bead) cross-section between the die lip and web in real time, closing the loop from machine-vision shape detection to AI thickness prediction and dynamic parameter tuning to ensure film uniformity.
+
+|<img src="/assets/images/gen/projects/r2r-mon-setup.webp" width="560">|
+|---|
+| Side camera placement: observing the meniscus cross-section from the coating-roll side (axial view) |
+
+|<img src="/assets/images/gen/projects/r2r-mon-loop.webp" width="560">|
+|---|
+| Closed-loop control: side camera → meniscus shape detection → AI thickness prediction → parameter optimization |
+
 **Display Defect Classification**
 - Defect Detection: Identify micro-defects in display panels using high-resolution cameras.
 - Classification & Analysis: Classify defects by type, size, and location with machine learning.
@@ -111,9 +121,9 @@ Perform laser marking and processing with a scanner while the workpiece moves co
 - Real-Time Dynamic Focus Control: Perform feed correction (X·Y) and surface-height tracking (Z) simultaneously, using a z-shifter (dynamic focusing module) to keep the focus on the surface even on curved, stepped, and cylindrical geometries.
 - Precise Synchronization: Align the encoder, scanner, and workpiece 3D coordinate systems and compensate for synchronization latency to maintain processing accuracy even at high feed speeds.
 
-|<img src="/assets/images/gen/projects/otf-2d.webp" width="430">|<img src="/assets/images/gen/projects/otf-3d.webp" width="430">|
-|---|---|
-| 2D On-The-Fly setup: 2-axis galvano scan head + encoder position feedback (flat targets) | 3D On-The-Fly setup: dynamic Z-focus module tracks the focus (Δz) along curved surfaces |
+|<img src="/assets/images/gen/projects/otf-2d.webp" width="430">|<span style="display:inline-block;width:50px">&nbsp;</span>|<img src="/assets/images/gen/projects/otf-3d.webp" width="430">|
+|---|:---:|---|
+| **2D On-The-Fly setup**<br>2-axis galvano scan head + encoder position feedback (flat targets) | | **3D On-The-Fly setup**<br>Dynamic Z-focus module tracks the focus (Δz) along curved surfaces |
 
 ## Key Benefits of VCANUS Solutions
 
