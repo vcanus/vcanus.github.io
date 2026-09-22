@@ -12,7 +12,7 @@ image: "/assets/images/gen/services/deepvi-hero.webp"
 hero:
   enabled: true
   heading: "AI-Powered Vision Analytics Platform"
-  sub_heading: "From image collection to ML model deployment<br> — all within the DeepVi platform"
+  sub_heading: "From image collection to model training, precision inspection, and deployment<br> — all within the DeepVi platform"
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
@@ -35,7 +35,7 @@ hero:
 
 ## AI-Powered Vision Analytics Platform
 
-**DeepVi** is a **No-Code, End-to-End AI Vision Platform** that handles everything from **data collection to model deployment and automated retraining** — all within a single platform. **No dedicated development team required**: field operators can run the full labeling, training, inference, and review cycle themselves. It supports both **on-premises and cloud** deployments and provides a universal pipeline **ready for immediate use across industries** — including manufacturing, smart farming, logistics, and security.
+**DeepVi** is a **No-Code, End-to-End AI Vision Platform** that handles everything from **data collection to model training, precision inspection, deployment, and retraining** — all within a single platform. Training and inference are monitored and controlled at a glance through the **Built-in Workflow**, and workflows are extended and edited with the **VCANUS Flowbroker workflow editor**. Alongside deep learning (Classification · Detection · Segmentation), DeepVi includes **Align · Inspection (alignment, measurement, and code reading)** — precision inspection functions widely used in image analysis. **No dedicated development team required**: field operators can run the full labeling, training, inspection, inference, and review cycle themselves. It supports both **on-premises and cloud** deployments and provides a universal pipeline **ready for immediate use across industries** — including manufacturing, smart farming, logistics, and security.
 
 <img src="/assets/images/gen/services/deepvi-overview.svg" alt="DeepVi end-to-end pipeline overview" style="display:block; width:100%; height:auto; max-width:1100px; margin:1.5rem auto;">
 
@@ -69,16 +69,16 @@ The same pipeline works across industries — **just change the class names and 
 <div style="flex:1 1 280px; min-width:280px;" markdown="1">
 
 ### Storage (Data Management)
-- Bulk image upload via **Web** or **FTP**
-- Remote archiving on **NAS** or **File Server**
+- **Bulk web upload** for registering large image sets
+- **Folder-based management** — create, move, and delete folders; bulk-move multiple selections
 - **High-speed browsing of large datasets** with auto-generated thumbnails
-- **Batch operations**: bulk delete and move multiple images at once
+- **Storage usage** visible at a glance
 - **Original data preserved permanently** — easy to reuse
-- **Storage footprint stays constant** when adding new datasets
+- Datasets reference the originals — **storage footprint stays constant** as datasets are added
 
 </div>
-<div style="flex:1 1 280px; max-width:320px; min-width:0;">
-<img src="/assets/images/gen/services/deepvi_storage.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
+<div style="flex:1 1 280px; max-width:420px; min-width:0;">
+<img src="/assets/images/gen/services/deepvi_storage.webp" alt="DeepVi Storage screen" style="display:block; width:100%; max-width:420px; height:auto;">
 </div>
 </div>
 
@@ -87,45 +87,47 @@ The same pipeline works across industries — **just change the class names and 
 
 ### Dataset (Labeling)
 - **Unified labeling environment** for all 3 types: Classification · Detection · Segmentation
-- Built-in **BBox and Mask** precision labeling tools
-- **Category management** organized by defect type
-- Improved model accuracy through **pixel-level annotation**
-- Flexible training setups via **dataset splitting and merging**
+- **BBox · Polygon · Mask** precision labeling tools
+- **SAM2-assisted segmentation and Auto Labeling** to cut labeling time
+- **Import/export in standard formats such as COCO**, plus category templates
+- **Published dataset snapshots** (fixed train/val/test split) for reproducible training
 
 </div>
-<div style="flex:1 1 280px; max-width:320px; min-width:0;">
-<img src="/assets/images/gen/services/deepvi_dataset.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
-</div>
-</div>
-
-<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
-<div style="flex:1 1 280px; min-width:280px;" markdown="1">
-
-### Inline Processing (Real-Time Image Processing)
-- **Pre-inference processing**: image quality enhancement, Template Matching, and more
-- **Alignment support**: Rotation and Translation correction
-- **Reference image** registration and management
-- **Automatic calculation** of translation and rotation offsets
-
-</div>
-<div style="flex:1 1 280px; max-width:320px; min-width:0;">
-<img src="/assets/images/gen/services/deepvi_review2.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
+<div style="flex:1 1 280px; max-width:420px; min-width:0;">
+<img src="/assets/images/gen/services/deepvi_dataset.webp" alt="DeepVi Dataset labeling screen" style="display:block; width:100%; max-width:420px; height:auto;">
 </div>
 </div>
 
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
 <div style="flex:1 1 280px; min-width:280px;" markdown="1">
 
-### Model (Training & Validation)
-- Supports both **pre-trained and custom models**
-- **One-click training** — configure hyperparameters and data split, then go
-- **Transfer Learning** and **Early Stopping** available
-- Real-time monitoring: **Confusion Matrix**, **mAP**, and **Loss** curves
-- **Best weights auto-saved** with checkpoint download support
+### Training · Model (Workflow Training & Validation)
+- **Built-in Workflow** — training flow, node status, and logs on a single screen
+- Per-node **run · pause · resume**, plus parameter adjustment
+- Workflows extended and edited with the **VCANUS Flowbroker workflow editor**
+- **Fast / Standard model families**, with more families addable
+- **Transfer Learning** and **Early Stopping**, with a real-time Loss chart
+- Performance evaluation with **Confusion Matrix** and **mAP**; **checkpoint and ONNX** export
 
 </div>
-<div style="flex:1 1 280px; max-width:320px; min-width:0;">
-<img src="/assets/images/gen/services/deepvi_model1.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
+<div style="flex:1 1 280px; max-width:420px; min-width:0;">
+<img src="/assets/images/gen/services/deepvi_training.webp" alt="DeepVi Training workflow screen" style="display:block; width:100%; max-width:420px; height:auto;">
+</div>
+</div>
+
+<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
+<div style="flex:1 1 280px; min-width:280px;" markdown="1">
+
+### Align · Inspection (Precision Inspection)
+- **Reference image registration** and one-click Align model creation
+- **Automatic shift and rotation correction** (Align)
+- **6 inspection tools**: Caliper · Circle · Distance · Angle · Code · Template
+- **Tolerance-based OK/NG judgment**, with a golden dry-run on the reference image
+- **Real-time judgment alongside deep-learning results** in the inference workflow
+
+</div>
+<div style="flex:1 1 280px; max-width:420px; min-width:0;">
+<img src="/assets/images/gen/services/deepvi_inspection.webp" alt="DeepVi Align · Inspection screen" style="display:block; width:100%; max-width:420px; height:auto;">
 </div>
 </div>
 
@@ -134,15 +136,14 @@ The same pipeline works across industries — **just change the class names and 
 
 ### Inference (Real-Time Inference)
 - Live inference from **camera streams or image files**
-- **Real-time inference result monitoring**
-- **Low-confidence results automatically filtered** out
-- Defect type, coordinates, and timestamp **auto-saved to DB**
-- **Search and retrieve** past inference records by condition
-- **Workflow-based interface** for fast algorithm configuration
+- **Workflow-based interface** for fast algorithm configuration (add custom nodes)
+- Real-time display of detections and confidence, plus **pre-processing / inference / post-processing time analysis**
+- Detection, segmentation, and classification results shown **together with Align · Inspection OK/NG**
+- **Results, coordinates, and timestamps auto-saved**; **history lookup** with condition filters
 
 </div>
-<div style="flex:1 1 280px; max-width:320px; min-width:0;">
-<img src="/assets/images/gen/services/deepvi_inference.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
+<div style="flex:1 1 280px; max-width:420px; min-width:0;">
+<img src="/assets/images/gen/services/deepvi_inference.webp" alt="DeepVi Inference screen" style="display:block; width:100%; max-width:420px; height:auto;">
 </div>
 </div>
 
@@ -151,15 +152,14 @@ The same pipeline works across industries — **just change the class names and 
 
 ### Review (Model Improvement)
 - Build up training data through **false-positive review, re-labeling, and comments**
-- New models are **auto-generated, compared, and swapped in** if performance improves
-- **MLOps-based automated retraining** and deployment pipeline
-- **Data anomaly detection and recovery** to sustain long-term performance
-- **Natural language search** for similar defect root cause analysis
-- Automatic **data degradation detection** and self-recovery
+- **Review status management** — approve, reject (with reason codes), or discard, with per-item history
+- **Compare and edit** reviewed labels against the original predictions
+- Reviewed data **reflected into the dataset → retraining**
+- After performance evaluation, **the production model is replaced with a verified model**
 
 </div>
-<div style="flex:1 1 280px; max-width:320px; min-width:0;">
-<img src="/assets/images/gen/services/deepvi_review.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
+<div style="flex:1 1 280px; max-width:420px; min-width:0;">
+<img src="/assets/images/gen/services/deepvi_review.webp" alt="DeepVi Review screen" style="display:block; width:100%; max-width:420px; height:auto;">
 </div>
 </div>
 
@@ -169,71 +169,4 @@ The same pipeline works across industries — **just change the class names and 
 
 > **No coding required, all in one platform — DeepVi removes every barrier to AI adoption.**
 
-DeepVi handles the **complete End-to-End AI vision pipeline** in a single platform: data collection (Storage) → labeling (Dataset) → real-time image processing (Inline Processing) → training & validation (Model) → real-time inference (Inference) → model improvement (Review). The same pipeline works across industries — **just change the class names and the data**, and it adapts immediately to manufacturing, smart farming, logistics, security, medical imaging, and more.
-
-<!--
-## Key Screen Flow
-
-> Core features across the 4 stages: Dataset → Training → Inference → Review
-
-<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
-<div style="flex:1 1 280px; min-width:280px;" markdown="1">
-
-### Step 1 — Dataset · Labeling
-- **Web-based UI** allows even non-experts to start labeling immediately
-- **Integrated labeling** for all 3 types: Classification / Detection / Segmentation
-- Industry-specific configurations via **dataset splitting and merging**
-- Label data **version control and history tracking**
-
-</div>
-<div style="flex:1 1 280px; max-width:320px; min-width:0;">
-<img src="/assets/images/gen/services/deepvi_dataset1.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
-</div>
-</div>
-
-<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
-<div style="flex:1 1 280px; min-width:280px;" markdown="1">
-
-### Step 2 — Model · Training View
-- **Real-time chart monitoring** of mAP and Loss per epoch
-- Training optimization via **Early Stop and Transfer Learning**
-- **Status check** without interrupting training
-- **Model comparison and automatic best model selection**
-
-</div>
-<div style="flex:1 1 280px; max-width:320px; min-width:0;">
-<img src="/assets/images/gen/services/deepvi-hero.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
-</div>
-</div>
-
-<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
-<div style="flex:1 1 280px; min-width:280px;" markdown="1">
-
-### Step 3 — Inference · Real-Time Detection (Camera-Connected Inference)
-- **Immediately connect camera and start real-time inference** after training completes
-- Real-time on-screen display of **defect location, classification, and confidence score**
-- **History management** through automatic result saving
-- **Multi-camera simultaneous monitoring**
-
-</div>
-<div style="flex:1 1 280px; max-width:320px; min-width:0;">
-<img src="/assets/images/gen/services/deepvi-hero.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
-</div>
-</div>
-
-<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
-<div style="flex:1 1 280px; min-width:280px;" markdown="1">
-
-### Step 4 — Review · Retraining Loop (False Positive Correction · Retrain)
-- **Automatic retraining** after merging with existing dataset
-- New model generation followed by **performance comparison and automatic replacement of operational model**
-- **Continuously improving model accuracy** through expanded data accumulation
-- Automation via **continuous improvement loop**
-
-</div>
-<div style="flex:1 1 280px; max-width:320px; min-width:0;">
-<img src="/assets/images/gen/services/deepvi_review1.webp" alt="DeepVi" style="display:block; width:100%; max-width:320px; height:auto;">
-</div>
-</div>
-
--->
+DeepVi handles the **complete End-to-End AI vision pipeline** in a single platform: data collection (Storage) → labeling (Dataset) → workflow training (Training) → precision inspection (Align · Inspection) → real-time inference (Inference) → model improvement (Review). The same pipeline works across industries — **just change the class names and the data**, and it adapts immediately to manufacturing, smart farming, logistics, security, medical imaging, and more.

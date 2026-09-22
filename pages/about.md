@@ -33,7 +33,7 @@ VCANUS specializes in real-time data processing, AI-driven analytics, and adapti
 ### 1. High-Speed, Low-Latency Data Processing & AI Models
 - **High-speed, low-latency data processing**: From fieldbus and data-infrastructure connectivity to real-time (RT) data processing and high-performance visualization — combined with edge and MLOps to ingest and process thousands of sensor/signal inputs per second at low latency. (Powered by the TSLoom time-series platform)
 - **AI-based analytics models**: Statistical and machine-learning models for forecasting, anomaly detection, and root-cause analysis, operable even by non-experts through visual workflows.
-- **Image analysis**: Combining FPGA-based high-speed image processing (frame grabbers, Gidel) with platform-based image processing (the DeepVi AI vision platform) — covering edge detection and distance/displacement through dataset and labeling, inline processing, model training and inference, and review.
+- **Image analysis**: Combining FPGA-based high-speed image processing (frame grabbers, Gidel) with platform-based image processing (the DeepVi AI vision platform) — covering edge detection and distance/displacement through dataset and labeling, workflow-based training, alignment and measurement inspection (Align · Inspection), inference, and review.
 
 ### 2. 3D Measurement & Inspection
 - **3D shape measurement**: High-density 3D digitization with ZEISS ATOS optical scanners and 3D profile sensors.
@@ -59,7 +59,7 @@ VCANUS specializes in real-time data processing, AI-driven analytics, and adapti
 | Platform | Key Function | Applications |
 |---|---|---|
 | TSLoom | Real-time time-series data analysis | Monitoring, predictive maintenance, quality control |
-| DeepVi | AI-based vision analytics | Defect detection, classification, inspection |
+| DeepVi | AI-based vision analytics | Defect detection & classification, precision inspection (measurement, code reading) |
 | VURT-X | Adaptive control & feedback systems | Robotics, process optimization |
 | VRCAM | 3D scanning & path planning | Automation, precision tasks |
 
