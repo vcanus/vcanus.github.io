@@ -20,7 +20,7 @@
     <text x="117" y="158" text-anchor="middle" font-size="11" fill="#dbeafe">Data Management</text>
     <text x="117" y="183" text-anchor="middle" font-size="10" fill="#ffffff">Bulk image upload</text>
     <text x="117" y="198" text-anchor="middle" font-size="10" fill="#ffffff">Permanent storage</text>
-    <text x="117" y="218" text-anchor="middle" font-size="10" fill="#bfdbfe">NAS · File Server</text>
+    <text x="117" y="218" text-anchor="middle" font-size="10" fill="#bfdbfe">Folders · thumbnails</text>
 
     <rect x="210" y="110" width="155" height="120" rx="10" fill="url(#ovGrad)"/>
     <text x="287" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">②  Dataset</text>
@@ -30,32 +30,32 @@
     <text x="287" y="218" text-anchor="middle" font-size="10" fill="#bfdbfe">Unified labeling</text>
 
     <rect x="380" y="110" width="155" height="120" rx="10" fill="url(#ovGrad)"/>
-    <text x="457" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">③  Inline Processing</text>
-    <text x="457" y="158" text-anchor="middle" font-size="11" fill="#dbeafe">Real-Time Image Proc.</text>
-    <text x="457" y="183" text-anchor="middle" font-size="10" fill="#ffffff">Quality enhance · Align</text>
-    <text x="457" y="198" text-anchor="middle" font-size="10" fill="#ffffff">Template Matching</text>
-    <text x="457" y="218" text-anchor="middle" font-size="10" fill="#bfdbfe">Reference image</text>
+    <text x="457" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">③  Training</text>
+    <text x="457" y="158" text-anchor="middle" font-size="11" fill="#dbeafe">Workflow Training</text>
+    <text x="457" y="183" text-anchor="middle" font-size="10" fill="#ffffff">Built-in workflow</text>
+    <text x="457" y="198" text-anchor="middle" font-size="10" fill="#ffffff">Fast · Standard models</text>
+    <text x="457" y="218" text-anchor="middle" font-size="10" fill="#bfdbfe">mAP · Loss monitoring</text>
 
     <rect x="550" y="110" width="155" height="120" rx="10" fill="url(#ovGrad)"/>
-    <text x="627" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">④  Model</text>
-    <text x="627" y="158" text-anchor="middle" font-size="11" fill="#dbeafe">Training · Validation</text>
-    <text x="627" y="183" text-anchor="middle" font-size="10" fill="#ffffff">Pre-trained / Custom</text>
-    <text x="627" y="198" text-anchor="middle" font-size="10" fill="#ffffff">One-click training</text>
-    <text x="627" y="218" text-anchor="middle" font-size="10" fill="#bfdbfe">mAP · Loss monitoring</text>
+    <text x="627" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">④  Align · Inspection</text>
+    <text x="627" y="158" text-anchor="middle" font-size="11" fill="#dbeafe">Precision Inspection</text>
+    <text x="627" y="183" text-anchor="middle" font-size="10" fill="#ffffff">Shift·rotation correction</text>
+    <text x="627" y="198" text-anchor="middle" font-size="10" fill="#ffffff">Measurement · code reading</text>
+    <text x="627" y="218" text-anchor="middle" font-size="10" fill="#bfdbfe">Tolerance-based OK/NG</text>
 
     <rect x="720" y="110" width="155" height="120" rx="10" fill="url(#ovGrad)"/>
     <text x="797" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">⑤  Inference</text>
     <text x="797" y="158" text-anchor="middle" font-size="11" fill="#dbeafe">Real-Time Inference</text>
     <text x="797" y="183" text-anchor="middle" font-size="10" fill="#ffffff">Camera · file input</text>
-    <text x="797" y="198" text-anchor="middle" font-size="10" fill="#ffffff">Defect coords · time</text>
-    <text x="797" y="218" text-anchor="middle" font-size="10" fill="#bfdbfe">Auto DB save</text>
+    <text x="797" y="198" text-anchor="middle" font-size="10" fill="#ffffff">Auto result saving</text>
+    <text x="797" y="218" text-anchor="middle" font-size="10" fill="#bfdbfe">History lookup</text>
 
     <rect x="890" y="110" width="170" height="120" rx="10" fill="url(#ovGrad)"/>
     <text x="975" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">⑥  Review</text>
     <text x="975" y="158" text-anchor="middle" font-size="11" fill="#dbeafe">Model Improvement</text>
     <text x="975" y="183" text-anchor="middle" font-size="10" fill="#ffffff">FP review · re-label</text>
-    <text x="975" y="198" text-anchor="middle" font-size="10" fill="#ffffff">Auto retraining</text>
-    <text x="975" y="218" text-anchor="middle" font-size="10" fill="#bfdbfe">MLOps Loop</text>
+    <text x="975" y="198" text-anchor="middle" font-size="10" fill="#ffffff">Feed back to dataset</text>
+    <text x="975" y="218" text-anchor="middle" font-size="10" fill="#bfdbfe">Retraining loop</text>
   </g>
 
   <line x1="197" y1="170" x2="207" y2="170" stroke="#1e40af" stroke-width="2" marker-end="url(#ovArr)"/>

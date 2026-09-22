@@ -27,8 +27,8 @@
   <text x="942" y="161" text-anchor="middle" font-size="12" font-weight="600" fill="#1e3a8a">✅ Fully No-Code</text>
 
   <!-- Row 2: 3-Label Type Support -->
-  <text x="60" y="194" font-size="12" font-weight="600" fill="#0f172a">3-Label Type Support</text>
-  <text x="60" y="208" font-size="9" fill="#64748b">Cls · Det · Seg</text>
+  <text x="60" y="187" font-size="12" font-weight="600" fill="#0f172a">3-Label Type Support</text>
+  <text x="60" y="200" font-size="9" fill="#64748b">Cls · Det · Seg</text>
   <text x="522" y="194" text-anchor="middle" font-size="13" fill="#d97706">⚠️ Platform-dep.</text>
   <text x="722" y="194" text-anchor="middle" font-size="13" fill="#16a34a">✅ Strong on labeling</text>
   <rect x="825" y="178" width="235" height="28" rx="4" fill="#dbeafe"/>
@@ -41,20 +41,21 @@
   <rect x="825" y="213" width="235" height="28" rx="4" fill="#dbeafe"/>
   <text x="942" y="231" text-anchor="middle" font-size="12" font-weight="600" fill="#1e3a8a">✅ Immediate integration</text>
 
-  <!-- Row 4: Training Speed -->
-  <text x="60" y="264" font-size="12" font-weight="600" fill="#0f172a">Training Speed</text>
-  <text x="522" y="264" text-anchor="middle" font-size="13" fill="#16a34a">✅ Fast</text>
-  <text x="722" y="264" text-anchor="middle" font-size="13" fill="#d97706">⚠️ Moderate</text>
+  <!-- Row 4: Precision Inspection -->
+  <text x="60" y="257" font-size="12" font-weight="600" fill="#0f172a">Precision Inspection</text>
+  <text x="60" y="270" font-size="9" fill="#64748b">Align · Measurement · Code reading</text>
+  <text x="522" y="264" text-anchor="middle" font-size="13" fill="#dc2626">❌ Separate tool</text>
+  <text x="722" y="264" text-anchor="middle" font-size="13" fill="#d97706">⚠️ Limited</text>
   <rect x="825" y="248" width="235" height="28" rx="4" fill="#dbeafe"/>
-  <text x="942" y="266" text-anchor="middle" font-size="12" font-weight="600" fill="#1e3a8a">✅ Completes within days</text>
+  <text x="942" y="266" text-anchor="middle" font-size="12" font-weight="600" fill="#1e3a8a">✅ Integrated with deep learning</text>
 
-  <!-- Row 5: Auto-Retraining Loop -->
-  <text x="60" y="299" font-size="12" font-weight="600" fill="#0f172a">Auto-Retraining Loop</text>
-  <text x="60" y="313" font-size="9" fill="#64748b">FP → Retrain</text>
+  <!-- Row 5: Retraining Loop -->
+  <text x="60" y="292" font-size="12" font-weight="600" fill="#0f172a">Retraining Loop</text>
+  <text x="60" y="305" font-size="9" fill="#64748b">FP → Retrain</text>
   <text x="522" y="299" text-anchor="middle" font-size="13" fill="#dc2626">❌ Not supported</text>
   <text x="722" y="299" text-anchor="middle" font-size="13" fill="#d97706">⚠️ Separate workflow</text>
   <rect x="825" y="283" width="235" height="28" rx="4" fill="#dbeafe"/>
-  <text x="942" y="301" text-anchor="middle" font-size="12" font-weight="600" fill="#1e3a8a">✅ Inference Review</text>
+  <text x="942" y="301" text-anchor="middle" font-size="12" font-weight="600" fill="#1e3a8a">✅ Built-in Review → Retrain</text>
 
   <!-- Row 6: Cloud Dependency -->
   <text x="60" y="334" font-size="12" font-weight="600" fill="#0f172a">Cloud Dependency</text>
@@ -90,6 +91,6 @@
 
   <!-- Bottom summary -->
   <rect x="40" y="440" width="1020" height="55" rx="10" fill="#0f172a"/>
-  <text x="550" y="465" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">DeepVi's decisive differentiators — End-to-End No-Code · Real-Time Camera Inference · Auto-Retrain Loop</text>
+  <text x="550" y="465" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">DeepVi's decisive differentiators — End-to-End No-Code · Deep Learning + Precision Inspection · FP Retraining Loop</text>
   <text x="550" y="485" text-anchor="middle" font-size="12" fill="#94a3b8">An AI vision platform field operators run themselves · No external data transfer, fully internal processing</text>
 </svg>
