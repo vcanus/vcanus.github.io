@@ -88,7 +88,7 @@ The same pipeline works across industries — **just change the class names and 
 ### Dataset (Labeling)
 - **Unified labeling environment** for all 3 types: Classification · Detection · Segmentation
 - **BBox · Polygon · Mask** precision labeling tools
-- **SAM2-assisted segmentation and Auto Labeling** to cut labeling time
+- **AI-assisted segmentation and Auto Labeling** to cut labeling time
 - **Import/export in standard formats such as COCO**, plus category templates
 - **Published dataset snapshots** (fixed train/val/test split) for reproducible training
 
