@@ -35,7 +35,7 @@ hero:
 
 ## AI-Powered Vision Analytics Platform
 
-**DeepVi** is a **No-Code, End-to-End AI Vision Platform** that handles everything from **data collection to model training, precision inspection, deployment, and retraining** — all within a single platform. Training and inference are monitored and controlled at a glance through the **Built-in Workflow**, and workflows are extended and edited with the **VCANUS Flowbroker workflow editor**. Alongside deep learning (Classification · Detection · Segmentation), DeepVi includes **Align · Inspection (alignment, measurement, and code reading)** — precision inspection functions widely used in image analysis. **No dedicated development team required**: field operators can run the full labeling, training, inspection, inference, and review cycle themselves. It supports both **on-premises and cloud** deployments and provides a universal pipeline **ready for immediate use across industries** — including manufacturing, smart farming, logistics, and security.
+**DeepVi** is a **No-Code, End-to-End AI Vision Platform** that handles everything from **data collection to model training, precision inspection, deployment, and retraining** — all within a single platform. Training and inference are monitored and controlled at a glance through the **Built-in Workflow**, and workflows are extended and edited with the **VCANUS workflow editor**. Alongside deep learning (Classification · Detection · Segmentation), DeepVi includes **Align · Inspection (alignment, measurement, and code reading)** — precision inspection functions widely used in image analysis. **No dedicated development team required**: field operators can run the full labeling, training, inspection, inference, and review cycle themselves. It supports both **on-premises and cloud** deployments and provides a universal pipeline **ready for immediate use across industries** — including manufacturing, smart farming, logistics, and security.
 
 <img src="/assets/images/gen/services/deepvi-overview.svg" alt="DeepVi end-to-end pipeline overview" style="display:block; width:100%; height:auto; max-width:1100px; margin:1.5rem auto;">
 
@@ -104,8 +104,9 @@ The same pipeline works across industries — **just change the class names and 
 ### Training · Model (Workflow Training & Validation)
 - **Built-in Workflow** — training flow, node status, and logs on a single screen
 - Per-node **run · pause · resume**, plus parameter adjustment
-- Workflows extended and edited with the **VCANUS Flowbroker workflow editor**
+- Workflows extended and edited with the **VCANUS workflow editor**
 - **Fast / Standard model families**, with more families addable
+- **Anomaly Detection** — training for structural and logical anomalies
 - **Transfer Learning** and **Early Stopping**, with a real-time Loss chart
 - Performance evaluation with **Confusion Matrix** and **mAP**; **checkpoint and ONNX** export
 
@@ -140,6 +141,7 @@ The same pipeline works across industries — **just change the class names and 
 - Real-time display of detections and confidence, plus **pre-processing / inference / post-processing time analysis**
 - Detection, segmentation, and classification results shown **together with Align · Inspection OK/NG**
 - **Results, coordinates, and timestamps auto-saved**; **history lookup** with condition filters
+- **Result-driven actions** — trigger equipment control, data logging, alerts and more as workflow actions
 
 </div>
 <div style="flex:1 1 280px; max-width:420px; min-width:0;">
