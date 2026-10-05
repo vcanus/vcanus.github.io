@@ -1,0 +1,56 @@
+# GitHub Pages 배포 (2026-10-06) — legacy Pages 빌드(Jekyll 3.x·허용 플러그인만)를 대신한다.
+# Gemfile 의 Jekyll 4.3 과 플러그인을 그대로 써서 로컬 빌드와 같은 결과를 낸다.
+#
+# - master push: 빌드 → www.vcanus.com 배포
+# - develop/master 로 가는 PR: 빌드만 (깨지는 변경을 머지 전에 잡는다)
+# 저장소 Settings → Pages → Source 가 "GitHub Actions" 여야 배포된다.
+name: Pages
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master, develop]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+# 배포는 한 번에 하나 — 진행 중인 배포는 끝까지 둔다
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+      - if: github.event_name != 'pull_request'
+        uses: actions/configure-pages@v5
+      - name: Build
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+      - if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
