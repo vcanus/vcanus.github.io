@@ -29,15 +29,15 @@ hero:
 ## 联系方式
 
  - 电话：+82-31-888-5293
- - 邮箱：sales@vcanus.co.kr
+ - 邮箱：sales@vcanus.com
 
 
 ## 地址 
 
 ### 总部、研发中心
-Gyeonggi R&DB Center #528, Gwanggyo-ro 105, Yeongtong-gu, Suwon, Gyeonggi-do 16229, Korea
+#528, 105 Gwanggyo-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do 16229, 韩国<br><small>韩文地址: 경기도 수원시 영통구 광교로 105 경기R&DB센터 528호 (16229)</small>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3174.149749649561!2d127.04208377671411!3d37.29158457211108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b59ea40c8d5ab%3A0xe5e4a5fe781cf52e!2z7KO87Iud7ZqM7IKsIOu5hOy5tOuIhOyKpA!5e0!3m2!1sko!2skr!4v1778295377683!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### 水原工厂
-Gwanggyo The First Knowledge Industry Center #402, Maeyeong-ro 159-19, Yeongtong-gu, Suwon, Gyeonggi-do 16521, Republic of Korea
+#402, 19 Maeyeong-ro 159beon-gil, Yeongtong-gu, Suwon-si, Gyeonggi-do 16521, 韩国<br><small>韩文地址: 경기도 수원시 영통구 매영로159번길 19 광교더퍼스트지식산업센터 402호 (16521)</small>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3175.220948240173!2d127.05599932695313!3d37.2661874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b45006c27892d%3A0x6ab568f7124696b0!2sVCANUS!5e0!3m2!1sko!2skr!4v1757478312745!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
