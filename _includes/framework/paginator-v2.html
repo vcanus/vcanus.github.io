@@ -1,8 +1,9 @@
+{% assign T = site.data.i18n[site.active_lang] %}
 {% if paginator.total_pages > 1 %}
   <div class="pagination">
     <ul>
       {% if paginator.previous_page %}
-        <li><a href="{{ paginator.previous_page_path | remove_first: 'index.html' }}">Newer</a></li>
+        <li><a href="{{ paginator.previous_page_path | remove_first: 'index.html' }}">{{ T.ui.newer | default: "Newer" }}</a></li>
       {% endif %}
 
       {% if paginator.page_trail %}
@@ -12,7 +13,7 @@
       {% endif %}
 
       {% if paginator.next_page %}
-        <li><a href="{{ paginator.next_page_path | remove_first: 'index.html' }}">Older</a></li>
+        <li><a href="{{ paginator.next_page_path | remove_first: 'index.html' }}">{{ T.ui.older | default: "Older" }}</a></li>
       {% endif %}
     </ul>
   </div>

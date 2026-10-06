@@ -5,7 +5,7 @@ date: 2018-12-20
 weight: 3
 header_transparent: false
 thumbnail: "/assets/images/gen/projects/vlap3d-thumbnail.webp"
-image: "/assets/images/gen/projeccts/vlap3d-large.webp"
+image: "/assets/images/gen/projects/vlap3d-large.webp"
 client: ""
 
 hero:

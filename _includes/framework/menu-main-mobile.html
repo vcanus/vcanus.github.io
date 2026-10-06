@@ -1,3 +1,4 @@
+{% assign T = site.data.i18n[site.active_lang] %}
 
 <div class="menu-main-mobile {% if site.menu.show_dropdown_items_in_mobile_menu %}nested{% endif %}" id="menu-main-mobile">
   
@@ -13,12 +14,12 @@
         {% for item in site.data.menu.main %}
           {% if item.child %}
             <li class="menu-item-{{ item.name | downcase }}{% if item.url == page.url %} active{% endif %}">
-              <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+              <a href="{{ item.url | relative_url }}">{{ T.menu[item.name] | default: item.name }}</a>
               <div class="dropdown">
                 <ul class="sub-menu">
                   {% for childitem in item.child  %}
                     <li class="{% if childitem.url == page.url %} active {% endif %}">
-                      <a href="{{ childitem.url | relative_url }}">{{ childitem.name }}</a>
+                      <a href="{{ childitem.url | relative_url }}">{{ T.menu[childitem.name] | default: childitem.name }}</a>
                     </li>
                   {% endfor %}
                 </ul>
@@ -31,7 +32,7 @@
               {% assign active = nil %}
             {% endif %}
             <li class="{% if item.url == page.url %}active{% endif %}">
-              <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+              <a href="{{ item.url | relative_url }}">{{ T.menu[item.name] | default: item.name }}</a>
             </li>
           {% endif %}
         {% endfor %}
@@ -40,7 +41,7 @@
       <ul class="menu">
         {% for item in site.data.menu.main %}
           <li class="menu-item-{{ item.name | downcase }}{% if item.url == page.url %} active {% endif %}">
-            <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+            <a href="{{ item.url | relative_url }}">{{ T.menu[item.name] | default: item.name }}</a>
           </li>
         {% endfor %}
       </ul>

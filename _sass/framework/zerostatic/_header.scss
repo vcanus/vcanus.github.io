@@ -78,133 +78,111 @@
 //   .header               → default solid header (light/dark via CSS vars)
 //   .header-scrolled      → solid header after scrolling past hero (same as default)
 //   .header-transparent   → over hero image (before scroll) — forces white text
+// 언어 선택 드롭다운 (2026-10-06) — _includes/framework/lang-switcher.html
 .lang-switcher {
+  position: relative;
   display: inline-flex;
   align-items: center;
-  margin-left: 1.75rem;
-  padding-left: 1.25rem;
-  // Themed left separator (was rgba(0,0,0,0.1) — invisible in dark mode)
+  margin-left: 1.5rem;
+  padding-left: 1rem;
   border-left: 1px solid var(--color-base-bg-3);
-  transition: border-left-color 0.2s ease;
+
+  > summary {
+    list-style: none;
+    &::-webkit-details-marker { display: none; }
+  }
 
   .lang-toggle {
     display: inline-flex;
     align-items: center;
-    text-decoration: none !important;
-    line-height: 1;
+    gap: 0.35rem;
+    min-height: 40px;
+    padding: 0 0.5rem;
+    border-radius: 6px;
+    color: var(--color-header-text);
     cursor: pointer;
-    font-family: inherit;
-  }
-
-  .lang-code {
-    display: inline-block;
-    font-size: 0.85rem;
-    font-weight: 500;
-    letter-spacing: 0.04em;
-    transition: color 0.2s ease, opacity 0.2s ease;
-    padding: 0.15rem 0.1rem;
-  }
-
-  // Current (active) language — high-contrast header text in both modes
-  .lang-current {
-    font-weight: 700;
-    color: var(--color-header-text);
-    opacity: 1;
-  }
-
-  // Alternate language — secondary text, dimmed as switch target hint
-  .lang-alt {
-    color: var(--color-base-text-2);
-    opacity: 0.85;
-  }
-
-  .lang-divider {
-    margin: 0 0.45rem;
-    color: var(--color-base-text-2);
-    opacity: 0.4;
-    font-size: 0.85rem;
-    line-height: 1;
     user-select: none;
+    &:hover { background: var(--color-base-bg-2); }
+    &:focus-visible {
+      outline: 2px solid var(--color-primary-bg);
+      outline-offset: 2px;
+    }
   }
 
-  // On hover, the alt language brightens to header-text — signals it's about
-  // to become active. Underline accent uses the brand color for a subtle pop.
-  .lang-toggle:hover .lang-alt {
-    color: var(--color-header-text);
-    opacity: 1;
-    text-decoration: underline;
-    text-decoration-color: var(--color-primary-bg);
-    text-decoration-thickness: 1px;
-    text-underline-offset: 3px;
+  .lang-current {
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
   }
 
-  // Keyboard focus visibility (anchor is focusable)
-  .lang-toggle:focus-visible {
-    outline: 2px solid var(--color-primary-bg);
-    outline-offset: 3px;
-    border-radius: 2px;
+  .lang-caret { transition: transform 0.15s ease; }
+  &[open] .lang-caret { transform: rotate(180deg); }
+
+  .lang-menu {
+    position: absolute;
+    right: 0;
+    top: calc(100% + 6px);
+    z-index: 1000;
+    min-width: 170px;
+    margin: 0;
+    padding: 6px;
+    list-style: none;
+    background: var(--color-base-bg);
+    border: 1px solid var(--color-base-bg-3);
+    border-radius: 10px;
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.16);
+
+    li { margin: 0; }
+
+    a {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      padding: 0.55rem 0.75rem;
+      border-radius: 6px;
+      font-size: 0.95rem;
+      color: var(--color-base-text);
+      text-decoration: none;
+      &:hover { background: var(--color-base-bg-2); }
+      &.active {
+        font-weight: 700;
+        color: var(--color-primary-bg);
+      }
+    }
   }
 }
 
-// Transparent header (over hero image, before scroll): force white-ish tones
-// to mirror `.header-transparent a { color: white }` convention. The hero
-// image is typically dark, so theme variables would be invisible here.
+// 투명 헤더(히어로 위, 스크롤 전): 토글만 흰색. 펼친 목록은 테마 색 그대로.
 .header-transparent .lang-switcher {
   border-left-color: rgba(255, 255, 255, 0.25);
-
-  .lang-current {
+  .lang-toggle {
     color: #ffffff;
-  }
-  .lang-alt {
-    color: rgba(255, 255, 255, 0.7);
-    opacity: 1;
-  }
-  .lang-divider {
-    color: rgba(255, 255, 255, 0.5);
-    opacity: 1;
-  }
-  .lang-toggle:hover .lang-alt {
-    color: #ffffff;
-    text-decoration-color: #ffffff;
-  }
-  .lang-toggle:focus-visible {
-    outline-color: #ffffff;
+    &:hover { background: rgba(255, 255, 255, 0.12); }
+    &:focus-visible { outline-color: #ffffff; }
   }
 }
 
-// Scrolled header is identical to the default solid state — the base
-// `.lang-switcher` rules above already use theme variables, so no override
-// needed. Listed here explicitly so future-you knows it was considered.
-// .header-scrolled .lang-switcher { /* inherits from .lang-switcher */ }
-
-// Compact spacing on smaller screens
 @media (max-width: 991px) {
-  .lang-switcher {
-    margin-left: 0.75rem;
-    padding-left: 0.75rem;
-
-    .lang-code {
-      font-size: 0.8rem;
-    }
-    .lang-divider {
-      margin: 0 0.3rem;
-    }
+  #header .lang-switcher {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    padding-left: 0.5rem;
   }
 }
 
-// Inside mobile menu (full-screen overlay): center it
+// 모바일 메뉴(전체 화면 오버레이): 가운데, 목록은 위로 펼친다
 .menu-main-mobile-bottom .lang-switcher {
   margin: 1rem auto;
   padding: 0;
   border-left: 0;
   justify-content: center;
 
-  .lang-code {
-    font-size: 1rem;
-  }
-  .lang-divider {
-    margin: 0 0.6rem;
-    font-size: 1rem;
+  .lang-menu {
+    right: 50%;
+    transform: translateX(50%);
+    top: auto;
+    bottom: calc(100% + 6px);
   }
 }
 

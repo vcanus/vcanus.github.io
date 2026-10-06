@@ -1,3 +1,4 @@
+{% assign T = site.data.i18n[site.active_lang] %}
 <div class="footer">
   <div class="container">
     <div class="row">
@@ -9,7 +10,7 @@
             {% endif %}
 
             {% if site.footer.footer_description and site.footer.footer_description != "" %}
-              <p>{{ site.footer.footer_description }}</p>
+              <p>{{ T.footer.description | default: site.footer.footer_description }}</p>
             {% endif %}
           </div>
 
@@ -28,7 +29,7 @@
               <div class="col-12 col-md-3 mt-gutter mt-md-0">
                 <div class="footer-menu">
                   {%  if site.footer.footer_primary_menu_title %}
-                    <h3>{{ site.footer.footer_primary_menu_title }}</h3>
+                    <h3>{{ T.footer.product | default: site.footer.footer_primary_menu_title }}</h3>
                   {% endif %}
                   {% include framework/menu-footer.html 
                     menu=site.data.menu.footer_primary
@@ -41,7 +42,7 @@
               <div class="col-12 col-md-3 mt-gutter mt-md-0">
                 <div class="footer-menu">
                 {%  if site.footer.footer_secondary_menu_title %}
-                  <h3>{{ site.footer.footer_secondary_menu_title }}</h3>
+                  <h3>{{ T.footer.company | default: site.footer.footer_secondary_menu_title }}</h3>
                 {% endif %}
                 {% include framework/menu-footer.html 
                   menu=site.data.menu.footer_secondary
@@ -54,7 +55,7 @@
               <div class="col-12 col-md-3 mt-gutter mt-md-0">
                 <div class="footer-menu">
                 {%  if site.footer.footer_tertiary_menu_title %}
-                  <h3>{{ site.footer.footer_tertiary_menu_title }}</h3>
+                  <h3>{{ T.footer.other | default: site.footer.footer_tertiary_menu_title }}</h3>
                 {% endif %}
                 {% include framework/menu-footer.html 
                   menu=site.data.menu.footer_tertiary
@@ -70,7 +71,7 @@
     {% if site.footer.enable_contact_details %}
     <div class="row justify-content-end mt-2">
       <div class="col-12 col-md-4">
-        <h3>Contact Us</h3>
+        <h3>{{ T.footer.contact_us | default: "Contact Us" }}</h3>
         {% include framework/contact.html
           contact=site.data.contact
         %}
