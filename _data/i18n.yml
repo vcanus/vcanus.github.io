@@ -26,7 +26,7 @@ en:
     fax: "Fax:"
     address_label: "Address:"
     view_map: "(View Map)"
-    address: "528, Gyeonggi R&DB Center, 105 Gwanggyo-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do 16229, Republic of Korea"
+    address: "#528, 105 Gwanggyo-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do 16229, Republic of Korea"
   form:
     name: "Full Name"
     name_placeholder: "First and Last"
@@ -120,7 +120,7 @@ de:
     fax: "Fax:"
     address_label: "Adresse:"
     view_map: "(Karte anzeigen)"
-    address: "528, Gyeonggi R&DB Center, 105 Gwanggyo-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do 16229, Republik Korea"
+    address: "#528, 105 Gwanggyo-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do 16229, Republik Korea"
   form:
     name: "Vollständiger Name"
     name_placeholder: "Vor- und Nachname"
@@ -167,7 +167,7 @@ ja:
     fax: "FAX："
     address_label: "所在地："
     view_map: "（地図を見る）"
-    address: "528, Gyeonggi R&DB Center, 105 Gwanggyo-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do 16229, 大韓民国"
+    address: "#528, 105 Gwanggyo-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do 16229, 大韓民国"
   form:
     name: "お名前"
     name_placeholder: "氏名を入力してください"
@@ -214,7 +214,7 @@ zh:
     fax: "传真："
     address_label: "地址："
     view_map: "（查看地图）"
-    address: "528, Gyeonggi R&DB Center, 105 Gwanggyo-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do 16229, 韩国"
+    address: "#528, 105 Gwanggyo-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do 16229, 韩国"
   form:
     name: "姓名"
     name_placeholder: "请输入您的姓名"
@@ -261,7 +261,7 @@ es:
     fax: "Fax:"
     address_label: "Dirección:"
     view_map: "(Ver mapa)"
-    address: "528, Gyeonggi R&DB Center, 105 Gwanggyo-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do 16229, República de Corea"
+    address: "#528, 105 Gwanggyo-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do 16229, República de Corea"
   form:
     name: "Nombre completo"
     name_placeholder: "Nombre y apellido"
