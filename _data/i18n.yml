@@ -1,0 +1,133 @@
+# 사이트 공통 문구 — 언어별 (2026-10-06, jekyll-polyglot)
+#
+# 템플릿에서는 `{% assign T = site.data.i18n[site.active_lang] %}` 뒤 `T.ui.read_more` 처럼 쓴다.
+# 없는 키는 템플릿의 기본값(영어)으로 떨어진다. 메뉴는 _data/menu.yml 의 name 을 키로 찾는다.
+# 언어를 늘릴 때: _config.yml 의 languages · language_names 와 이 파일에 같은 코드로 한 벌 추가.
+
+en:
+  menu: {}
+  ui:
+    home: "Home"
+    read_more: "Read More"
+    newer: "Newer"
+    older: "Older"
+    page: "Page"
+    menu: "Menu"
+    language: "Language"
+  footer:
+    description: "See beyond the data—with AI-driven intelligence."
+    product: "Product"
+    company: "Company"
+    other: "Other"
+    contact_us: "Contact Us"
+  contact:
+    email: "Email:"
+    phone: "Phone:"
+    fax: "Fax:"
+    address_label: "Address:"
+    view_map: "(View Map)"
+    address: "Gyeonggi R&DB Center #528, Gwanggyo-ro 105, Yeongtong-gu, Suwon, Gyeonggi-do 16229, Korea"
+  form:
+    name: "Full Name"
+    name_placeholder: "First and Last"
+    email: "Email Address"
+    company: "Company / Organization (optional)"
+    company_placeholder: "Your company or organization"
+    message: "Message"
+    message_placeholder: "Tell us briefly about your project or inquiry. We typically respond within 1–2 business days."
+    subject: "[VCANUS Website] New Contact Inquiry"
+    submit: "Send Message"
+
+ko:
+  menu:
+    "Home": "홈"
+    "Products": "제품"
+    "Solutions": "솔루션"
+    "Blog": "블로그"
+    "Career": "채용"
+    "Visit Us": "오시는 길"
+    "About": "회사소개"
+    "Contact": "문의"
+    "Privacy Policy": "개인정보처리방침"
+    "Terms and Conditions": "이용약관"
+    "3D Measurement": "3D 측정"
+    "Machine Vision (Frame Grabber)": "머신 비전 (프레임 그래버)"
+    "Intelligent Manufacturing": "지능형 제조"
+  ui:
+    home: "홈"
+    read_more: "더 보기"
+    newer: "최신 글"
+    older: "이전 글"
+    page: "페이지"
+    menu: "메뉴"
+    language: "언어"
+  footer:
+    description: "AI 기반 인텔리전스로 데이터 너머를 봅니다."
+    product: "제품"
+    company: "회사"
+    other: "기타"
+    contact_us: "문의처"
+  contact:
+    email: "이메일:"
+    phone: "전화:"
+    fax: "팩스:"
+    address_label: "주소:"
+    view_map: "(지도 보기)"
+    address: "경기도 수원시 영통구 광교로 105 경기R&DB센터 #528"
+  form:
+    name: "이름"
+    name_placeholder: "성함을 입력해 주세요"
+    email: "이메일"
+    company: "회사 / 소속 (선택)"
+    company_placeholder: "소속 기관이나 회사명을 입력해 주세요"
+    message: "문의 내용"
+    message_placeholder: "문의하실 내용을 자유롭게 작성해 주세요. 영업일 기준 1~2일 내에 회신드리겠습니다."
+    subject: "[VCANUS 홈페이지] 신규 문의가 접수되었습니다"
+    submit: "문의 보내기"
+
+de:
+  menu:
+    "Home": "Startseite"
+    "Products": "Produkte"
+    "Solutions": "Lösungen"
+    "Blog": "Blog"
+    "Career": "Karriere"
+    "Visit Us": "Anfahrt"
+    "About": "Über uns"
+    "Contact": "Kontakt"
+    "Privacy Policy": "Datenschutz"
+    "Terms and Conditions": "Nutzungsbedingungen"
+    "3D Measurement": "3D-Messtechnik"
+    "Machine Vision (Frame Grabber)": "Machine Vision (Frame Grabber)"
+    "Intelligent Manufacturing": "Intelligente Fertigung"
+  ui:
+    home: "Startseite"
+    read_more: "Weiterlesen"
+    newer: "Neuer"
+    older: "Älter"
+    page: "Seite"
+    menu: "Menü"
+    language: "Sprache"
+  footer:
+    description: "Mehr sehen als die Daten – mit KI-gestützter Intelligenz."
+    product: "Produkte"
+    company: "Unternehmen"
+    other: "Sonstiges"
+    contact_us: "Kontakt"
+  contact:
+    email: "E-Mail:"
+    phone: "Telefon:"
+    fax: "Fax:"
+    address_label: "Adresse:"
+    view_map: "(Karte anzeigen)"
+    address: "Gyeonggi R&DB Center #528, Gwanggyo-ro 105, Yeongtong-gu, Suwon, Gyeonggi-do 16229, Südkorea"
+  form:
+    name: "Vollständiger Name"
+    name_placeholder: "Vor- und Nachname"
+    email: "E-Mail-Adresse"
+    company: "Unternehmen / Organisation (optional)"
+    company_placeholder: "Ihr Unternehmen oder Ihre Organisation"
+    message: "Nachricht"
+    message_placeholder: "Beschreiben Sie kurz Ihr Projekt oder Ihre Anfrage. Wir antworten in der Regel innerhalb von 1–2 Werktagen."
+    subject: "[VCANUS Website] Neue Kontaktanfrage"
+    submit: "Nachricht senden"

@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 380" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <defs>
+    <linearGradient id="ovGrad" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#1e40af"/><stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+    <marker id="ovArr" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#1e40af"/>
+    </marker>
+    <marker id="ovArrLoop" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#16a34a"/>
+    </marker>
+  </defs>
+  <rect width="1100" height="380" fill="#f8fafc"/>
+  <text x="550" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">DeepVi — End-to-End AI 비전 파이프라인</text>
+  <text x="550" y="65" text-anchor="middle" font-size="13" fill="#475569">데이터 수집부터 모델 개선까지 단일 플랫폼에서 완결 · No-Code 환경 · On-Premise / Cloud 선택</text>
+
+  <!-- 6 stages -->
+  <g>
+    <!-- Storage -->
+    <rect x="40" y="110" width="155" height="120" rx="10" fill="url(#ovGrad)"/>
+    <text x="117" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">①  Storage</text>
+    <text x="117" y="158" text-anchor="middle" font-size="11" fill="#dbeafe">데이터 관리</text>
+    <text x="117" y="183" text-anchor="middle" font-size="10" fill="#ffffff">대용량 이미지 일괄</text>
+    <text x="117" y="198" text-anchor="middle" font-size="10" fill="#ffffff">업로드 · 영구 보관</text>
+    <text x="117" y="218" text-anchor="middle" font-size="10" fill="#bfdbfe">폴더 · 썸네일 관리</text>
+
+    <!-- Dataset -->
+    <rect x="210" y="110" width="155" height="120" rx="10" fill="url(#ovGrad)"/>
+    <text x="287" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">②  Dataset</text>
+    <text x="287" y="158" text-anchor="middle" font-size="11" fill="#dbeafe">라벨링</text>
+    <text x="287" y="183" text-anchor="middle" font-size="10" fill="#ffffff">Classification</text>
+    <text x="287" y="198" text-anchor="middle" font-size="10" fill="#ffffff">Detection · Segmentation</text>
+    <text x="287" y="218" text-anchor="middle" font-size="10" fill="#bfdbfe">통합 라벨링 환경</text>
+
+    <!-- Training -->
+    <rect x="380" y="110" width="155" height="120" rx="10" fill="url(#ovGrad)"/>
+    <text x="457" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">③  Training</text>
+    <text x="457" y="158" text-anchor="middle" font-size="11" fill="#dbeafe">워크플로 학습</text>
+    <text x="457" y="183" text-anchor="middle" font-size="10" fill="#ffffff">Workflow 내장</text>
+    <text x="457" y="198" text-anchor="middle" font-size="10" fill="#ffffff">Fast · Standard 모델</text>
+    <text x="457" y="218" text-anchor="middle" font-size="10" fill="#bfdbfe">mAP · Loss 모니터링</text>
+
+    <!-- Align · Inspection -->
+    <rect x="550" y="110" width="155" height="120" rx="10" fill="url(#ovGrad)"/>
+    <text x="627" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">④  Align · Inspection</text>
+    <text x="627" y="158" text-anchor="middle" font-size="11" fill="#dbeafe">정밀 검사</text>
+    <text x="627" y="183" text-anchor="middle" font-size="10" fill="#ffffff">이동·회전 보정</text>
+    <text x="627" y="198" text-anchor="middle" font-size="10" fill="#ffffff">계측 · 코드 판독</text>
+    <text x="627" y="218" text-anchor="middle" font-size="10" fill="#bfdbfe">공차 기반 OK/NG</text>
+
+    <!-- Inference -->
+    <rect x="720" y="110" width="155" height="120" rx="10" fill="url(#ovGrad)"/>
+    <text x="797" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">⑤  Inference</text>
+    <text x="797" y="158" text-anchor="middle" font-size="11" fill="#dbeafe">실시간 추론</text>
+    <text x="797" y="183" text-anchor="middle" font-size="10" fill="#ffffff">카메라 · 파일 연동</text>
+    <text x="797" y="198" text-anchor="middle" font-size="10" fill="#ffffff">결과 자동 저장</text>
+    <text x="797" y="218" text-anchor="middle" font-size="10" fill="#bfdbfe">이력 조회</text>
+
+    <!-- Review -->
+    <rect x="890" y="110" width="170" height="120" rx="10" fill="url(#ovGrad)"/>
+    <text x="975" y="138" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">⑥  Review</text>
+    <text x="975" y="158" text-anchor="middle" font-size="11" fill="#dbeafe">모델 개선</text>
+    <text x="975" y="183" text-anchor="middle" font-size="10" fill="#ffffff">오탐 검토 · 재라벨링</text>
+    <text x="975" y="198" text-anchor="middle" font-size="10" fill="#ffffff">데이터셋 반영</text>
+    <text x="975" y="218" text-anchor="middle" font-size="10" fill="#bfdbfe">재학습 루프</text>
+  </g>
+
+  <!-- forward arrows between boxes -->
+  <line x1="197" y1="170" x2="207" y2="170" stroke="#1e40af" stroke-width="2" marker-end="url(#ovArr)"/>
+  <line x1="367" y1="170" x2="377" y2="170" stroke="#1e40af" stroke-width="2" marker-end="url(#ovArr)"/>
+  <line x1="537" y1="170" x2="547" y2="170" stroke="#1e40af" stroke-width="2" marker-end="url(#ovArr)"/>
+  <line x1="707" y1="170" x2="717" y2="170" stroke="#1e40af" stroke-width="2" marker-end="url(#ovArr)"/>
+  <line x1="877" y1="170" x2="887" y2="170" stroke="#1e40af" stroke-width="2" marker-end="url(#ovArr)"/>
+
+  <!-- Continuous Improvement Loop arrow Review → Dataset -->
+  <path d="M 975 230 Q 975 290 760 290 Q 287 290 287 240" fill="none" stroke="#16a34a" stroke-width="2.5" stroke-dasharray="6,4" marker-end="url(#ovArrLoop)"/>
+  <rect x="500" y="275" width="220" height="28" rx="14" fill="#16a34a"/>
+  <text x="610" y="294" text-anchor="middle" font-size="12" font-weight="700" fill="#ffffff">Continuous Improvement Loop</text>
+
+  <!-- Bottom badge -->
+  <rect x="40" y="330" width="1020" height="32" rx="16" fill="#0f172a"/>
+  <text x="550" y="351" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">No-Code  ·  End-to-End  ·  On-Premise / Cloud  ·  산업 무관 동일 파이프라인 — 클래스명·데이터만 바꾸면 즉시 적용</text>
+</svg>

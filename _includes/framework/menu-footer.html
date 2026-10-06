@@ -1,9 +1,10 @@
+{% assign T = site.data.i18n[site.active_lang] %}
 {% assign menu = include.menu %}
 <div class="menu-footer">
   <ul>
     {% for item in menu %}
       <li class="{% if item.url == page.url %}active{% endif %}">
-        <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+        <a href="{{ item.url | relative_url }}">{{ T.menu[item.name] | default: item.name }}</a>
       </li>
     {% endfor %}
   </ul>

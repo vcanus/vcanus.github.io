@@ -1,3 +1,4 @@
+{% assign T = site.data.i18n[site.active_lang] %}
 <div class="menu-main">
   <ul>
     {% for item in site.data.menu.main %}
@@ -11,7 +12,7 @@
         {% endfor %}
 
         <li class="menu-item-dropdown menu-item-{{ item.name }}{% if item.url == page.url %} active {% endif %} {% if active_parent %} active {% endif %}">
-          <a href="{{ item.url | relative_url }}">{{ item.name }} <i class="fa-solid fa-chevron-down"></i></a>
+          <a href="{{ item.url | relative_url }}">{{ T.menu[item.name] | default: item.name }} <i class="fa-solid fa-chevron-down"></i></a>
           
           <div class="dropdown-menu">
             {% for childitem in item.child  %}
@@ -24,7 +25,7 @@
                 {% endif %}
 
                 <div class="dropdown-item-content">
-                  {% if childitem.name %}<div class="dropdown-item-name">{{ childitem.name }}</div>{% endif %}
+                  {% if childitem.name %}<div class="dropdown-item-name">{{ T.menu[childitem.name] | default: childitem.name }}</div>{% endif %}
                   {% if childitem.description %}<div class="dropdown-item-description">{{ childitem.description }}</div>{% endif %}
                 </div>
               </a>
@@ -39,7 +40,7 @@
           {% assign active = nil %}
         {% endif %}
         <li class="{% if item.url == page.url %}active{% endif %} {% if item.button %}menu-item-button{% endif %}">
-          <a href="{{ item.url | relative_url }}" {% if .item.external %}target="_blank" rel="noopener"{% endif %}>{{ item.name }}</a>
+          <a href="{{ item.url | relative_url }}" {% if .item.external %}target="_blank" rel="noopener"{% endif %}>{{ T.menu[item.name] | default: item.name }}</a>
         </li>
       {% endif %}
     {% endfor %}

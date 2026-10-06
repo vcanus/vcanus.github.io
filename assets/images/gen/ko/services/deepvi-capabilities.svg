@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 540" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <rect width="1100" height="540" fill="#ffffff"/>
+  <text x="550" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">DeepVi로 할 수 있는 것</text>
+  <text x="550" y="65" text-anchor="middle" font-size="13" fill="#475569">AI 비전 도입의 4가지 장벽을 단일 플랫폼에서 해결</text>
+
+  <!-- Top-left: 24h Real-time AI inspection -->
+  <rect x="40" y="100" width="500" height="180" rx="14" fill="#eff6ff" stroke="#1e40af" stroke-width="2"/>
+  <circle cx="80" cy="140" r="22" fill="#1e40af"/>
+  <text x="80" y="148" text-anchor="middle" font-size="20" fill="#ffffff">①</text>
+  <text x="120" y="135" font-size="16" font-weight="700" fill="#1e3a8a">24시간 실시간 AI 검사 라인</text>
+  <text x="120" y="155" font-size="12" fill="#475569">수작업 육안 검사 → 무인 자동 검사 라인 24h 운영</text>
+  <text x="60" y="190" font-size="12" fill="#1e3a8a">✓ 야간·주말 공백 없는 무인 자동 검사</text>
+  <text x="60" y="212" font-size="12" fill="#1e3a8a">✓ 실시간 이미지 전처리 → 추론까지 즉시 처리</text>
+  <text x="60" y="234" font-size="12" fill="#1e3a8a">✓ 딥러닝 판정 + 치수·위치 계측 OK/NG</text>
+  <text x="60" y="256" font-size="12" fill="#1e3a8a">✓ 검사 결과 이력 자동 저장 · 조건 검색 조회</text>
+
+  <!-- Top-right: No-Code direct operation -->
+  <rect x="560" y="100" width="500" height="180" rx="14" fill="#f0fdf4" stroke="#16a34a" stroke-width="2"/>
+  <circle cx="600" cy="140" r="22" fill="#16a34a"/>
+  <text x="600" y="148" text-anchor="middle" font-size="20" fill="#ffffff">②</text>
+  <text x="640" y="135" font-size="16" font-weight="700" fill="#15803d">No-Code 현장 직접 운영</text>
+  <text x="640" y="155" font-size="12" fill="#475569">전문 개발팀 + 외주 의존 → 비전문가도 직접 운영</text>
+  <text x="580" y="190" font-size="12" fill="#15803d">✓ 비전공자도 웹 UI로 즉시 시작하는 라벨링</text>
+  <text x="580" y="212" font-size="12" fill="#15803d">✓ Classification / Detection / Segmentation 통합</text>
+  <text x="580" y="234" font-size="12" fill="#15803d">✓ 내장 워크플로로 학습 실행·제어</text>
+  <text x="580" y="256" font-size="12" fill="#15803d">✓ 산업 무관 동일 파이프라인 즉시 적용</text>
+
+  <!-- Bottom-left: MLOps improvement cycle -->
+  <rect x="40" y="300" width="500" height="180" rx="14" fill="#faf5ff" stroke="#7c3aed" stroke-width="2"/>
+  <circle cx="80" cy="340" r="22" fill="#7c3aed"/>
+  <text x="80" y="348" text-anchor="middle" font-size="20" fill="#ffffff">③</text>
+  <text x="120" y="335" font-size="16" font-weight="700" fill="#6b21a8">MLOps 개선 사이클</text>
+  <text x="120" y="355" font-size="12" fill="#475569">재학습까지 수개월 소요 → 수일 내 완결</text>
+  <text x="60" y="390" font-size="12" fill="#6b21a8">✓ 데이터셋 관리부터 모델 배포까지 한 플랫폼</text>
+  <text x="60" y="412" font-size="12" fill="#6b21a8">✓ 오탐 검토·재라벨링 → 데이터셋 반영·재학습</text>
+  <text x="60" y="434" font-size="12" fill="#6b21a8">✓ 성능 평가 후 검증된 모델로 교체</text>
+  <text x="60" y="456" font-size="12" fill="#6b21a8">✓ 검수 상태·이력 관리로 데이터 품질 유지</text>
+
+  <!-- Bottom-right: On-Prem / Cloud + cost -->
+  <rect x="560" y="300" width="500" height="180" rx="14" fill="#fffbeb" stroke="#d97706" stroke-width="2"/>
+  <circle cx="600" cy="340" r="22" fill="#d97706"/>
+  <text x="600" y="348" text-anchor="middle" font-size="20" fill="#ffffff">④</text>
+  <text x="640" y="335" font-size="16" font-weight="700" fill="#92400e">On-Premise · Cloud 선택 배포</text>
+  <text x="640" y="355" font-size="12" fill="#475569">클라우드 종속·예측 불가 비용 → 정액 라이선스</text>
+  <text x="580" y="390" font-size="12" fill="#92400e">✓ 클라우드 종량 비용 없이 정액 라이선스</text>
+  <text x="580" y="412" font-size="12" fill="#92400e">✓ 온프레미스 — 외부 데이터 전송 없음</text>
+  <text x="580" y="434" font-size="12" fill="#92400e">✓ 재학습 루프로 유지보수 부담 최소화</text>
+  <text x="580" y="456" font-size="12" fill="#92400e">✓ 서버 추가만으로 온프레미스 스케일아웃</text>
+
+  <!-- Bottom badge -->
+  <rect x="40" y="500" width="1020" height="30" rx="15" fill="#0f172a"/>
+  <text x="550" y="520" text-anchor="middle" font-size="13" font-weight="700" fill="#ffffff">코딩 없이, 하나의 플랫폼에서 — AI 도입의 모든 장벽을 해결합니다</text>
+</svg>
