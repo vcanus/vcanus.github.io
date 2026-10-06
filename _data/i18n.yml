@@ -26,7 +26,7 @@ en:
     fax: "Fax:"
     address_label: "Address:"
     view_map: "(View Map)"
-    address: "Gyeonggi R&DB Center #528, Gwanggyo-ro 105, Yeongtong-gu, Suwon, Gyeonggi-do 16229, Korea"
+    address: "528, Gyeonggi R&DB Center, 105 Gwanggyo-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do 16229, Republic of Korea"
   form:
     name: "Full Name"
     name_placeholder: "First and Last"
@@ -73,7 +73,7 @@ ko:
     fax: "팩스:"
     address_label: "주소:"
     view_map: "(지도 보기)"
-    address: "경기도 수원시 영통구 광교로 105 경기R&DB센터 #528"
+    address: "경기도 수원시 영통구 광교로 105 경기R&DB센터 528호 (16229)"
   form:
     name: "이름"
     name_placeholder: "성함을 입력해 주세요"
@@ -120,7 +120,7 @@ de:
     fax: "Fax:"
     address_label: "Adresse:"
     view_map: "(Karte anzeigen)"
-    address: "Gyeonggi R&DB Center #528, Gwanggyo-ro 105, Yeongtong-gu, Suwon, Gyeonggi-do 16229, Südkorea"
+    address: "528, Gyeonggi R&DB Center, 105 Gwanggyo-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do 16229, Republik Korea"
   form:
     name: "Vollständiger Name"
     name_placeholder: "Vor- und Nachname"
@@ -167,7 +167,7 @@ ja:
     fax: "FAX："
     address_label: "所在地："
     view_map: "（地図を見る）"
-    address: "Gyeonggi R&DB Center #528, Gwanggyo-ro 105, Yeongtong-gu, Suwon, Gyeonggi-do 16229, 韓国"
+    address: "528, Gyeonggi R&DB Center, 105 Gwanggyo-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do 16229, 大韓民国"
   form:
     name: "お名前"
     name_placeholder: "氏名を入力してください"
@@ -214,7 +214,7 @@ zh:
     fax: "传真："
     address_label: "地址："
     view_map: "（查看地图）"
-    address: "Gyeonggi R&DB Center #528, Gwanggyo-ro 105, Yeongtong-gu, Suwon, Gyeonggi-do 16229, 韩国"
+    address: "528, Gyeonggi R&DB Center, 105 Gwanggyo-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do 16229, 韩国"
   form:
     name: "姓名"
     name_placeholder: "请输入您的姓名"
@@ -261,7 +261,7 @@ es:
     fax: "Fax:"
     address_label: "Dirección:"
     view_map: "(Ver mapa)"
-    address: "Gyeonggi R&DB Center #528, Gwanggyo-ro 105, Yeongtong-gu, Suwon, Gyeonggi-do 16229, Corea del Sur"
+    address: "528, Gyeonggi R&DB Center, 105 Gwanggyo-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do 16229, República de Corea"
   form:
     name: "Nombre completo"
     name_placeholder: "Nombre y apellido"
