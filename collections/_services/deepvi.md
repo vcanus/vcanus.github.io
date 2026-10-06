@@ -56,14 +56,6 @@ The same pipeline works across industries — **just change the class names and 
 
 ---
 
-## Competitive Advantages
-
-> Key differentiators of DeepVi vs. general-purpose AutoML platforms (Vertex AI · SageMaker · Azure Custom Vision) and vision specialist tools (Roboflow · Label Studio · Labelbox)
-
-<img src="/assets/images/gen/services/deepvi-comparison.svg" alt="DeepVi competitive advantages comparison matrix" style="display:block; width:100%; height:auto; max-width:1100px; margin:0 auto;">
-
----
-
 ## Key Features
 
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start; margin-bottom:2rem;">
