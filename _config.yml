@@ -13,13 +13,16 @@ highlighter: rouge
 # 한 레포·한 도메인, 경로로 언어를 나눈다: / (en, 기본) · /ko/ · /de/
 # 번역 파일은 같은 permalink 에 `lang:` 만 다르게 둔다 (collections/_services/ko/deepvi.md 등).
 # 번역이 없는 페이지는 기본 언어(en)로 대신 나간다 — 블로그는 영어만 둔다.
-languages: ["en", "ko", "de"]
+languages: ["en", "ko", "de", "ja", "zh", "es"]
 default_lang: "en"
 # 언어 선택 메뉴에 보이는 이름 (각 언어 자기 이름)
 language_names:
   en: "English"
   ko: "한국어"
   de: "Deutsch"
+  ja: "日本語"
+  zh: "简体中文"
+  es: "Español"
 # 언어별로 다시 만들 필요 없는 정적 파일 — 한 번만 내보낸다
 exclude_from_localization: ["assets", "resources(work)", "CNAME", "feed.xml"]
 parallel_localization: false
