@@ -30,7 +30,7 @@ hero:
         fa_icon: false
         size: large
         outline: false
-        style: "primary"
+        style: "light"
 ---
 
 ## AI-Powered Vision Analytics Platform
@@ -164,3 +164,8 @@ The same pipeline works across industries — **just change the class names and 
 > **No coding required, all in one platform — DeepVi removes every barrier to AI adoption.**
 
 DeepVi handles the **complete End-to-End AI vision pipeline** in a single platform: data collection (Storage) → labeling (Dataset) → workflow training (Training) → precision inspection (Align · Inspection) → real-time inference (Inference) → model improvement (Review). The same pipeline works across industries — **just change the class names and the data**, and it adapts immediately to manufacturing, smart farming, logistics, security, medical imaging, and more.
+
+<div style="text-align:center; margin:2.5rem 0 1rem;">
+<p style="margin-bottom:1rem;">Try it free during the beta period.</p>
+{% include framework/button.html text="Try DeepVi Beta" url="https://www.deepvi.app/?utm_source=vcanus_home&utm_medium=product_bottom" external=true size="large" style="primary" %}
+</div>

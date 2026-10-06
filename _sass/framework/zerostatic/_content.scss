@@ -61,7 +61,8 @@
     margin-left: 20px;
     line-height: 1.5;
   }
-  a {
+  // 본문 링크 스타일 — 버튼(.button)은 제외: 덮으면 글자색이 버튼 배경색과 같아져 보이지 않는다
+  a:not(.button) {
     color: var(--color-primary-bg);
     text-decoration: underline;
     text-decoration-thickness: 2px;
