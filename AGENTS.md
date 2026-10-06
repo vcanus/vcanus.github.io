@@ -1,6 +1,7 @@
 # VCANUS 홈페이지 — 작업 규칙
 
 이 레포 하나가 모든 언어의 홈페이지다 (www.vcanus.com, jekyll-polyglot, 2026-10-06 통합).
+현재 언어: en(원문) · ko · de · ja · zh(간체) · es.
 예전 한국어 레포(sglee-vcanus.github.io, www.vcanus.co.kr)는 통합 후 보관 대상이다.
 
 ## 언어 구조
