@@ -22,11 +22,10 @@ hero:
   fullscreen_desktop: false
   height: 660px
   buttons:
-    # www.deepvi.app 서비스 오픈 시 true 로 (2026-10-05 준비 — 오픈 전에는 꺼둔다)
-    enabled: false
+    enabled: true
     list:
-      - text: "Launch DeepVi"
-        url: "https://www.deepvi.app"
+      - text: "Try DeepVi Beta"
+        url: "https://www.deepvi.app/?utm_source=vcanus_home&utm_medium=product_hero"
         external: true
         fa_icon: false
         size: large
