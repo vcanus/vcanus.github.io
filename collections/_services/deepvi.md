@@ -22,10 +22,11 @@ hero:
   fullscreen_desktop: false
   height: 660px
   buttons:
+    # www.deepvi.app 서비스 오픈 시 true 로 (2026-10-05 준비 — 오픈 전에는 꺼둔다)
     enabled: false
     list:
-      - text: "Buy Now"
-        url: "https://www.zerostatic.io/theme/jekyll-advance/"
+      - text: "Launch DeepVi"
+        url: "https://www.deepvi.app"
         external: true
         fa_icon: false
         size: large
