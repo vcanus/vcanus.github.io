@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 380" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+  <defs>
+    <linearGradient id="boxGrad1" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#eef2ff"/><stop offset="1" stop-color="#dbeafe"/>
+    </linearGradient>
+    <linearGradient id="boxGrad2" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#1e40af"/><stop offset="1" stop-color="#1e3a8a"/>
+    </linearGradient>
+    <linearGradient id="boxGrad3" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#fef3c7"/><stop offset="1" stop-color="#fde68a"/>
+    </linearGradient>
+    <linearGradient id="boxGrad4" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#ccfbf1"/><stop offset="1" stop-color="#99f6e4"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#475569"/>
+    </marker>
+  </defs>
+  <rect width="1100" height="380" fill="#f8fafc"/>
+  <text x="550" y="40" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">아키텍처 개요</text>
+  <text x="550" y="65" text-anchor="middle" font-size="13" fill="#475569">Workflow Engine이 수집 → 처리 → 추론 → 시각화를 단일 파이프라인으로 연결</text>
+
+  <!-- Data Sources -->
+  <rect x="40" y="110" width="200" height="180" rx="12" fill="url(#boxGrad1)" stroke="#3b82f6" stroke-width="2"/>
+  <text x="140" y="140" text-anchor="middle" font-size="15" font-weight="700" fill="#1e3a8a">데이터 소스</text>
+  <text x="140" y="170" text-anchor="middle" font-size="12" fill="#1e3a8a">산업 장비</text>
+  <text x="140" y="195" text-anchor="middle" font-size="12" fill="#1e3a8a">IoT · DAQ</text>
+  <text x="140" y="220" text-anchor="middle" font-size="12" fill="#1e3a8a">데이터베이스 · 클라우드</text>
+  <text x="140" y="245" text-anchor="middle" font-size="12" fill="#1e3a8a">엔터프라이즈 시스템</text>
+  <text x="140" y="275" text-anchor="middle" font-size="11" fill="#64748b">다양한 프로토콜·표준 지원</text>
+
+  <!-- Workflow Engine -->
+  <rect x="290" y="110" width="240" height="180" rx="12" fill="url(#boxGrad2)" stroke="#1e3a8a" stroke-width="2"/>
+  <text x="410" y="145" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">Workflow Engine</text>
+  <text x="410" y="178" text-anchor="middle" font-size="13" fill="#dbeafe">비주얼 워크플로우</text>
+  <text x="410" y="205" text-anchor="middle" font-size="13" fill="#dbeafe">분산 오케스트레이션</text>
+  <text x="410" y="232" text-anchor="middle" font-size="13" fill="#dbeafe">자동 확장 · 고가용성</text>
+  <text x="410" y="265" text-anchor="middle" font-size="11" fill="#bfdbfe">장애 자동 대응 · 무중단 배포</text>
+
+  <!-- Processing -->
+  <rect x="580" y="110" width="200" height="180" rx="12" fill="url(#boxGrad3)" stroke="#d97706" stroke-width="2"/>
+  <text x="680" y="140" text-anchor="middle" font-size="15" font-weight="700" fill="#92400e">데이터 처리</text>
+  <text x="680" y="170" text-anchor="middle" font-size="12" fill="#92400e">필터 · 집계</text>
+  <text x="680" y="195" text-anchor="middle" font-size="12" fill="#92400e">변환 · 윈도우</text>
+  <text x="680" y="220" text-anchor="middle" font-size="12" fill="#92400e">라우팅 · 트리거</text>
+  <text x="680" y="245" text-anchor="middle" font-size="12" fill="#92400e">시간 동기화 · 데이터 신뢰성</text>
+  <text x="680" y="275" text-anchor="middle" font-size="11" fill="#a16207">실시간 · 안정적 처리</text>
+
+  <!-- Visualization / AI -->
+  <rect x="830" y="110" width="230" height="180" rx="12" fill="url(#boxGrad4)" stroke="#0d9488" stroke-width="2"/>
+  <text x="945" y="140" text-anchor="middle" font-size="15" font-weight="700" fill="#0f766e">시각화 · AI</text>
+  <text x="945" y="170" text-anchor="middle" font-size="12" fill="#0f766e">실시간 대시보드</text>
+  <text x="945" y="195" text-anchor="middle" font-size="12" fill="#0f766e">가속 기반 차트</text>
+  <text x="945" y="220" text-anchor="middle" font-size="12" fill="#0f766e">ML 추론</text>
+  <text x="945" y="245" text-anchor="middle" font-size="12" fill="#0f766e">엣지·중앙 통합 AI</text>
+  <text x="945" y="275" text-anchor="middle" font-size="11" fill="#0f766e">Model Registry · MLOps</text>
+
+  <!-- Arrows -->
+  <line x1="245" y1="200" x2="285" y2="200" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="535" y1="200" x2="575" y2="200" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="785" y1="200" x2="825" y2="200" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Bottom feature pills -->
+  <g font-size="11" font-weight="600">
+    <rect x="40" y="320" width="160" height="32" rx="16" fill="#eef2ff" stroke="#6366f1"/>
+    <text x="120" y="340" text-anchor="middle" fill="#4338ca">데이터 연결성</text>
+    <rect x="210" y="320" width="170" height="32" rx="16" fill="#fee2e2" stroke="#ef4444"/>
+    <text x="295" y="340" text-anchor="middle" fill="#b91c1c">실시간 처리</text>
+    <rect x="390" y="320" width="170" height="32" rx="16" fill="#dcfce7" stroke="#22c55e"/>
+    <text x="475" y="340" text-anchor="middle" fill="#15803d">시각화 · 분석</text>
+    <rect x="570" y="320" width="160" height="32" rx="16" fill="#f3e8ff" stroke="#a855f7"/>
+    <text x="650" y="340" text-anchor="middle" fill="#7e22ce">엣지 AI · MLOps</text>
+    <rect x="740" y="320" width="160" height="32" rx="16" fill="#cffafe" stroke="#06b6d4"/>
+    <text x="820" y="340" text-anchor="middle" fill="#0e7490">워크플로우 자동화</text>
+    <rect x="910" y="320" width="150" height="32" rx="16" fill="#fef3c7" stroke="#f59e0b"/>
+    <text x="985" y="340" text-anchor="middle" fill="#a16207">엔터프라이즈 보안</text>
+  </g>
+</svg>

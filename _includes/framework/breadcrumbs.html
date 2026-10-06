@@ -1,6 +1,7 @@
+{% assign T = site.data.i18n[site.active_lang] %}
 <div class="breadcrumbs">
   {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
-  <a href="/">Home</a>
+  <a href="/">{{ T.ui.home | default: "Home" }}</a>
   {% for crumb in crumbs offset: 1 %}
     {% if forloop.last %}
       /

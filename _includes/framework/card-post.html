@@ -1,3 +1,4 @@
+{% assign T = site.data.i18n[site.active_lang] %}
 {% assign title = include.title %}
 {% assign description = include.description %}
 {% assign thumbnail = include.thumbnail %}
@@ -72,7 +73,7 @@
 
     {% if url and show_read_more %}
       <div class="card-readmore">
-        <a href="{{ url | relative_url }}">Read More<i class="fas fa-long-arrow-alt-right"></i>
+        <a href="{{ url | relative_url }}">{{ T.ui.read_more | default: "Read More" }}<i class="fas fa-long-arrow-alt-right"></i>
         </a>
       </div>
     {% endif %}
